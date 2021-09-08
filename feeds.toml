@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[japscan]
+title = "Japscan one piece"
+url = "https://www.japscan.ws/manga/one-piece/"
+entrySelector = ".chapters_list .text-truncate"
+titleSelector = "a"
+linkSelector = ".text-dark"
