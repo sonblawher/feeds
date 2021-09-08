@@ -15,6 +15,6 @@ linkSelector = "h2 a"
 [japscan]
 title = "Japscan one piece"
 url = "https://www.japscan.ws/manga/one-piece/"
-entrySelector = ".chapters_list .text-truncate"
+entrySelector = ".chapters_list"
 titleSelector = "a"
 linkSelector = ".text-dark"
