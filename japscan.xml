@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.japscan.ws/manga/one-piece/</id>
     <title>Japscan one piece</title>
-    <updated>2021-09-23T05:37:55.264Z</updated>
+    <updated>2021-09-24T05:36:20.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.japscan.ws/manga/one-piece/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[One Piece 1026 VF: Attention : RAW
+																			RAW]]></title>
+        <id>https://www.japscan.ws/lecture-en-ligne/one-piece/1026/</id>
+        <link href="https://www.japscan.ws/lecture-en-ligne/one-piece/1026/"/>
+        <updated>2021-09-24T05:36:18.684Z</updated>
+        <content type="html"><![CDATA[<span class="float-right">23 Sep 2021</span>
+								<a class="text-dark" href="/lecture-en-ligne/one-piece/1026/">
+									One Piece 1026 VF: Attention : RAW
+																			<span class="badge badge-primary">RAW</span>
+																	</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Piece 1025 VF: Dragons jumeaux]]></title>
         <id>https://www.japscan.ws/lecture-en-ligne/one-piece/1025/</id>

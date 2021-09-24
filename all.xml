@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-23T05:37:55.325Z</updated>
+    <updated>2021-09-24T05:36:20.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ljubljana (Wikivoyage recommendations)]]></title>
@@ -57,6 +57,18 @@
 <p>	<img alt="Game of Thrones tourism" src="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/1700px-GoTBanner1.jpg" decoding="async" title="Game of Thrones tourism" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/2550px-GoTBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/3400px-GoTBanner1.jpg 2x" data-file-width="3600" data-file-height="1200" width="1700" height="567">
 </p>
 	<a href="/wiki/Game_of_Thrones_tourism" title="Game of Thrones tourism"><img alt="Game of Thrones tourism" src="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/1700px-GoTBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/2550px-GoTBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/3400px-GoTBanner1.jpg 2x" data-file-width="3600" data-file-height="1200" width="1700" height="567"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Piece 1026 VF: Attention : RAW
+																			RAW (Japscan one piece)]]></title>
+        <id>https://www.japscan.ws/lecture-en-ligne/one-piece/1026/</id>
+        <link href="https://www.japscan.ws/lecture-en-ligne/one-piece/1026/"/>
+        <updated>2021-09-24T05:36:18.684Z</updated>
+        <content type="html"><![CDATA[<span class="float-right">23 Sep 2021</span>
+								<a class="text-dark" href="/lecture-en-ligne/one-piece/1026/">
+									One Piece 1026 VF: Attention : RAW
+																			<span class="badge badge-primary">RAW</span>
+																	</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[One Piece 1025 VF: Dragons jumeaux (Japscan one piece)]]></title>
