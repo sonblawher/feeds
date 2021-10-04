@@ -2,19 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.japscan.ws/manga/one-piece/</id>
     <title>Japscan one piece</title>
-    <updated>2021-10-03T05:37:08.393Z</updated>
+    <updated>2021-10-04T17:43:45.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.japscan.ws/manga/one-piece/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[One Piece 1027 VF: An Unbelievable Disaster
-																			VUS]]></title>
+        <title type="html"><![CDATA[One Piece 1027 VF: Un péril qui dépasse l'imagination]]></title>
         <id>https://www.japscan.ws/lecture-en-ligne/one-piece/1027/</id>
         <link href="https://www.japscan.ws/lecture-en-ligne/one-piece/1027/"/>
         <updated>2021-10-01T05:36:16.880Z</updated>
-        <content type="html"><![CDATA[<span class="float-right">01 Oct 2021</span>
+        <content type="html"><![CDATA[<span class="float-right">04 Oct 2021</span>
 								<a class="text-dark" href="/lecture-en-ligne/one-piece/1027/">
-									One Piece 1027 VF: An Unbelievable Disaster
-																			<span class="badge badge-primary">VUS</span>
+									One Piece 1027 VF: Un péril qui dépasse l'imagination
 																	</a>]]></content>
     </entry>
     <entry>
