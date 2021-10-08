@@ -1,6 +1,34 @@
-[japscan]
+[japscan kingdom]
+title = "Japscan kindom"
+url = "https://www.japscan.ws/manga/kingdom/"
+entrySelector = ".chapters_list"
+titleSelector = "a"
+linkSelector = ".text-dark"
+
+[japscan bc]
+title = "Japscan black clover"
+url = "https://www.japscan.ws/manga/black-clover/"
+entrySelector = ".chapters_list"
+titleSelector = "a"
+linkSelector = ".text-dark"
+
+[japscan ghost]
+title = "Japscan ghost"
+url = "https://www.japscan.ws/manga/ghost-girl/"
+entrySelector = ".chapters_list"
+titleSelector = "a"
+linkSelector = ".text-dark"
+
+[japscan-op]
 title = "Japscan one piece"
 url = "https://www.japscan.ws/manga/one-piece/"
 entrySelector = ".chapters_list"
 titleSelector = "a"
 linkSelector = ".text-dark"
+
+[magazine]
+title = "informatique"
+url = "https://www.wawacity.one/?p=ebooks&s=magazines&genre=informatique"
+entrySelector = ".wa-block"
+titleSelector = "flag-fr"
+linkSelector = "a"
