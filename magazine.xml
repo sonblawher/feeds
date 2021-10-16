@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sonblawher.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-16T15:36:59.056Z</updated>
+    <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
+    <title>informatique</title>
+    <updated>2021-10-16T15:36:59.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[0]]></title>
         <id>https://www.wawacity.one/?p=films</id>
         <link href="https://www.wawacity.one/?p=films"/>
         <updated>2021-10-16T15:36:58.338Z</updated>
@@ -195,7 +196,7 @@
 						</ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://www.wawacity.one/?p=films&amp;s=magazines&amp;genre=action</id>
         <link href="https://www.wawacity.one/?p=films&amp;s=magazines&amp;genre=action"/>
         <updated>2021-10-16T15:36:58.342Z</updated>
@@ -290,9 +291,9 @@
 												</ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://sonblawher.github.io/feeds/all.xml</id>
-        <link href="https://sonblawher.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
+        <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
         <updated>2021-10-16T15:36:58.348Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
@@ -976,7 +977,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://www.wawacity.one/?p=login</id>
         <link href="https://www.wawacity.one/?p=login"/>
         <updated>2021-10-16T15:36:58.349Z</updated>
@@ -988,7 +989,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 													</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwawacity.one/&amp;t=Chercher%20%C2%BB%20Wawacity%20-%20Site%20de%20T%C3%A9l%C3%A9chargement%20Gratuit</id>
         <link href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwawacity.one/&amp;t=Chercher%20%C2%BB%20Wawacity%20-%20Site%20de%20T%C3%A9l%C3%A9chargement%20Gratuit"/>
         <updated>2021-10-16T15:36:58.349Z</updated>
@@ -1000,7 +1001,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://www.wawacity.one/?p=film&amp;id=27831-les-bleus</id>
         <link href="https://www.wawacity.one/?p=film&amp;id=27831-les-bleus"/>
         <updated>2021-10-16T15:36:58.351Z</updated>
@@ -1019,7 +1020,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 													</ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://www.wawacity.one/?p=serie&amp;id=11373-supergirl-saison6</id>
         <link href="https://www.wawacity.one/?p=serie&amp;id=11373-supergirl-saison6"/>
         <updated>2021-10-16T15:36:58.351Z</updated>
@@ -1038,7 +1039,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 													</ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://www.wawacity.one/?p=film&amp;id=27780-canicule</id>
         <link href="https://www.wawacity.one/?p=film&amp;id=27780-canicule"/>
         <updated>2021-10-16T15:36:58.353Z</updated>
@@ -1057,7 +1058,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 													</ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://www.wawacity.one/?p=serie&amp;id=12418-see-saison2</id>
         <link href="https://www.wawacity.one/?p=serie&amp;id=12418-see-saison2"/>
         <updated>2021-10-16T15:36:58.353Z</updated>
