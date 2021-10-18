@@ -4,3 +4,10 @@ url = "https://www.wawacity.one/?p=ebooks&s=magazines&genre=informatique"
 entrySelector = ".wa-block"
 titleSelector = "flag-fr"
 linkSelector = "a"
+
+[magazine bis]
+title = "informatique"
+url = "https://ww2.bookys-ebooks.com/magazines/informatique"
+entrySelector = ".bys-items-container"
+titleSelector = "b"
+linkSelector = "a"
