@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-17T17:41:29.771Z</updated>
+    <updated>2021-10-18T05:36:24.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -293,7 +293,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-10-17T17:41:28.947Z</updated>
+        <updated>2021-10-18T05:36:24.231Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,11 +1001,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=27837-un-tour-chez-ma-fille</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=27837-un-tour-chez-ma-fille"/>
-        <updated>2021-10-17T17:41:28.956Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=27839-un-tour-chez-ma-fille</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=27839-un-tour-chez-ma-fille"/>
+        <updated>2021-10-18T05:36:24.239Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=27839-un-tour-chez-ma-fille">Un tour chez ma fille<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27838-un-tour-chez-ma-fille">Un tour chez ma fille<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=27837-un-tour-chez-ma-fille">Un tour chez ma fille<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=27836-un-tour-chez-ma-fille">Un tour chez ma fille<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=27835-trop-d-amour">Trop d'amour<i> [WEB-DL 1080p] - FRENCH</i></a></li>
@@ -1014,65 +1016,61 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=27832-trop-d-amour">Trop d'amour<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=27831-les-bleus">Les Bleus<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=27830-m-decin-de-nuit">Médecin de nuit<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27829-m-decin-de-nuit">Médecin de nuit<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27828-the-suicide-squad">The Suicide Squad<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13040-the-big-leap-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13040-the-big-leap-saison1"/>
-        <updated>2021-10-17T17:41:28.958Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12768-motherland-fort-salem-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12768-motherland-fort-salem-saison2"/>
+        <updated>2021-10-18T05:36:24.240Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1">The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13039-the-big-leap-saison1">The Big Leap - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13023-ghosts-us-saison1">Ghosts (US) - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13022-ghosts-us-saison1">Ghosts (US) - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12936-du-g-nie-sous-la-toque-saison1">Du génie sous la toque - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12934-du-g-nie-sous-la-toque-saison1">Du génie sous la toque - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13076-courage-le-chien-froussard-saison4">Courage, le chien froussard - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13075-courage-le-chien-froussard-saison3">Courage, le chien froussard - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12768-motherland-fort-salem-saison2">Motherland: Fort Salem - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12769-motherland-fort-salem-saison2">Motherland: Fort Salem - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=10893-good-trouble-saison3">Good Trouble - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=10892-good-trouble-saison3">Good Trouble - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13082-the-l-word-generation-q-saison2">The L Word: Generation Q - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13081-the-l-word-generation-q-saison2">The L Word: Generation Q - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12980-kin-saison1">Kin - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12979-kin-saison1">Kin - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13080-departure-saison2">Departure - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13079-departure-saison2">Departure - Saison 2<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=27780-canicule</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=27780-canicule"/>
-        <updated>2021-10-16T15:36:58.353Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=27837-un-tour-chez-ma-fille</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=27837-un-tour-chez-ma-fille"/>
+        <updated>2021-10-17T17:41:28.956Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=27780-canicule"><b>1</b> - Canicule<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27784-canicule"><b>2</b> - Canicule<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=27802-i-onde-dager"><b>3</b> - I onde dager<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27736-blanche-neige-et-le-chasseur"><b>4</b> - Blanche-Neige et le chasseur<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=27727-les-miserables"><b>5</b> - Les Miserables<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27706-odd-thomas-contre-les-cr-atures-de-l-ombre"><b>6</b> - Odd Thomas contre les créatures de l'ombre<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27791-kill-bill-volume-1"><b>7</b> - Kill Bill: Volume 1<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=27703-johnny-english-contre-attaque"><b>8</b> - Johnny English contre-attaque<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=27742-old"><b>9</b> - Old<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=27748-muppets-haunted-mansion"><b>10</b> - Muppets Haunted Mansion<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27837-un-tour-chez-ma-fille"><b>1</b> - Un tour chez ma fille<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27832-trop-d-amour"><b>2</b> - Trop d'amour<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27833-un-tour-chez-ma-fille"><b>3</b> - Un tour chez ma fille<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27834-trop-d-amour"><b>4</b> - Trop d'amour<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27835-trop-d-amour"><b>5</b> - Trop d'amour<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27836-un-tour-chez-ma-fille"><b>6</b> - Un tour chez ma fille<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27838-un-tour-chez-ma-fille"><b>7</b> - Un tour chez ma fille<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=27839-un-tour-chez-ma-fille"><b>8</b> - Un tour chez ma fille<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12418-see-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12418-see-saison2"/>
-        <updated>2021-10-16T15:36:58.353Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12651-dr-death-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12651-dr-death-saison1"/>
+        <updated>2021-10-18T05:36:24.242Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12418-see-saison2"><b>1</b> - See - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12397-american-horror-stories-saison1"><b>3</b> - American Horror Stories - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12807-foundation-saison1"><b>4</b> - Foundation - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12806-foundation-saison1"><b>5</b> - Foundation - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=11373-supergirl-saison6"><b>6</b> - Supergirl - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12322-heels-saison1"><b>7</b> - Heels - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12605-chicago-fire-saison9"><b>8</b> - Chicago Fire - Saison 9<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=10842-s-w-a-t-2017-saison4"><b>9</b> - S.W.A.T. (2017) - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12651-dr-death-saison1"><b>10</b> - Dr. Death - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12651-dr-death-saison1"><b>1</b> - Dr. Death - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12652-dr-death-saison1"><b>2</b> - Dr. Death - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12768-motherland-fort-salem-saison2"><b>3</b> - Motherland: Fort Salem - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12656-les-enqu-tes-de-murdoch-saison14"><b>4</b> - Les Enquêtes de Murdoch - Saison 14<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12659-dr-death-saison1"><b>5</b> - Dr. Death - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>6</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12836-doom-patrol-saison3"><b>7</b> - Doom Patrol - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"><b>8</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12654-sisterhood-saison1"><b>9</b> - Sisterhood - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12979-kin-saison1"><b>10</b> - Kin - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
