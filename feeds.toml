@@ -6,8 +6,15 @@ titleSelector = "flag-fr"
 linkSelector = "a"
 
 [magazine bis]
-title = "informatique"
+title = "informatique bis"
 url = "https://ww2.bookys-ebooks.com/magazines/informatique"
+entrySelector = ".bys-items-container"
+titleSelector = "b"
+linkSelector = "a"
+
+[movie]
+title = "informatique bis"
+url = "https://rarbgaccessed.org/torrents.php?category=movies"
 entrySelector = ".bys-items-container"
 titleSelector = "b"
 linkSelector = "a"
