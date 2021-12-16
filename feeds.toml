@@ -1,16 +1,16 @@
-#[magazine]
-#title = "informatique"
-#url = "https://www.wawacity.one/?p=ebooks&s=magazines&genre=informatique"
-#entrySelector = ".wa-block"
-#titleSelector = "flag-fr"
-#linkSelector = "a"
-
-[magazine bis]
-title = "informatique bis"
-url = "https://ww2.bookys-ebooks.com/magazines/informatique"
-entrySelector = ".bys-items-container"
-titleSelector = ".item-details > b"
+[magazine]
+title = "informatique"
+url = "https://www.wawacity.one/?p=ebooks&s=magazines&genre=informatique"
+entrySelector = ".wa-block"
+titleSelector = "flag-fr"
 linkSelector = "a"
+
+#[magazine bis]
+#title = "informatique bis"
+#url = "https://ww2.bookys-ebooks.com/magazines/informatique"
+#entrySelector = ".bys-items-container"
+#titleSelector = ".item-details > b"
+#linkSelector = "a"
 
 #[movie]
 #title = "informatique bis"
