@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-17T05:37:12.475Z</updated>
+    <updated>2021-12-17T17:43:57.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -293,7 +293,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-12-17T05:37:11.825Z</updated>
+        <updated>2021-12-17T17:43:56.854Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -466,6 +466,51 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
+											<div title="75% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 75%;"></div>
+							<div class="progress-desc">4 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><img alt="Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/66c6c6e6255375beed6c4621394fdb52.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								ven. 17 déc. 2021							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le magazine de la micro-informatique personnelle Pour tirer le meilleur parti de votre PC… mais aussi de tous les appareils connectés : périphériques, appareil photo, smartphone… Avec Micro Pratiq...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Micro Pratique" rel="nofollow">Micro Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35276-micro-pratique-n-304-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique N°304 – Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -507,9 +552,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35276-micro-pratique-n-304-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35260-windows-et-internet-pratique-n-116-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°116 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -857,49 +900,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=34159-01net-n-961-du-20-octobre-2021" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=34143-l-informaticien-n-199-septembre-2021"><i class="flag flag-fr"></i> L’Informaticien N°199 – Septembre 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=34143-l-informaticien-n-199-septembre-2021"><img alt="L’Informaticien N°199 – Septembre 2021 [Magazines]" src="/img/ebooks/ddee9104eca6bb63422b32359f134a6b.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								mer. 20 oct. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>L’Informaticien est le magazine mensuel des décideurs IT développant une ligne éditoriale à forte dominante technologique. L’Informaticien maintient un strict équilibre entre plates-formes libres ...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=L’Informaticien" rel="nofollow">L’Informaticien</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=34143-l-informaticien-n-199-septembre-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -999,40 +999,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29074-la-famille-addams-2-une-vir-e-d-enfer</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29074-la-famille-addams-2-une-vir-e-d-enfer"/>
-        <updated>2021-12-17T05:37:11.827Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29090-spider-man-homecoming</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29090-spider-man-homecoming"/>
+        <updated>2021-12-17T17:43:56.859Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29074-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29073-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29072-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29071-affam-s">Affamés<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29070-affam-s">Affamés<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29069-affam-s">Affamés<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29068-meilleurs-voeux-de-lagos">Meilleurs voeux de Lagos<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29067-meilleurs-voeux-de-lagos">Meilleurs voeux de Lagos<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29066-meilleurs-voeux-de-lagos">Meilleurs voeux de Lagos<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29065-un-no-l-en-californie-les-lumi-res-de-la-ville">Un Noël en Californie : Les lumières de la ville<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29090-spider-man-homecoming">Spider-Man: Homecoming<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29089-les-enqu-tes-du-d-partement-v-d-livrance">Les Enquêtes du Département V : Délivrance<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29088-animal-kingdom">Animal Kingdom<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29087-final-fantasy-les-cr-atures-de-l-esprit">Final fantasy, les créatures de l'esprit<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29086-un-gar-on-nomm-no-l">Un garçon nommé Noël<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29085-un-gar-on-nomm-no-l">Un garçon nommé Noël<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29084-un-gar-on-nomm-no-l">Un garçon nommé Noël<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29083-swan-song">Swan Song<i> [WEB-DL 4K] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29082-swan-song">Swan Song<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29081-swan-song">Swan Song<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1"/>
-        <updated>2021-12-17T05:37:11.827Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13627-fast-furious-les-espions-dans-la-course-saison6</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13627-fast-furious-les-espions-dans-la-course-saison6"/>
+        <updated>2021-12-17T17:43:56.860Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13614-station-eleven-saison1">Station Eleven - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13613-stargirl-saison2">Stargirl - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13612-our-kind-of-people-saison1">Our Kind Of People - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13611-station-eleven-saison1">Station Eleven - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13610-stargirl-saison2">Stargirl - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13609-our-kind-of-people-saison1">Our Kind Of People - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13627-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13629-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13622-the-witcher-saison2">The Witcher - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13621-the-witcher-saison2">The Witcher - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13628-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13617-the-witcher-saison2">The Witcher - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13618-the-witcher-saison2">The Witcher - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13626-decoupled-saison1">Decoupled - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13625-decoupled-saison1">Decoupled - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13624-bj-rnstad-saison1">Björnstad - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,9 +1046,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29012-c-est-la-vie"><b>2</b> - C'est la vie<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=28999-identity"><b>3</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>4</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28994-copshop"><b>5</b> - Copshop<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>6</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>7</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>5</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=28994-copshop"><b>6</b> - Copshop<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>7</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29069-affam-s"><b>8</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=28993-pil"><b>9</b> - Pil<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=28998-copshop"><b>10</b> - Copshop<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1056,21 +1056,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13468-hawkeye-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13468-hawkeye-saison1"/>
-        <updated>2021-12-16T12:38:48.686Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13411-la-roue-du-temps-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13411-la-roue-du-temps-saison1"/>
+        <updated>2021-12-17T17:43:56.862Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13468-hawkeye-saison1"><b>1</b> - Hawkeye - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>2</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>3</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13083-succession-saison3"><b>4</b> - Succession - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>5</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13411-la-roue-du-temps-saison1"><b>1</b> - La Roue du Temps - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13468-hawkeye-saison1"><b>2</b> - Hawkeye - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>3</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>4</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13083-succession-saison3"><b>5</b> - Succession - Saison 3<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13084-succession-saison3"><b>6</b> - Succession - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>7</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>8</b> - Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>9</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13359-dopesick-saison1"><b>10</b> - Dopesick - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>7</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>8</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>9</b> - Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>10</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
