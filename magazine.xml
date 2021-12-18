@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2021-12-18T05:37:36.746Z</updated>
+    <updated>2021-12-18T17:44:20.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2021-12-18T05:37:36.009Z</updated>
+        <updated>2021-12-18T17:44:19.401Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,10 +467,55 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022"><i class="flag flag-fr"></i> Pirate Informatique N°51 – Janvier-Mars 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022"><img alt="Pirate Informatique N°51 – Janvier-Mars 2022 [Magazines]" src="/img/ebooks/1f251cbb57a4bd357950d2972cfbe6bb.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								sam. 18 déc. 2021							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Les news, logiciels et tendances 100% sécurité informatique, hacking et nouvelles technologies. Des sujets clairs et pratiques pour décrypter l’info, se protéger et tout savoir sur les dernières t...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Pirate Informatique" rel="nofollow">Pirate Informatique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
-											<div title="80% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 80%;"></div>
-							<div class="progress-desc">5 vote(s)</div>
+											<div title="83.333333333333% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 83.333333333333%;"></div>
+							<div class="progress-desc">6 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -508,14 +553,12 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35276-micro-pratique-n-304-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique N°304 – Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">13 vote(s)</div>
+							<div class="progress-desc">14 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -858,49 +901,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=34325-internet-pratique-n-9-mai-juillet-2021" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=34159-01net-n-961-du-20-octobre-2021"><i class="flag flag-fr"></i> 01Net N°961 Du 20 Octobre 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">11 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=34159-01net-n-961-du-20-octobre-2021"><img alt="01Net N°961 Du 20 Octobre 2021 [Magazines]" src="/img/ebooks/c71ac631a91cf67d7efef923f459f0f0.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								mer. 20 oct. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Né de la fusion des magazines Micro hebdo et l’Ordinateur individuel, 01Net a pour ambition de vous accompagner dans le nouveau monde numérique qui révolutionne votre vie quotidienne. Vous y retro...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=01Net" rel="nofollow">01Net</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=34159-01net-n-961-du-20-octobre-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1000,59 +1000,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29105-bac-nord</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29105-bac-nord"/>
-        <updated>2021-12-18T05:37:36.018Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29112-les-fantasmes</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29112-les-fantasmes"/>
+        <updated>2021-12-18T17:44:19.404Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29112-les-fantasmes">Les Fantasmes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29111-les-fantasmes">Les Fantasmes<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29110-les-fantasmes">Les Fantasmes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29109-attention-au-d-part">Attention au départ !<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29108-attention-au-d-part">Attention au départ !<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29107-attention-au-d-part">Attention au départ !<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29106-mourir-peut-attendre">Mourir peut attendre<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29105-bac-nord">Bac Nord<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29104-bac-nord">Bac Nord<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29103-bac-nord">Bac Nord<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29102-bac-nord">Bac Nord<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29101-bac-nord">Bac Nord<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29100-detective-conan-the-scarlet-bullet">Detective Conan - The Scarlet Bullet<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29099-detective-conan-the-scarlet-bullet">Detective Conan - The Scarlet Bullet<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29098-smiley-face-killers">Smiley Face Killers<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29097-smiley-face-killers">Smiley Face Killers<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29096-smiley-face-killers">Smiley Face Killers<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13592-csi-vegas-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13592-csi-vegas-saison1"/>
-        <updated>2021-12-18T05:37:36.021Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13632-and-just-like-that-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13632-and-just-like-that-saison1"/>
+        <updated>2021-12-18T17:44:19.405Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13592-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=10841-s-w-a-t-2017-saison4">S.W.A.T. (2017) - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13591-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=10842-s-w-a-t-2017-saison4">S.W.A.T. (2017) - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13062-the-good-fight-saison5">The Good Fight - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13061-the-good-fight-saison5">The Good Fight - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13623-bj-rnstad-saison1">Björnstad - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13624-bj-rnstad-saison1">Björnstad - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13629-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13630-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13632-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=11833-chicago-police-department-saison8">Chicago Police Department - Saison 8<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=11834-chicago-police-department-saison8">Chicago Police Department - Saison 8<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13606-sissi-saison1">Sissi - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13605-sissi-saison1">Sissi - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12878-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29001-ghostland</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29001-ghostland"/>
-        <updated>2021-12-16T12:38:48.684Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29101-bac-nord</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29101-bac-nord"/>
+        <updated>2021-12-18T17:44:19.406Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29001-ghostland"><b>1</b> - Ghostland<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29012-c-est-la-vie"><b>2</b> - C'est la vie<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28999-identity"><b>3</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>4</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>5</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29101-bac-nord"><b>1</b> - Bac Nord<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29001-ghostland"><b>2</b> - Ghostland<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29012-c-est-la-vie"><b>3</b> - C'est la vie<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=28999-identity"><b>4</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>5</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29069-affam-s"><b>6</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28994-copshop"><b>7</b> - Copshop<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>8</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28993-pil"><b>9</b> - Pil<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28998-copshop"><b>10</b> - Copshop<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29010-c-est-la-vie"><b>7</b> - C'est la vie<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>8</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>9</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29053-the-french-dispatch"><b>10</b> - The French Dispatch<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1070,8 +1070,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>6</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13084-succession-saison3"><b>7</b> - Succession - Saison 3<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=10842-s-w-a-t-2017-saison4"><b>8</b> - S.W.A.T. (2017) - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>9</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>10</b> - Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>9</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>10</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
