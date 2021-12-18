@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-17T17:43:57.522Z</updated>
+    <updated>2021-12-18T05:37:36.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -293,7 +293,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-12-17T17:43:56.854Z</updated>
+        <updated>2021-12-18T05:37:36.009Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,9 +467,9 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
-											<div title="75% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 75%;"></div>
-							<div class="progress-desc">4 vote(s)</div>
+											<div title="80% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 80%;"></div>
+							<div class="progress-desc">5 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -999,40 +999,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29090-spider-man-homecoming</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29090-spider-man-homecoming"/>
-        <updated>2021-12-17T17:43:56.859Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29105-bac-nord</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29105-bac-nord"/>
+        <updated>2021-12-18T05:37:36.018Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29090-spider-man-homecoming">Spider-Man: Homecoming<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29089-les-enqu-tes-du-d-partement-v-d-livrance">Les Enquêtes du Département V : Délivrance<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29088-animal-kingdom">Animal Kingdom<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29087-final-fantasy-les-cr-atures-de-l-esprit">Final fantasy, les créatures de l'esprit<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29086-un-gar-on-nomm-no-l">Un garçon nommé Noël<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29085-un-gar-on-nomm-no-l">Un garçon nommé Noël<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29084-un-gar-on-nomm-no-l">Un garçon nommé Noël<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29083-swan-song">Swan Song<i> [WEB-DL 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29082-swan-song">Swan Song<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29081-swan-song">Swan Song<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29105-bac-nord">Bac Nord<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29104-bac-nord">Bac Nord<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29103-bac-nord">Bac Nord<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29102-bac-nord">Bac Nord<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29101-bac-nord">Bac Nord<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29100-detective-conan-the-scarlet-bullet">Detective Conan - The Scarlet Bullet<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29099-detective-conan-the-scarlet-bullet">Detective Conan - The Scarlet Bullet<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29098-smiley-face-killers">Smiley Face Killers<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29097-smiley-face-killers">Smiley Face Killers<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29096-smiley-face-killers">Smiley Face Killers<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13627-fast-furious-les-espions-dans-la-course-saison6</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13627-fast-furious-les-espions-dans-la-course-saison6"/>
-        <updated>2021-12-17T17:43:56.860Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13592-csi-vegas-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13592-csi-vegas-saison1"/>
+        <updated>2021-12-18T05:37:36.021Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13627-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13629-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13622-the-witcher-saison2">The Witcher - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13621-the-witcher-saison2">The Witcher - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13628-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13617-the-witcher-saison2">The Witcher - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13618-the-witcher-saison2">The Witcher - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13626-decoupled-saison1">Decoupled - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13625-decoupled-saison1">Decoupled - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13592-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=10841-s-w-a-t-2017-saison4">S.W.A.T. (2017) - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13591-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=10842-s-w-a-t-2017-saison4">S.W.A.T. (2017) - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13062-the-good-fight-saison5">The Good Fight - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13061-the-good-fight-saison5">The Good Fight - Saison 5<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13623-bj-rnstad-saison1">Björnstad - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13624-bj-rnstad-saison1">Björnstad - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13629-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13630-fast-furious-les-espions-dans-la-course-saison6">Fast &amp; Furious : Les espions dans la course - Saison 6<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,9 +1047,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=28999-identity"><b>3</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>4</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>5</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28994-copshop"><b>6</b> - Copshop<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>7</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29069-affam-s"><b>8</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29069-affam-s"><b>6</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=28994-copshop"><b>7</b> - Copshop<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>8</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=28993-pil"><b>9</b> - Pil<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=28998-copshop"><b>10</b> - Copshop<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
@@ -1066,11 +1066,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>3</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>4</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13083-succession-saison3"><b>5</b> - Succession - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13084-succession-saison3"><b>6</b> - Succession - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>7</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>8</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>9</b> - Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>10</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>6</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13084-succession-saison3"><b>7</b> - Succession - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=10842-s-w-a-t-2017-saison4"><b>8</b> - S.W.A.T. (2017) - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>9</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>10</b> - Hightown - Saison 2<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
