@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-18T17:44:20.018Z</updated>
+    <updated>2021-12-19T05:37:37.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -293,7 +293,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-12-18T17:44:19.401Z</updated>
+        <updated>2021-12-19T05:37:36.808Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -469,7 +469,7 @@
 					<a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022"><i class="flag flag-fr"></i> Pirate Informatique N°51 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -512,9 +512,9 @@
 						<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
-											<div title="83.333333333333% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 83.333333333333%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+											<div title="85.714285714286% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 85.714285714286%;"></div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1018,21 +1018,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13632-and-just-like-that-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13632-and-just-like-that-saison1"/>
-        <updated>2021-12-18T17:44:19.405Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5"/>
+        <updated>2021-12-19T05:37:36.816Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13632-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=11833-chicago-police-department-saison8">Chicago Police Department - Saison 8<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=11834-chicago-police-department-saison8">Chicago Police Department - Saison 8<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5">Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13438-gomorra-saison5">Gomorra - Saison 5<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13606-sissi-saison1">Sissi - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13605-sissi-saison1">Sissi - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12878-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13065-legacies-saison4">Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13066-legacies-saison4">Legacies - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13437-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13436-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,12 +1045,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29101-bac-nord"><b>1</b> - Bac Nord<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29001-ghostland"><b>2</b> - Ghostland<i> [HDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29012-c-est-la-vie"><b>3</b> - C'est la vie<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28999-identity"><b>4</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>5</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29069-affam-s"><b>6</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29069-affam-s"><b>4</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=28999-identity"><b>5</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>6</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29010-c-est-la-vie"><b>7</b> - C'est la vie<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>8</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>9</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>8</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>9</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29053-the-french-dispatch"><b>10</b> - The French Dispatch<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
