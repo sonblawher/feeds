@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2021-12-20T05:38:34.551Z</updated>
+    <updated>2021-12-20T17:46:59.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2021-12-20T05:38:33.886Z</updated>
+        <updated>2021-12-20T17:46:58.910Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,10 +467,57 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><img alt="PC Trucs et Astuces N°45 – Janvier-Mars 2022 [Magazines]" src="/img/ebooks/77b7aa3de91c0e008766ed63e2eea9af.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								lun. 20 déc. 2021							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Des guides thématiques exclusifs pour maîtriser et doper son PC.
+
+Un magazine 100% fiches pratiques et astuces....</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=PC Trucs et Astuces" rel="nofollow">PC Trucs et Astuces</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35471-silicon-n-9-janvier-2022"><i class="flag flag-fr"></i> Silicon N°9 – Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
+							<div class="progress-desc">2 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -508,14 +555,12 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35471-silicon-n-9-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022"><i class="flag flag-fr"></i> Pirate Informatique N°51 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">12 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -556,9 +601,9 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
-											<div title="88.888888888889% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 88.888888888889%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+											<div title="92.307692307692% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 92.307692307692%;"></div>
+							<div class="progress-desc">13 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -856,51 +901,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=34643-micro-pratique-n-303-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=34458-programmez-n-249-novembre-d-cembre-2021"><i class="flag flag-fr"></i> Programmez N°249 – Novembre-Décembre 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=34458-programmez-n-249-novembre-d-cembre-2021"><img alt="Programmez N°249 – Novembre-Décembre 2021 [Magazines]" src="/img/ebooks/c54c04d2f14d86d01af97d596d656d5b.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								mer. 03 nov. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
-
-Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=34458-programmez-n-249-novembre-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1000,74 +1000,78 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29118-berlin-alexanderplatz</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29118-berlin-alexanderplatz"/>
-        <updated>2021-12-19T17:44:50.730Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29133-the-seagull</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29133-the-seagull"/>
+        <updated>2021-12-20T17:46:58.919Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29118-berlin-alexanderplatz">Berlin Alexanderplatz<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29117-berlin-alexanderplatz">Berlin Alexanderplatz<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29116-berlin-alexanderplatz">Berlin Alexanderplatz<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29115-les-amours-d-ana-s">Les Amours d'Anaïs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29114-les-amours-d-ana-s">Les Amours d'Anaïs<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29113-les-amours-d-ana-s">Les Amours d'Anaïs<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29112-les-fantasmes">Les Fantasmes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29111-les-fantasmes">Les Fantasmes<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29110-les-fantasmes">Les Fantasmes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29109-attention-au-d-part">Attention au départ !<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29133-the-seagull">The Seagull<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29132-the-seagull">The Seagull<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29131-the-seagull">The Seagull<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29130-the-seagull">The Seagull<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29129-the-seagull">The Seagull<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29127-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29126-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29125-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29124-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13641-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13641-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4"/>
-        <updated>2021-12-20T05:38:33.890Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1"/>
+        <updated>2021-12-20T17:46:58.921Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13641-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4">La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2">Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13072-hightown-saison2">Hightown - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13640-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4">La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13069-hightown-saison2">Hightown - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13070-hightown-saison2">Hightown - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13443-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13440-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13442-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13441-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13651-starstruck-saison1">Starstruck - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13650-starstruck-saison1">Starstruck - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13649-star-trek-short-treks-saison2">Star Trek: Short Treks - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13648-star-trek-short-treks-saison2">Star Trek: Short Treks - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13647-star-trek-short-treks-saison1">Star Trek: Short Treks - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13646-star-trek-short-treks-saison1">Star Trek: Short Treks - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13645-love-life-saison2">Love Life - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13434-all-american-saison4">All American - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29115-les-amours-d-ana-s</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29115-les-amours-d-ana-s"/>
-        <updated>2021-12-20T05:38:33.891Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29119-dream-horse</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29119-dream-horse"/>
+        <updated>2021-12-20T17:46:58.921Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29115-les-amours-d-ana-s"><b>1</b> - Les Amours d'Anaïs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29114-les-amours-d-ana-s"><b>2</b> - Les Amours d'Anaïs<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29117-berlin-alexanderplatz"><b>3</b> - Berlin Alexanderplatz<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29118-berlin-alexanderplatz"><b>4</b> - Berlin Alexanderplatz<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29113-les-amours-d-ana-s"><b>5</b> - Les Amours d'Anaïs<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29116-berlin-alexanderplatz"><b>6</b> - Berlin Alexanderplatz<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29119-dream-horse"><b>1</b> - Dream Horse<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass"><b>2</b> - Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29129-the-seagull"><b>3</b> - The Seagull<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29115-les-amours-d-ana-s"><b>4</b> - Les Amours d'Anaïs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29120-dream-horse"><b>5</b> - Dream Horse<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29121-dream-horse"><b>6</b> - Dream Horse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29122-dream-horse"><b>7</b> - Dream Horse<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29123-dream-horse"><b>8</b> - Dream Horse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29125-midnight-in-the-switchgrass"><b>9</b> - Midnight In The Switchgrass<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29126-midnight-in-the-switchgrass"><b>10</b> - Midnight In The Switchgrass<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13439-gomorra-saison5</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13439-gomorra-saison5"/>
-        <updated>2021-12-20T05:38:33.894Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1"/>
+        <updated>2021-12-20T17:46:58.921Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>1</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>2</b> - Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13069-hightown-saison2"><b>3</b> - Hightown - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13438-gomorra-saison5"><b>4</b> - Gomorra - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>5</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13606-sissi-saison1"><b>6</b> - Sissi - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5"><b>7</b> - Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13070-hightown-saison2"><b>8</b> - Hightown - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13072-hightown-saison2"><b>9</b> - Hightown - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1"><b>10</b> - And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>2</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>3</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>4</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>5</b> - Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13069-hightown-saison2"><b>7</b> - Hightown - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>8</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13315-yellowstone-saison4"><b>9</b> - Yellowstone - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13438-gomorra-saison5"><b>10</b> - Gomorra - Saison 5<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
