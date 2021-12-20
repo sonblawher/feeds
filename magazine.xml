@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2021-12-19T17:44:51.448Z</updated>
+    <updated>2021-12-20T05:38:34.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2021-12-19T17:44:50.725Z</updated>
+        <updated>2021-12-20T05:38:33.886Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1019,59 +1019,55 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13634-what-happened-in-oslo-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13634-what-happened-in-oslo-saison1"/>
-        <updated>2021-12-19T17:44:50.733Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13641-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13641-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4"/>
+        <updated>2021-12-20T05:38:33.890Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13634-what-happened-in-oslo-saison1">What Happened in Oslo - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13633-what-happened-in-oslo-saison1">What Happened in Oslo - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5">Gomorra - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13438-gomorra-saison5">Gomorra - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13606-sissi-saison1">Sissi - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13605-sissi-saison1">Sissi - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13065-legacies-saison4">Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13066-legacies-saison4">Legacies - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13641-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4">La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2">Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13072-hightown-saison2">Hightown - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13640-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4">La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13069-hightown-saison2">Hightown - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13070-hightown-saison2">Hightown - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13443-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13440-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13442-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13441-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29101-bac-nord</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29101-bac-nord"/>
-        <updated>2021-12-18T17:44:19.406Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29115-les-amours-d-ana-s</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29115-les-amours-d-ana-s"/>
+        <updated>2021-12-20T05:38:33.891Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29101-bac-nord"><b>1</b> - Bac Nord<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29001-ghostland"><b>2</b> - Ghostland<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29012-c-est-la-vie"><b>3</b> - C'est la vie<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29069-affam-s"><b>4</b> - Affamés<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=28999-identity"><b>5</b> - Identity<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29010-c-est-la-vie"><b>6</b> - C'est la vie<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29011-c-est-la-vie"><b>7</b> - C'est la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29020-onoda-10-000-nuits-dans-la-jungle"><b>8</b> - Onoda - 10 000 nuits dans la jungle<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29050-les-enqu-tes-du-d-partement-v-l-effet-papillon"><b>9</b> - Les Enquêtes du département V : L'Effet Papillon<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29053-the-french-dispatch"><b>10</b> - The French Dispatch<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29115-les-amours-d-ana-s"><b>1</b> - Les Amours d'Anaïs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29114-les-amours-d-ana-s"><b>2</b> - Les Amours d'Anaïs<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29117-berlin-alexanderplatz"><b>3</b> - Berlin Alexanderplatz<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29118-berlin-alexanderplatz"><b>4</b> - Berlin Alexanderplatz<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29113-les-amours-d-ana-s"><b>5</b> - Les Amours d'Anaïs<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29116-berlin-alexanderplatz"><b>6</b> - Berlin Alexanderplatz<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13411-la-roue-du-temps-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13411-la-roue-du-temps-saison1"/>
-        <updated>2021-12-17T17:43:56.862Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13439-gomorra-saison5</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13439-gomorra-saison5"/>
+        <updated>2021-12-20T05:38:33.894Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13411-la-roue-du-temps-saison1"><b>1</b> - La Roue du Temps - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13468-hawkeye-saison1"><b>2</b> - Hawkeye - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>3</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>4</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>5</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13083-succession-saison3"><b>6</b> - Succession - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13084-succession-saison3"><b>7</b> - Succession - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=10842-s-w-a-t-2017-saison4"><b>8</b> - S.W.A.T. (2017) - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>9</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>10</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>1</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>2</b> - Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13069-hightown-saison2"><b>3</b> - Hightown - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13438-gomorra-saison5"><b>4</b> - Gomorra - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>5</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13606-sissi-saison1"><b>6</b> - Sissi - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5"><b>7</b> - Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13070-hightown-saison2"><b>8</b> - Hightown - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13072-hightown-saison2"><b>9</b> - Hightown - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1"><b>10</b> - And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
