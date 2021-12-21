@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T17:46:59.557Z</updated>
+    <updated>2021-12-21T05:38:21.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -293,7 +293,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-12-20T17:46:58.910Z</updated>
+        <updated>2021-12-21T05:38:20.302Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -469,7 +469,7 @@
 					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -999,11 +999,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29133-the-seagull</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29133-the-seagull"/>
-        <updated>2021-12-20T17:46:58.919Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29134-le-docteur-jivago</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29134-le-docteur-jivago"/>
+        <updated>2021-12-21T05:38:20.308Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29134-le-docteur-jivago">Le Docteur Jivago<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29133-the-seagull">The Seagull<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29132-the-seagull">The Seagull<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29131-the-seagull">The Seagull<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1013,7 +1014,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29127-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29126-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29125-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29124-midnight-in-the-switchgrass">Midnight In The Switchgrass<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,7 +1045,7 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29119-dream-horse"><b>1</b> - Dream Horse<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass"><b>2</b> - Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29129-the-seagull"><b>3</b> - The Seagull<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29115-les-amours-d-ana-s"><b>4</b> - Les Amours d'Anaïs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29131-the-seagull"><b>4</b> - The Seagull<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29120-dream-horse"><b>5</b> - Dream Horse<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29121-dream-horse"><b>6</b> - Dream Horse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29122-dream-horse"><b>7</b> - Dream Horse<i> [BLU-RAY 720p] - FRENCH</i></a></li>
@@ -1068,8 +1068,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>5</b> - Hightown - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13069-hightown-saison2"><b>7</b> - Hightown - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>8</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13315-yellowstone-saison4"><b>9</b> - Yellowstone - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13315-yellowstone-saison4"><b>8</b> - Yellowstone - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>9</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13438-gomorra-saison5"><b>10</b> - Gomorra - Saison 5<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
