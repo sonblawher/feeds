@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-22T05:38:18.664Z</updated>
+    <updated>2021-12-22T17:46:20.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -293,7 +293,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-12-22T05:38:17.974Z</updated>
+        <updated>2021-12-22T17:46:20.333Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -999,40 +999,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29153-premier-contact</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29153-premier-contact"/>
-        <updated>2021-12-21T17:46:50.673Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29160-venom-let-there-be-carnage</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29160-venom-let-there-be-carnage"/>
+        <updated>2021-12-22T17:46:20.336Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29160-venom-let-there-be-carnage">Venom: Let There Be Carnage<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29159-venom-let-there-be-carnage">Venom: Let There Be Carnage<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29158-venom-let-there-be-carnage">Venom: Let There Be Carnage<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29157-venom-let-there-be-carnage">Venom: Let There Be Carnage<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29156-venom-let-there-be-carnage">Venom: Let There Be Carnage<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29155-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 1080p] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=29154-matrix-resurrections">Matrix Resurrections<i> [WEBRIP] - VO</i></a></li>
 															<li><a href="/?p=film&amp;id=29153-premier-contact">Premier Contact<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29152-un-espion-ordinaire">Un espion ordinaire<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29151-clash">Clash<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29150-out-of-death">Out Of Death<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29149-out-of-death">Out Of Death<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29148-out-of-death">Out Of Death<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29147-out-of-death">Out Of Death<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29146-out-of-death">Out Of Death<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29145-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29144-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13332-wakefield-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13332-wakefield-saison1"/>
-        <updated>2021-12-21T17:46:50.673Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13658-emily-in-paris-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13658-emily-in-paris-saison2"/>
+        <updated>2021-12-22T17:46:20.337Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13332-wakefield-saison1">Wakefield - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13333-wakefield-saison1">Wakefield - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12837-les-simpson-saison33">Les Simpson - Saison 33<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12838-les-simpson-saison33">Les Simpson - Saison 33<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13643-snowdrop-saison1">Snowdrop - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13642-snowdrop-saison1">Snowdrop - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13651-starstruck-saison1">Starstruck - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13650-starstruck-saison1">Starstruck - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13658-emily-in-paris-saison2">Emily in Paris - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13469-hawkeye-saison1">Hawkeye - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13468-hawkeye-saison1">Hawkeye - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13592-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13591-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13657-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13655-emily-in-paris-saison2">Emily in Paris - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13654-emily-in-paris-saison2">Emily in Paris - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13371-dopesick-saison1">Dopesick - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1043,34 +1043,34 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29119-dream-horse"><b>1</b> - Dream Horse<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass"><b>2</b> - Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29129-the-seagull"><b>3</b> - The Seagull<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29131-the-seagull"><b>4</b> - The Seagull<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29134-le-docteur-jivago"><b>5</b> - Le Docteur Jivago<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29153-premier-contact"><b>6</b> - Premier Contact<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29120-dream-horse"><b>7</b> - Dream Horse<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29121-dream-horse"><b>8</b> - Dream Horse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29122-dream-horse"><b>9</b> - Dream Horse<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29123-dream-horse"><b>10</b> - Dream Horse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29155-matrix-resurrections"><b>2</b> - Matrix Resurrections<i> [WEB-DL 1080p] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=29153-premier-contact"><b>3</b> - Premier Contact<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass"><b>4</b> - Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29129-the-seagull"><b>5</b> - The Seagull<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29131-the-seagull"><b>6</b> - The Seagull<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29134-le-docteur-jivago"><b>7</b> - Le Docteur Jivago<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29152-un-espion-ordinaire"><b>8</b> - Un espion ordinaire<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29120-dream-horse"><b>9</b> - Dream Horse<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29121-dream-horse"><b>10</b> - Dream Horse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1"/>
-        <updated>2021-12-20T17:46:58.921Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13468-hawkeye-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13468-hawkeye-saison1"/>
+        <updated>2021-12-22T17:46:20.342Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>2</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>3</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>4</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>5</b> - Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13069-hightown-saison2"><b>7</b> - Hightown - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13315-yellowstone-saison4"><b>8</b> - Yellowstone - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13040-the-big-leap-saison1"><b>9</b> - The Big Leap - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13606-sissi-saison1"><b>10</b> - Sissi - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13468-hawkeye-saison1"><b>1</b> - Hawkeye - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>2</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>3</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>4</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>5</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>6</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>7</b> - Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>8</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13359-dopesick-saison1"><b>9</b> - Dopesick - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13069-hightown-saison2"><b>10</b> - Hightown - Saison 2<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
