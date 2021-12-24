@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2021-12-24T05:38:23.095Z</updated>
+    <updated>2021-12-24T17:45:33.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2021-12-24T05:38:22.405Z</updated>
+        <updated>2021-12-24T17:45:32.957Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29177-bo-te-noire</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29177-bo-te-noire"/>
-        <updated>2021-12-24T05:38:22.408Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29191-l-equip-e-sauvage</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29191-l-equip-e-sauvage"/>
+        <updated>2021-12-24T17:45:32.960Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29177-bo-te-noire">Boîte noire<i> [TVRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29176-bo-te-noire">Boîte noire<i> [HDTV 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29175-bo-te-noire">Boîte noire<i> [HDTV 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29174-matrix-resurrections">Matrix Resurrections<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29173-power-rangers">Power Rangers<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29172-la-conspiration-des-belettes">La Conspiration des belettes<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29171-la-conspiration-des-belettes">La Conspiration des belettes<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29170-les-sorci-res-d-akelarre">Les Sorcières d'Akelarre<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29169-les-sorci-res-d-akelarre">Les Sorcières d'Akelarre<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29168-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29191-l-equip-e-sauvage">L'Equipée sauvage<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29190-myst-re">Mystère<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29189-myst-re">Mystère<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29188-myst-re">Mystère<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29187-m-re-et-fille-california-dream">Mère et Fille, California Dream<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29186-don-t-look-up-d-ni-cosmique">Don’t Look Up: Déni cosmique<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29185-don-t-look-up-d-ni-cosmique">Don’t Look Up: Déni cosmique<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29184-don-t-look-up-d-ni-cosmique">Don’t Look Up: Déni cosmique<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29183-maria-chapdelaine">Maria Chapdelaine<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29182-maria-chapdelaine">Maria Chapdelaine<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1"/>
-        <updated>2021-12-24T05:38:22.409Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13411-la-roue-du-temps-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13411-la-roue-du-temps-saison1"/>
+        <updated>2021-12-24T17:45:32.963Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12025-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13666-dynastie-2017-saison5">Dynastie (2017) - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13665-dynastie-2017-saison5">Dynastie (2017) - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1">1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1">1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13662-missions-saison3">Missions - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13585-undercover-saison3">Undercover - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13586-undercover-saison3">Undercover - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13411-la-roue-du-temps-saison1">La Roue du Temps - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13412-la-roue-du-temps-saison1">La Roue du Temps - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13584-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13583-the-expanse-saison6">The Expanse - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13591-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13668-the-silent-sea-saison1">The Silent Sea - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2">Batwoman - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13580-batwoman-saison2">Batwoman - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13547-superman-lois-saison1">Superman &amp; Lois - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1">Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,14 +1045,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29153-premier-contact"><b>1</b> - Premier Contact<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29155-matrix-resurrections"><b>2</b> - Matrix Resurrections<i> [WEB-DL 1080p] - VO</i></a></li>
-															<li><a href="/?p=film&amp;id=29119-dream-horse"><b>3</b> - Dream Horse<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29168-matrix-resurrections"><b>4</b> - Matrix Resurrections<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass"><b>5</b> - Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29172-la-conspiration-des-belettes"><b>6</b> - La Conspiration des belettes<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29129-the-seagull"><b>7</b> - The Seagull<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29131-the-seagull"><b>8</b> - The Seagull<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29134-le-docteur-jivago"><b>9</b> - Le Docteur Jivago<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29138-christmas-is-cancelled"><b>10</b> - Christmas is cancelled<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29180-encanto-la-fantastique-famille-madrigal"><b>3</b> - Encanto, la fantastique famille Madrigal<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29119-dream-horse"><b>4</b> - Dream Horse<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29181-encanto-la-fantastique-famille-madrigal"><b>5</b> - Encanto, la fantastique famille Madrigal<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29167-la-conspiration-des-belettes"><b>6</b> - La Conspiration des belettes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29168-matrix-resurrections"><b>7</b> - Matrix Resurrections<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29128-midnight-in-the-switchgrass"><b>8</b> - Midnight In The Switchgrass<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29172-la-conspiration-des-belettes"><b>9</b> - La Conspiration des belettes<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29184-don-t-look-up-d-ni-cosmique"><b>10</b> - Don’t Look Up: Déni cosmique<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1063,15 +1063,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13468-hawkeye-saison1"><b>1</b> - Hawkeye - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>2</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>3</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>4</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>5</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>6</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>7</b> - Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>8</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13606-sissi-saison1"><b>9</b> - Sissi - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13359-dopesick-saison1"><b>10</b> - Dopesick - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13411-la-roue-du-temps-saison1"><b>2</b> - La Roue du Temps - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13466-hawkeye-saison1"><b>3</b> - Hawkeye - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>4</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>5</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>6</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13439-gomorra-saison5"><b>7</b> - Gomorra - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>8</b> - Hightown - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1"><b>9</b> - Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>10</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
