@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-31T17:45:50.606Z</updated>
+    <updated>2022-01-01T05:37:57.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -206,6 +206,7 @@
 							<select class="filter" style="border:1px solid #97bf12;padding:3px 5px;">
 								<option>Choisir une époque</option>
 									<option value="?p=films">Tous</option>
+																			<option value="?p=films&amp;s=magazines&amp;genre=informatique&amp;year=2022">2022</option>
 																			<option value="?p=films&amp;s=magazines&amp;genre=informatique&amp;year=2021">2021</option>
 																			<option value="?p=films&amp;s=magazines&amp;genre=informatique&amp;year=2020">2020</option>
 																			<option value="?p=films&amp;s=magazines&amp;genre=informatique&amp;year=2019">2019</option>
@@ -293,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2021-12-31T17:45:49.832Z</updated>
+        <updated>2022-01-01T05:37:56.795Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -999,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29288-wendy</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29288-wendy"/>
-        <updated>2021-12-31T17:45:49.833Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29298-the-rescue</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29298-the-rescue"/>
+        <updated>2022-01-01T05:37:56.799Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29288-wendy">Wendy<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29287-wendy">Wendy<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29286-wendy">Wendy<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29285-wendy">Wendy<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29284-wendy">Wendy<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29283-ong-bak-3-l-ultime-combat">Ong-bak 3 - L'ultime combat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29282-masquerade">Masquerade<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29281-ong-bak-2-la-naissance-du-dragon">Ong-Bak 2, la naissance du dragon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29280-a-christmas-gift-from-bob">A Christmas Gift from Bob<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29279-masquerade">Masquerade<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29298-the-rescue">The Rescue<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29297-the-rescue">The Rescue<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29296-the-rescue">The Rescue<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29295-the-rescue">The Rescue<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29294-life-on-mars">Life On Mars<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29293-life-on-mars">Life On Mars<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29292-life-on-mars">Life On Mars<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29291-life-on-mars">Life On Mars<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29290-the-rescue">The Rescue<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29289-life-on-mars">Life On Mars<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13705-ne-t-loigne-pas-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13705-ne-t-loigne-pas-saison1"/>
-        <updated>2021-12-31T17:45:49.834Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12752-the-lost-symbol-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12752-the-lost-symbol-saison1"/>
+        <updated>2022-01-01T05:37:56.800Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=12752-the-lost-symbol-saison1">The Lost Symbol - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12753-the-lost-symbol-saison1">The Lost Symbol - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13707-cobra-kai-saison4">Cobra Kai - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13706-cobra-kai-saison4">Cobra Kai - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13705-ne-t-loigne-pas-saison1">Ne t'éloigne pas - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13704-ne-t-loigne-pas-saison1">Ne t'éloigne pas - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13703-cobra-kai-saison4">Cobra Kai - Saison 4<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13584-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13583-the-expanse-saison6">The Expanse - Saison 6<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13702-cobra-kai-saison4">Cobra Kai - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13582-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13581-the-expanse-saison6">The Expanse - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,8 +1046,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29221-l-affaire-percy"><b>1</b> - L'Affaire Percy<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29215-don-t-look-up-d-ni-cosmique"><b>2</b> - Don’t Look Up: Déni cosmique<i> [HDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=29227-l-affaire-percy"><b>3</b> - L'Affaire Percy<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29228-l-affaire-percy"><b>4</b> - L'Affaire Percy<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29256-sword-of-vengeance"><b>5</b> - Sword of Vengeance<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29256-sword-of-vengeance"><b>4</b> - Sword of Vengeance<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29228-l-affaire-percy"><b>5</b> - L'Affaire Percy<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29234-the-prot-g"><b>6</b> - The Protégé<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29236-the-prot-g"><b>7</b> - The Protégé<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29216-venom-let-there-be-carnage"><b>8</b> - Venom: Let There Be Carnage<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1068,9 +1069,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4"><b>5</b> - Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>6</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13071-hightown-saison2"><b>7</b> - Hightown - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>8</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>9</b> - Undercover - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>10</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>8</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>9</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>10</b> - Undercover - Saison 3<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
