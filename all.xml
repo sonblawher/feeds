@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T05:39:12.873Z</updated>
+    <updated>2022-01-07T17:48:02.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-07T05:39:12.204Z</updated>
+        <updated>2022-01-07T17:48:01.377Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,6 +467,53 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><img alt="Programmez N°250 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/36db85a2369530cc37ad1dbe25d4f644.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								ven. 07 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
+
+Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -510,9 +557,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35471-silicon-n-9-janvier-2022"><i class="flag flag-fr"></i> Silicon N°9 – Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -858,49 +903,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=34653-windows-et-internet-pratique-n-115-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=34643-micro-pratique-n-303-d-cembre-2021"><i class="flag flag-fr"></i> Micro Pratique N°303 – Décembre 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">16 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=34643-micro-pratique-n-303-d-cembre-2021"><img alt="Micro Pratique N°303 – Décembre 2021 [Magazines]" src="/img/ebooks/8786e055cf9f3e10c7a0108cde79bef8.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								ven. 12 nov. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Micro Pratique est un des leaders de la presse micro-informatique personnelle. Chaque mois, il apporte des réponses concrètes à la fois à ceux qui font leurs premiers pas et à ceux qui sont plus a...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Micro Pratique" rel="nofollow">Micro Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=34643-micro-pratique-n-303-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1000,40 +1002,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29409-one-shot</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29409-one-shot"/>
-        <updated>2022-01-06T17:48:04.576Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29421-silent-night</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29421-silent-night"/>
+        <updated>2022-01-07T17:48:01.382Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29409-one-shot">One Shot<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29408-one-shot">One Shot<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29407-one-shot">One Shot<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29406-one-shot">One Shot<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29405-one-shot">One Shot<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29404-reclus">Reclus<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29403-reclus">Reclus<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29402-reclus">Reclus<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29401-myst-re-saint-tropez">Mystère à Saint-Tropez<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29400-traqu">Traqué<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29421-silent-night">Silent Night<i> [WEB-DL] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29420-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29419-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29418-tous-en-sc-ne-2">Tous en scène 2<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29417-mother-android">Mother/Android<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29416-mother-android">Mother/Android<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29415-mother-android">Mother/Android<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29414-mother-android">Mother/Android<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29413-mother-android">Mother/Android<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29412-the-tender-bar">The Tender Bar<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13740-wilder-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13740-wilder-saison4"/>
-        <updated>2022-01-07T05:39:12.212Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13747-roswell-new-mexico-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13747-roswell-new-mexico-saison1"/>
+        <updated>2022-01-07T17:48:01.384Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13740-wilder-saison4">Wilder - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13741-wilder-saison4">Wilder - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13746-manipulations-saison1">Manipulations - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13580-batwoman-saison2">Batwoman - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13744-manipulations-saison1">Manipulations - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2">Batwoman - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13742-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13747-roswell-new-mexico-saison1">Roswell, New Mexico - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12766-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13583-the-expanse-saison6">The Expanse - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13584-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12792-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12821-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13581-the-expanse-saison6">The Expanse - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13582-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12790-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,15 +1046,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29369-s-o-s-fant-mes-l-h-ritage"><b>1</b> - S.O.S. Fantômes : L'Héritage<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29371-clifford"><b>2</b> - Clifford<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29325-faux-semblants"><b>3</b> - Faux-Semblants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29347-predators"><b>4</b> - Predators<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29357-citizen-kane"><b>5</b> - Citizen Kane<i> [4K LIGHT] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29359-mulholland-drive"><b>6</b> - Mulholland Drive<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29364-encanto-la-fantastique-famille-madrigal"><b>7</b> - Encanto, la fantastique famille Madrigal<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29331-jack-reacher-never-go-back"><b>8</b> - Jack Reacher : Never Go Back<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29355-ice-road"><b>9</b> - Ice Road<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29394-affam-s"><b>10</b> - Affamés<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29347-predators"><b>2</b> - Predators<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29355-ice-road"><b>3</b> - Ice Road<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29371-clifford"><b>4</b> - Clifford<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29410-the-tender-bar"><b>5</b> - The Tender Bar<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29325-faux-semblants"><b>6</b> - Faux-Semblants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29357-citizen-kane"><b>7</b> - Citizen Kane<i> [4K LIGHT] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29359-mulholland-drive"><b>8</b> - Mulholland Drive<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29364-encanto-la-fantastique-famille-madrigal"><b>9</b> - Encanto, la fantastique famille Madrigal<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29331-jack-reacher-never-go-back"><b>10</b> - Jack Reacher : Never Go Back<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
