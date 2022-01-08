@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T17:48:02.146Z</updated>
+    <updated>2022-01-08T05:38:30.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-07T17:48:01.377Z</updated>
+        <updated>2022-01-08T05:38:29.996Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1002,11 +1002,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29421-silent-night</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29421-silent-night"/>
-        <updated>2022-01-07T17:48:01.382Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29424-the-tender-bar</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29424-the-tender-bar"/>
+        <updated>2022-01-08T05:38:29.996Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29424-the-tender-bar">The Tender Bar<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29423-silent-night">Silent Night<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29422-silent-night">Silent Night<i> [WEB-DL 720p] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=29421-silent-night">Silent Night<i> [WEB-DL] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=29420-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29419-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 720p] - FRENCH</i></a></li>
@@ -1014,28 +1017,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29417-mother-android">Mother/Android<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29416-mother-android">Mother/Android<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29415-mother-android">Mother/Android<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29414-mother-android">Mother/Android<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29413-mother-android">Mother/Android<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29412-the-tender-bar">The Tender Bar<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13747-roswell-new-mexico-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13747-roswell-new-mexico-saison1"/>
-        <updated>2022-01-07T17:48:01.384Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13547-superman-lois-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13547-superman-lois-saison1"/>
+        <updated>2022-01-08T05:38:29.998Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13547-superman-lois-saison1">Superman &amp; Lois - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13752-diana-boss-saison1">Diana Boss - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1">Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13751-diana-boss-saison1">Diana Boss - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13750-private-eyes-saison5">Private Eyes - Saison 5<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5">Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13748-roswell-new-mexico-saison1">Roswell, New Mexico - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13747-roswell-new-mexico-saison1">Roswell, New Mexico - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=12766-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13583-the-expanse-saison6">The Expanse - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13584-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12792-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12821-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13581-the-expanse-saison6">The Expanse - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13582-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12790-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1050,11 +1050,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29355-ice-road"><b>3</b> - Ice Road<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29371-clifford"><b>4</b> - Clifford<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29410-the-tender-bar"><b>5</b> - The Tender Bar<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29325-faux-semblants"><b>6</b> - Faux-Semblants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29357-citizen-kane"><b>7</b> - Citizen Kane<i> [4K LIGHT] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29359-mulholland-drive"><b>8</b> - Mulholland Drive<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29364-encanto-la-fantastique-famille-madrigal"><b>9</b> - Encanto, la fantastique famille Madrigal<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29331-jack-reacher-never-go-back"><b>10</b> - Jack Reacher : Never Go Back<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29417-mother-android"><b>6</b> - Mother/Android<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29325-faux-semblants"><b>7</b> - Faux-Semblants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29357-citizen-kane"><b>8</b> - Citizen Kane<i> [4K LIGHT] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29359-mulholland-drive"><b>9</b> - Mulholland Drive<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29364-encanto-la-fantastique-famille-madrigal"><b>10</b> - Encanto, la fantastique famille Madrigal<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1065,15 +1065,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>2</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>3</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1"><b>2</b> - Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>3</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13317-yellowstone-saison4"><b>4</b> - Yellowstone - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>6</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>7</b> - Undercover - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>8</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>9</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13585-undercover-saison3"><b>10</b> - Undercover - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>7</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>8</b> - Undercover - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>9</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>10</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
