@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-08T05:38:30.610Z</updated>
+    <updated>2022-01-08T17:45:50.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:38:29.996Z</updated>
+        <updated>2022-01-08T17:45:49.475Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1002,40 +1002,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29424-the-tender-bar</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29424-the-tender-bar"/>
-        <updated>2022-01-08T05:38:29.996Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29450-tous-en-sc-ne-2</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29450-tous-en-sc-ne-2"/>
+        <updated>2022-01-08T17:45:49.479Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29424-the-tender-bar">The Tender Bar<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29423-silent-night">Silent Night<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29422-silent-night">Silent Night<i> [WEB-DL 720p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29421-silent-night">Silent Night<i> [WEB-DL] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29420-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29419-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29418-tous-en-sc-ne-2">Tous en scène 2<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29417-mother-android">Mother/Android<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29416-mother-android">Mother/Android<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29415-mother-android">Mother/Android<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29450-tous-en-sc-ne-2">Tous en scène 2<i> [WEB-DL 4K] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29449-clifford">Clifford<i> [WEB-DL 4K] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29448-alita-battle-angel">Alita : Battle Angel<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29447-la-reine-margot">La Reine Margot<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29446-the-servant">The Servant<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29445-portier-de-nuit">Portier de nuit<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29444-many-saints-of-newark-une-histoire-des-soprano">Many Saints Of Newark - Une histoire des Soprano<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29443-la-conspiration-des-belettes">La Conspiration des belettes<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29442-many-saints-of-newark-une-histoire-des-soprano">Many Saints Of Newark - Une histoire des Soprano<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29441-la-conspiration-des-belettes">La Conspiration des belettes<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13547-superman-lois-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13547-superman-lois-saison1"/>
-        <updated>2022-01-08T05:38:29.998Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13754-the-girl-before-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13754-the-girl-before-saison1"/>
+        <updated>2022-01-08T17:45:49.481Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13547-superman-lois-saison1">Superman &amp; Lois - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13752-diana-boss-saison1">Diana Boss - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1">Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13751-diana-boss-saison1">Diana Boss - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13750-private-eyes-saison5">Private Eyes - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5">Private Eyes - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13748-roswell-new-mexico-saison1">Roswell, New Mexico - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13747-roswell-new-mexico-saison1">Roswell, New Mexico - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12766-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13754-the-girl-before-saison1">The Girl Before - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13753-the-girl-before-saison1">The Girl Before - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13329-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13328-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13632-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12891-magnum-2018-saison4">Magnum, P.I. (2018) - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12892-magnum-2018-saison4">Magnum, P.I. (2018) - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13717-the-tourist-saison1">The Tourist - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13716-the-tourist-saison1">The Tourist - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,15 +1046,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29369-s-o-s-fant-mes-l-h-ritage"><b>1</b> - S.O.S. Fantômes : L'Héritage<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29347-predators"><b>2</b> - Predators<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29355-ice-road"><b>3</b> - Ice Road<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29355-ice-road"><b>2</b> - Ice Road<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29425-bo-te-noire"><b>3</b> - Boîte noire<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29371-clifford"><b>4</b> - Clifford<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29410-the-tender-bar"><b>5</b> - The Tender Bar<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29417-mother-android"><b>6</b> - Mother/Android<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29325-faux-semblants"><b>7</b> - Faux-Semblants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29357-citizen-kane"><b>8</b> - Citizen Kane<i> [4K LIGHT] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29359-mulholland-drive"><b>9</b> - Mulholland Drive<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29364-encanto-la-fantastique-famille-madrigal"><b>10</b> - Encanto, la fantastique famille Madrigal<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29325-faux-semblants"><b>6</b> - Faux-Semblants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29331-jack-reacher-never-go-back"><b>7</b> - Jack Reacher : Never Go Back<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29347-predators"><b>8</b> - Predators<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29357-citizen-kane"><b>9</b> - Citizen Kane<i> [4K LIGHT] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29359-mulholland-drive"><b>10</b> - Mulholland Drive<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
