@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-10T05:39:36.794Z</updated>
+    <updated>2022-01-10T17:48:46.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-10T05:39:36.147Z</updated>
+        <updated>2022-01-10T17:48:46.243Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,6 +468,51 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Hackable Magazine N°40 – Janvier-Février 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><img alt="Hackable Magazine N°40 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/4ac34f3d3e3c878b884bdb9635f7f347.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								lun. 10 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Hackable Magazine est une publication des Éditions Diamond, destiné à des utilisateurs curieux souhaitant découvrir et progresser dans le domaine de l’électronique numérique, de l’utilisation de n...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Hackable Magazine" rel="nofollow">Hackable Magazine</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -511,9 +556,7 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -861,49 +904,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=34812-windows-et-internet-pratique-hors-s-rie-n-1-d-cembre-2021-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=34653-windows-et-internet-pratique-n-115-d-cembre-2021"><i class="flag flag-fr"></i> Windows et Internet Pratique N°115 – Décembre 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">15 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=34653-windows-et-internet-pratique-n-115-d-cembre-2021"><img alt="Windows et Internet Pratique N°115 – Décembre 2021 [Magazines]" src="/img/ebooks/5aaa098fb0cc383998edaed511d73897.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								sam. 13 nov. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=34653-windows-et-internet-pratique-n-115-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1003,40 +1003,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29470-la-terre-des-hommes</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29470-la-terre-des-hommes"/>
-        <updated>2022-01-10T05:39:36.149Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29474-le-nouveau</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29474-le-nouveau"/>
+        <updated>2022-01-10T17:48:46.255Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29474-le-nouveau">Le Nouveau<i> [WEB-DL 720p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29473-matrix-resurrections">Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29472-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29471-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29470-la-terre-des-hommes">La Terre des hommes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29469-la-terre-des-hommes">La Terre des hommes<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes">La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29467-creed-ii">Creed II<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa">Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29465-men-in-black-international">Men In Black: International<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29464-men-in-black-iii">Men In Black III<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29463-miib">MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29462-men-in-black">Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29461-deux-yeux-mal-fiques">Deux yeux maléfiques<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=1672-code-black-saison3</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=1672-code-black-saison3"/>
-        <updated>2022-01-10T05:39:36.150Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1"/>
+        <updated>2022-01-10T17:48:46.255Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=1672-code-black-saison3">Code Black - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13348-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1">1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1">1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13761-stella-bl-mkvist-saison2">Stella Blómkvist - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13022-ghosts-us-saison1">Ghosts (US) - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13023-ghosts-us-saison1">Ghosts (US) - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1">Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13766-reyka-saison1">Reyka - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=6587-jeffrey-epstein-pouvoir-argent-et-perversion-saison1">Jeffrey Epstein : pouvoir, argent et perversion - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9">Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13764-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9">Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13762-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,34 +1047,34 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29455-d-licieux"><b>2</b> - Délicieux<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29456-la-famille-addams-2-une-vir-e-d-enfer"><b>3</b> - La Famille Addams 2 : une virée d'enfer<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>4</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29463-miib"><b>5</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29464-men-in-black-iii"><b>6</b> - Men In Black III<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>7</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29454-d-licieux"><b>8</b> - Délicieux<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>2</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29463-miib"><b>3</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29456-la-famille-addams-2-une-vir-e-d-enfer"><b>4</b> - La Famille Addams 2 : une virée d'enfer<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29464-men-in-black-iii"><b>5</b> - Men In Black III<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>6</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29470-la-terre-des-hommes"><b>7</b> - La Terre des hommes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29473-matrix-resurrections"><b>8</b> - Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29457-la-famille-addams-2-une-vir-e-d-enfer"><b>9</b> - La Famille Addams 2 : une virée d'enfer<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29458-la-famille-addams-2-une-vir-e-d-enfer"><b>10</b> - La Famille Addams 2 : une virée d'enfer<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12823-f-b-i-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12823-f-b-i-saison4"/>
-        <updated>2022-01-10T05:39:36.156Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13565-dexter-new-blood-saison1"/>
+        <updated>2022-01-10T17:48:46.260Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12823-f-b-i-saison4"><b>1</b> - F.B.I. - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>2</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>3</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13636-the-great-saison2"><b>4</b> - The Great - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13755-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4"><b>5</b> - La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13348-blacklist-saison9"><b>6</b> - Blacklist - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>7</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1"><b>8</b> - Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>9</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13343-the-sinner-saison4"><b>10</b> - The Sinner - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>2</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>3</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>4</b> - Undercover - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>5</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13585-undercover-saison3"><b>6</b> - Undercover - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12823-f-b-i-saison4"><b>7</b> - F.B.I. - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>8</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>9</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13586-undercover-saison3"><b>10</b> - Undercover - Saison 3<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
