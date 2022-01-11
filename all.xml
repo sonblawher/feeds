@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T05:38:59.387Z</updated>
+    <updated>2022-01-11T17:48:14.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-11T05:38:58.609Z</updated>
+        <updated>2022-01-11T17:48:13.596Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Hackable Magazine N°40 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1002,40 +1002,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29482-last-night-in-soho</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29482-last-night-in-soho"/>
-        <updated>2022-01-11T05:38:58.613Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29496-resistance</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29496-resistance"/>
+        <updated>2022-01-11T17:48:13.600Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29482-last-night-in-soho">Last Night in Soho<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29481-last-night-in-soho">Last Night in Soho<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29480-last-night-in-soho">Last Night in Soho<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29479-last-night-in-soho">Last Night in Soho<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29478-last-night-in-soho">Last Night in Soho<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29477-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29476-matrix-resurrections">Matrix Resurrections<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29475-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29474-le-nouveau">Le Nouveau<i> [WEB-DL 720p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29473-matrix-resurrections">Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29496-resistance">Resistance<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29495-resistance">Resistance<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29494-resistance">Resistance<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29493-matrix-resurrections">Matrix Resurrections<i> [WEB-DL 4K] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29492-many-saints-of-newark-une-histoire-des-soprano">Many Saints Of Newark - Une histoire des Soprano<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29491-rocky">Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29490-hurlements">Hurlements<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29489-l-origine-du-monde">L'Origine Du Monde<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29488-l-origine-du-monde">L'Origine Du Monde<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29487-a-journal-for-jordan">A Journal for Jordan<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13769-station-eleven-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13769-station-eleven-saison1"/>
-        <updated>2022-01-11T05:38:58.614Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19"/>
+        <updated>2022-01-11T17:48:13.603Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13744-manipulations-saison1">Manipulations - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13721-my-life-is-murder-saison1">My Life Is Murder - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1">My Life Is Murder - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1">Station Eleven - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13746-manipulations-saison1">Manipulations - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13717-the-tourist-saison1">The Tourist - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13716-the-tourist-saison1">The Tourist - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13768-station-eleven-saison1">Station Eleven - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13342-the-sinner-saison4">The Sinner - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13343-the-sinner-saison4">The Sinner - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13535-big-sky-saison2">Big Sky - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13536-big-sky-saison2">Big Sky - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13767-reyka-saison1">Reyka - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,15 +1046,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29476-matrix-resurrections"><b>2</b> - Matrix Resurrections<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29473-matrix-resurrections"><b>2</b> - Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>3</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29463-miib"><b>4</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29456-la-famille-addams-2-une-vir-e-d-enfer"><b>5</b> - La Famille Addams 2 : une virée d'enfer<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29464-men-in-black-iii"><b>6</b> - Men In Black III<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>7</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>8</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29470-la-terre-des-hommes"><b>9</b> - La Terre des hommes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29473-matrix-resurrections"><b>10</b> - Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>5</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>6</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29479-last-night-in-soho"><b>7</b> - Last Night in Soho<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29487-a-journal-for-jordan"><b>8</b> - A Journal for Jordan<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29456-la-famille-addams-2-une-vir-e-d-enfer"><b>9</b> - La Famille Addams 2 : une virée d'enfer<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29464-men-in-black-iii"><b>10</b> - Men In Black III<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
