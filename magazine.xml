@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-12T05:39:05.700Z</updated>
+    <updated>2022-01-12T17:44:43.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-12T05:39:05.049Z</updated>
+        <updated>2022-01-12T17:44:42.330Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Hackable Magazine N°40 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">4 vote(s)</div>
+							<div class="progress-desc">6 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1003,40 +1003,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29504-les-eternels</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29504-les-eternels"/>
-        <updated>2022-01-12T05:39:05.053Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29514-les-eternels</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29514-les-eternels"/>
+        <updated>2022-01-12T17:44:42.334Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29504-les-eternels">Les Eternels<i> [WEBRIP 1080p] - VO</i></a></li>
-															<li><a href="/?p=film&amp;id=29503-les-eternels">Les Eternels<i> [HDRIP] - VO</i></a></li>
-															<li><a href="/?p=film&amp;id=29502-the-boy-behind-the-door">The Boy Behind the Door<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29501-the-boy-behind-the-door">The Boy Behind the Door<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29500-the-boy-behind-the-door">The Boy Behind the Door<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29499-hannes">Hannes<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29498-hannes">Hannes<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29497-hannes">Hannes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29496-resistance">Resistance<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29495-resistance">Resistance<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29514-les-eternels">Les Eternels<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29513-the-crow-la-cit-des-anges">The Crow : la Cité des Anges<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29512-les-espions-d-c-t">Les Espions d'à côté<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29511-dracula">Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29510-les-eternels">Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29509-les-eternels">Les Eternels<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29508-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29507-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29506-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29505-les-eternels">Les Eternels<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13002-bull-saison6</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13002-bull-saison6"/>
-        <updated>2022-01-12T05:39:05.055Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1"/>
+        <updated>2022-01-12T17:44:42.335Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13002-bull-saison6">Bull - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13005-bull-saison6">Bull - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13193-4400-2021-saison1">4400 (2021) - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13192-4400-2021-saison1">4400 (2021) - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13717-the-tourist-saison1">The Tourist - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13716-the-tourist-saison1">The Tourist - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13741-wilder-saison4">Wilder - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13740-wilder-saison4">Wilder - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1">Derrière les barreaux - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13775-derri-re-les-barreaux-saison1">Derrière les barreaux - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13774-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13772-the-hot-zone-saison2">The Hot Zone - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13771-the-hot-zone-saison2">The Hot Zone - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13770-the-crow-stairway-to-heaven-saison1">The Crow : Stairway to Heaven - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,15 +1047,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>2</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29473-matrix-resurrections"><b>3</b> - Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>4</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29487-a-journal-for-jordan"><b>5</b> - A Journal for Jordan<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>6</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29463-miib"><b>7</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>8</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29479-last-night-in-soho"><b>9</b> - Last Night in Soho<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29456-la-famille-addams-2-une-vir-e-d-enfer"><b>10</b> - La Famille Addams 2 : une virée d'enfer<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>2</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>3</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>4</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>5</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29463-miib"><b>6</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>7</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29473-matrix-resurrections"><b>8</b> - Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29511-dracula"><b>9</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29513-the-crow-la-cit-des-anges"><b>10</b> - The Crow : la Cité des Anges<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,15 +1066,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>2</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>3</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13585-undercover-saison3"><b>4</b> - Undercover - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>5</b> - Undercover - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12823-f-b-i-saison4"><b>7</b> - F.B.I. - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>8</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>9</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>10</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>4</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>5</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>6</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>7</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13585-undercover-saison3"><b>8</b> - Undercover - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>9</b> - Undercover - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>10</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
