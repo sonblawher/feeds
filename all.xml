@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T17:44:43.080Z</updated>
+    <updated>2022-01-13T05:39:12.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-12T17:44:42.330Z</updated>
+        <updated>2022-01-13T05:39:11.564Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1002,30 +1002,33 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29514-les-eternels</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29514-les-eternels"/>
-        <updated>2022-01-12T17:44:42.334Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29520-comment-je-suis-tomb-e-amoureuse-d-un-gangster</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29520-comment-je-suis-tomb-e-amoureuse-d-un-gangster"/>
+        <updated>2022-01-13T05:39:11.567Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29520-comment-je-suis-tomb-e-amoureuse-d-un-gangster">Comment je suis tombée amoureuse d'un gangster<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29519-comment-je-suis-tomb-e-amoureuse-d-un-gangster">Comment je suis tombée amoureuse d'un gangster<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29518-comment-je-suis-tomb-e-amoureuse-d-un-gangster">Comment je suis tombée amoureuse d'un gangster<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29517-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29516-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29515-batman-year-one">Batman: Year One<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29514-les-eternels">Les Eternels<i> [HDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=29513-the-crow-la-cit-des-anges">The Crow : la Cité des Anges<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29512-les-espions-d-c-t">Les Espions d'à côté<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29511-dracula">Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29510-les-eternels">Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29509-les-eternels">Les Eternels<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29508-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29507-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29506-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29505-les-eternels">Les Eternels<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1"/>
-        <updated>2022-01-12T17:44:42.335Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13779-derri-re-les-barreaux-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13779-derri-re-les-barreaux-saison4"/>
+        <updated>2022-01-13T05:39:11.568Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13779-derri-re-les-barreaux-saison4">Derrière les barreaux - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13778-derri-re-les-barreaux-saison3">Derrière les barreaux - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13777-derri-re-les-barreaux-saison2">Derrière les barreaux - Saison 2<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1">Derrière les barreaux - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13775-derri-re-les-barreaux-saison1">Derrière les barreaux - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13774-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR HD</i></a></li>
@@ -1033,9 +1036,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13772-the-hot-zone-saison2">The Hot Zone - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13771-the-hot-zone-saison2">The Hot Zone - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13770-the-crow-stairway-to-heaven-saison1">The Crow : Stairway to Heaven - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,15 +1046,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>2</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>3</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>2</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>3</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>4</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>5</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29463-miib"><b>6</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>7</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29473-matrix-resurrections"><b>8</b> - Matrix Resurrections<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29511-dracula"><b>9</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29513-the-crow-la-cit-des-anges"><b>10</b> - The Crow : la Cité des Anges<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29511-dracula"><b>5</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>6</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29463-miib"><b>7</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>8</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29489-l-origine-du-monde"><b>9</b> - L'Origine Du Monde<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29491-rocky"><b>10</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
