@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-13T05:39:12.213Z</updated>
+    <updated>2022-01-13T17:48:45.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-13T05:39:11.564Z</updated>
+        <updated>2022-01-13T17:48:44.957Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -448,12 +448,12 @@
 							...						</a>
 					</li>
 									<li class=" ">
-						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=52">
-							52						</a>
-					</li>
-									<li class=" ">
 						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=53">
 							53						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
+							54						</a>
 					</li>
 								
 				<li>
@@ -467,10 +467,90 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°30 – Février-Avril 2022<i> [Magazines]</i> </a>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><img alt="Les Dossiers Du Pirate N°30 – Février-Avril 2022 [Magazines]" src="/img/ebooks/ea39980620768e5c62f4ab2b528d93c8.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								jeu. 13 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le piratage de A à Z avec ces guides exclusifs 100% pratiques. Les meilleurs logiciels et des dizaines de fiches pratiques dédiées pour devenir un pro. No limit....</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Les Dossiers Du Pirate" rel="nofollow">Les Dossiers Du Pirate</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><i class="flag flag-fr"></i> Micro Pratique N°305 – Février 2022<i> [Magazines]</i> </a>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><img alt="Micro Pratique N°305 – Février 2022 [Magazines]" src="/img/ebooks/0a80a8ff32fc4e43fbee57bea74663f9.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								jeu. 13 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Micro Pratique est un des leaders de la presse micro-informatique personnelle. Chaque mois, il apporte des réponses concrètes à la fois à ceux qui font leurs premiers pas et à ceux qui sont plus a...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Micro Pratique" rel="nofollow">Micro Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Hackable Magazine N°40 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -508,9 +588,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -815,94 +893,6 @@ Un magazine 100% fiches pratiques et astuces....</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35260-windows-et-internet-pratique-n-116-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35100-programmez-hors-s-rie-n-5-automne-2021"><i class="flag flag-fr"></i> Programmez Hors Série N°5 – Automne 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35100-programmez-hors-s-rie-n-5-automne-2021"><img alt="Programmez Hors Série N°5 – Automne 2021 [Magazines]" src="/img/ebooks/5c15158c6d9f30faa2d4b5ac48460adf.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								sam. 04 déc. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
-
-Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35100-programmez-hors-s-rie-n-5-automne-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=34812-windows-et-internet-pratique-hors-s-rie-n-1-d-cembre-2021-f-vrier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique Hors Série N°1 – Décembre 2021-Février 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">15 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=34812-windows-et-internet-pratique-hors-s-rie-n-1-d-cembre-2021-f-vrier-2022"><img alt="Windows et Internet Pratique Hors Série N°1 – Décembre 2021-Février 2022 [Magazines]" src="/img/ebooks/0275953ff901672892bf90ee92a568d1.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								lun. 22 nov. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Au Sommaire : Découvrir et se préparer à Windows 11 le guide pour tout savoir....</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=34812-windows-et-internet-pratique-hors-s-rie-n-1-d-cembre-2021-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -959,12 +949,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 							...						</a>
 					</li>
 									<li class=" ">
-						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=52">
-							52						</a>
-					</li>
-									<li class=" ">
 						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=53">
 							53						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
+							54						</a>
 					</li>
 								
 				<li>
@@ -1002,40 +992,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29520-comment-je-suis-tomb-e-amoureuse-d-un-gangster</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29520-comment-je-suis-tomb-e-amoureuse-d-un-gangster"/>
-        <updated>2022-01-13T05:39:11.567Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29534-dune</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29534-dune"/>
+        <updated>2022-01-13T17:48:44.967Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29520-comment-je-suis-tomb-e-amoureuse-d-un-gangster">Comment je suis tombée amoureuse d'un gangster<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29519-comment-je-suis-tomb-e-amoureuse-d-un-gangster">Comment je suis tombée amoureuse d'un gangster<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29518-comment-je-suis-tomb-e-amoureuse-d-un-gangster">Comment je suis tombée amoureuse d'un gangster<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29517-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29516-aileen-wuornos-american-boogeywoman">Aileen Wuornos: American Boogeywoman<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29515-batman-year-one">Batman: Year One<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29514-les-eternels">Les Eternels<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29513-the-crow-la-cit-des-anges">The Crow : la Cité des Anges<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29512-les-espions-d-c-t">Les Espions d'à côté<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29511-dracula">Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29534-dune">Dune<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29533-dune">Dune<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29532-dune">Dune<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29531-dune">Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29530-scream-4">Scream 4<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29529-scream-3">Scream 3<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29528-scream-2">Scream 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29527-scream">Scream<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29526-l-emprise-du-vice">L'Emprise du vice<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29525-l-emprise-du-vice">L'Emprise du vice<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13779-derri-re-les-barreaux-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13779-derri-re-les-barreaux-saison4"/>
-        <updated>2022-01-13T05:39:11.568Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13783-the-journalist-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13783-the-journalist-saison1"/>
+        <updated>2022-01-13T17:48:44.967Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13779-derri-re-les-barreaux-saison4">Derrière les barreaux - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13778-derri-re-les-barreaux-saison3">Derrière les barreaux - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13777-derri-re-les-barreaux-saison2">Derrière les barreaux - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13776-derri-re-les-barreaux-saison1">Derrière les barreaux - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13775-derri-re-les-barreaux-saison1">Derrière les barreaux - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13774-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13772-the-hot-zone-saison2">The Hot Zone - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13771-the-hot-zone-saison2">The Hot Zone - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13770-the-crow-stairway-to-heaven-saison1">The Crow : Stairway to Heaven - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13783-the-journalist-saison1">The Journalist - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13782-the-journalist-saison1">The Journalist - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13733-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13732-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13781-cheer-saison2">Cheer - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13780-cheer-saison2">Cheer - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1048,13 +1038,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>2</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>3</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>4</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29511-dracula"><b>5</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>6</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29463-miib"><b>7</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>8</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29489-l-origine-du-monde"><b>9</b> - L'Origine Du Monde<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29491-rocky"><b>10</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29511-dracula"><b>4</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>5</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29491-rocky"><b>6</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>7</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29463-miib"><b>8</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>9</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29489-l-origine-du-monde"><b>10</b> - L'Origine Du Monde<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
