@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-14T05:39:03.721Z</updated>
+    <updated>2022-01-14T17:46:50.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-14T05:39:02.993Z</updated>
+        <updated>2022-01-14T17:46:50.023Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°30 – Février-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -516,7 +516,7 @@
 					<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><i class="flag flag-fr"></i> Micro Pratique N°305 – Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -647,7 +647,7 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">5 vote(s)</div>
+							<div class="progress-desc">6 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,40 +1001,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29537-gaia</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29537-gaia"/>
-        <updated>2022-01-14T05:39:02.996Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29548-le-saut-du-diable</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29548-le-saut-du-diable"/>
+        <updated>2022-01-14T17:46:50.026Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29537-gaia">Gaia<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29536-gaia">Gaia<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29535-gaia">Gaia<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29534-dune">Dune<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29533-dune">Dune<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29532-dune">Dune<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29531-dune">Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29530-scream-4">Scream 4<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29529-scream-3">Scream 3<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29528-scream-2">Scream 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29548-le-saut-du-diable">Le Saut du diable<i> [HDTV 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29547-daredevil">Daredevil<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29546-the-tragedy-of-macbeth">The Tragedy of Macbeth<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29545-the-tragedy-of-macbeth">The Tragedy of Macbeth<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29544-the-tragedy-of-macbeth">The Tragedy of Macbeth<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29543-h-tel-transylvanie-changements-monstres">Hôtel Transylvanie : changements monstres<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29542-h-tel-transylvanie-changements-monstres">Hôtel Transylvanie : changements monstres<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29541-h-tel-transylvanie-changements-monstres">Hôtel Transylvanie : changements monstres<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29540-mon-l-gionnaire">Mon légionnaire<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29539-mon-l-gionnaire">Mon légionnaire<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13788-ncis-enqu-tes-sp-ciales-saison14</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13788-ncis-enqu-tes-sp-ciales-saison14"/>
-        <updated>2022-01-14T05:39:02.998Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12709-seal-team-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12709-seal-team-saison4"/>
+        <updated>2022-01-14T17:46:50.029Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13788-ncis-enqu-tes-sp-ciales-saison14">NCIS : Enquêtes spéciales - Saison 14<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12800-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12804-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12790-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12792-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13342-the-sinner-saison4">The Sinner - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13343-the-sinner-saison4">The Sinner - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4">SEAL Team - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4">SEAL Team - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13368-the-republic-of-sarah-saison1">The Republic of Sarah - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13369-the-republic-of-sarah-saison1">The Republic of Sarah - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13796-archive-81-saison1">Archive 81 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13795-archive-81-saison1">Archive 81 - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13584-the-expanse-saison6">The Expanse - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13583-the-expanse-saison6">The Expanse - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13794-after-life-saison3">After Life - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12824-f-b-i-saison4">F.B.I. - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1048,12 +1048,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>2</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29511-dracula"><b>3</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>4</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>5</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29491-rocky"><b>6</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29531-dune"><b>7</b> - Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>8</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29463-miib"><b>9</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29466-creed-l-h-ritage-de-rocky-balboa"><b>10</b> - Creed - L'Héritage de Rocky Balboa<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29531-dune"><b>5</b> - Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29535-gaia"><b>6</b> - Gaia<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>7</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29491-rocky"><b>8</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29462-men-in-black"><b>9</b> - Men in Black<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29463-miib"><b>10</b> - MIIB<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1065,14 +1065,14 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>4</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>5</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>6</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>7</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13585-undercover-saison3"><b>8</b> - Undercover - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13587-undercover-saison3"><b>9</b> - Undercover - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13311-dexter-saison9"><b>10</b> - Dexter - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1"><b>3</b> - Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>5</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>7</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>8</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>9</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13585-undercover-saison3"><b>10</b> - Undercover - Saison 3<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
