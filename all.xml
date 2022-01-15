@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-15T05:38:34.823Z</updated>
+    <updated>2022-01-15T17:46:02.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:38:34.193Z</updated>
+        <updated>2022-01-15T17:46:01.533Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°30 – Février-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">4 vote(s)</div>
+							<div class="progress-desc">5 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -515,7 +515,7 @@
 					<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><i class="flag flag-fr"></i> Micro Pratique N°305 – Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">4 vote(s)</div>
+							<div class="progress-desc">5 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -558,7 +558,7 @@
 					<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Hackable Magazine N°40 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -601,7 +601,7 @@
 					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">5 vote(s)</div>
+							<div class="progress-desc">6 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -646,7 +646,7 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -691,7 +691,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 					<a href="?p=ebook&amp;id=35471-silicon-n-9-janvier-2022"><i class="flag flag-fr"></i> Silicon N°9 – Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,40 +1000,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29553-the-boyfriend-pourquoi-lui</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29553-the-boyfriend-pourquoi-lui"/>
-        <updated>2022-01-15T05:38:34.196Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29567-les-espions-d-c-t</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29567-les-espions-d-c-t"/>
+        <updated>2022-01-15T17:46:01.537Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29553-the-boyfriend-pourquoi-lui">The Boyfriend - Pourquoi lui ?<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29552-h-tel-transylvanie-changements-monstres">Hôtel Transylvanie : changements monstres<i> [WEB-DL 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29551-les-eternels">Les Eternels<i> [HDRIP 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29550-les-eternels">Les Eternels<i> [WEB-DL 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29549-matrix-resurrections">Matrix Resurrections<i> [HDRIP 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29548-le-saut-du-diable">Le Saut du diable<i> [HDTV 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29547-daredevil">Daredevil<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29546-the-tragedy-of-macbeth">The Tragedy of Macbeth<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29545-the-tragedy-of-macbeth">The Tragedy of Macbeth<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29544-the-tragedy-of-macbeth">The Tragedy of Macbeth<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29567-les-espions-d-c-t">Les Espions d'à côté<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29566-anna">Anna<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29565-brazil">Brazil<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29564-mississippi-burning">Mississippi Burning<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29563-dark-city">Dark City<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29562-shattered">Shattered<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29561-shattered">Shattered<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29560-shattered">Shattered<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29559-la-maison">La Maison<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29558-la-maison">La Maison<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12892-magnum-2018-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12892-magnum-2018-saison4"/>
-        <updated>2022-01-15T05:38:34.197Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7"/>
+        <updated>2022-01-15T17:46:01.539Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12804-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12800-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12940-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12941-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=12892-magnum-2018-saison4">Magnum, P.I. (2018) - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=12891-magnum-2018-saison4">Magnum, P.I. (2018) - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13632-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13750-private-eyes-saison5">Private Eyes - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5">Private Eyes - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13798-archive-81-saison1">Archive 81 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13797-archive-81-saison1">Archive 81 - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,13 +1046,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>2</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29511-dracula"><b>3</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29535-gaia"><b>4</b> - Gaia<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>5</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29531-dune"><b>4</b> - Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29521-la-vie-extraordinaire-de-louis-wain"><b>5</b> - La Vie Extraordinaire de Louis Wain<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>6</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29521-la-vie-extraordinaire-de-louis-wain"><b>7</b> - La Vie Extraordinaire de Louis Wain<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29531-dune"><b>8</b> - Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29491-rocky"><b>9</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29494-resistance"><b>10</b> - Resistance<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>7</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29491-rocky"><b>8</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29494-resistance"><b>9</b> - Resistance<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29532-dune"><b>10</b> - Dune<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1063,9 +1063,9 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1"><b>3</b> - Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>5</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>7</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
