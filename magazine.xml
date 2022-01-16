@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-15T17:46:02.211Z</updated>
+    <updated>2022-01-16T05:38:35.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-15T17:46:01.533Z</updated>
+        <updated>2022-01-16T05:38:34.932Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1020,21 +1020,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7"/>
-        <updated>2022-01-15T17:46:01.539Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13729-yellowjackets-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13729-yellowjackets-saison1"/>
+        <updated>2022-01-16T05:38:34.936Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13673-wellington-paranormal-saison3">Wellington Paranormal - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13672-wellington-paranormal-saison3">Wellington Paranormal - Saison 3<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12804-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12800-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12940-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12941-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12892-magnum-2018-saison4">Magnum, P.I. (2018) - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12891-magnum-2018-saison4">Magnum, P.I. (2018) - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,13 +1047,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29453-d-licieux"><b>1</b> - Délicieux<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29510-les-eternels"><b>2</b> - Les Eternels<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29511-dracula"><b>3</b> - Dracula<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29531-dune"><b>4</b> - Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29521-la-vie-extraordinaire-de-louis-wain"><b>5</b> - La Vie Extraordinaire de Louis Wain<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>6</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>7</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29491-rocky"><b>8</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29494-resistance"><b>9</b> - Resistance<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29532-dune"><b>10</b> - Dune<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29521-la-vie-extraordinaire-de-louis-wain"><b>4</b> - La Vie Extraordinaire de Louis Wain<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29531-dune"><b>5</b> - Dune<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29486-l-origine-du-monde"><b>6</b> - L'Origine Du Monde<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29468-la-terre-des-hommes"><b>7</b> - La Terre des hommes<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29535-gaia"><b>8</b> - Gaia<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29491-rocky"><b>9</b> - Rocky<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29494-resistance"><b>10</b> - Resistance<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1065,10 +1065,10 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13565-dexter-new-blood-saison1"><b>1</b> - Dexter: New Blood - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1"><b>3</b> - Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>5</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>6</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13548-superman-lois-saison1"><b>4</b> - Superman &amp; Lois - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13312-dexter-saison9"><b>5</b> - Dexter - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13566-dexter-new-blood-saison1"><b>6</b> - Dexter: New Blood - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>7</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>8</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>9</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
