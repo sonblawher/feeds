@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-19T05:35:55.094Z</updated>
+    <updated>2022-01-19T17:41:20.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-19T05:35:54.453Z</updated>
+        <updated>2022-01-19T17:41:19.608Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=36040-l-informaticien-n-202-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> L’Informaticien N°202 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -516,7 +516,7 @@
 					<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°30 – Février-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -559,7 +559,7 @@
 					<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><i class="flag flag-fr"></i> Micro Pratique N°305 – Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -645,7 +645,7 @@
 					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">7 vote(s)</div>
+							<div class="progress-desc">8 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -690,7 +690,7 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<a href="?p=ebook&amp;id=35498-pc-trucs-et-astuces-n-45-janvier-mars-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°45 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,40 +1001,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29626-l-incroyable-hulk</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29626-l-incroyable-hulk"/>
-        <updated>2022-01-19T05:35:54.461Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29639-two-warriors-le-combat-du-si-cle</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29639-two-warriors-le-combat-du-si-cle"/>
+        <updated>2022-01-19T17:41:19.617Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29626-l-incroyable-hulk">L'Incroyable Hulk<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29625-austin-powers-dans-goldmember">Austin Powers dans Goldmember<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29624-austin-powers">Austin Powers<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29623-austin-powers-l-espion-qui-m-a-tir-e">Austin Powers - l'espion qui m'a tirée<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29622-au-bonheur-des-ogres">Au bonheur des ogres<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29621-arizona-junior">Arizona Junior<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29620-antichrist">Antichrist<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29619-anonymous">Anonymous<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29618-alpha-dog">Alpha Dog<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29617-after-hours">After Hours<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29639-two-warriors-le-combat-du-si-cle">Two Warriors : le combat du siècle<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29638-two-warriors-le-combat-du-si-cle">Two Warriors : le combat du siècle<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29637-two-warriors-le-combat-du-si-cle">Two Warriors : le combat du siècle<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29636-zeros-and-ones">Zeros and Ones<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29635-zeros-and-ones">Zeros and Ones<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29634-zeros-and-ones">Zeros and Ones<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29633-zeros-and-ones">Zeros and Ones<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29632-zeros-and-ones">Zeros and Ones<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29631-ride-your-wave">Ride Your Wave<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29630-ride-your-wave">Ride Your Wave<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13818-power-rangers-saison8</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13818-power-rangers-saison8"/>
-        <updated>2022-01-18T17:48:49.894Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=3591-the-righteous-gemstones-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=3591-the-righteous-gemstones-saison1"/>
+        <updated>2022-01-19T17:41:19.619Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13818-power-rangers-saison8">Power Rangers - Saison 8<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13817-power-rangers-saison7">Power Rangers - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13059-nancy-drew-saison3">Nancy Drew - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13060-nancy-drew-saison3">Nancy Drew - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13816-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13815-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13814-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13813-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13721-my-life-is-murder-saison1">My Life Is Murder - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1">My Life Is Murder - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=3591-the-righteous-gemstones-saison1">The Righteous Gemstones - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13742-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13820-queens-saison1">Queens - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13819-queens-saison1">Queens - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13484-the-big-leap-saison1">The Big Leap - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1048,31 +1048,31 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29576-dune"><b>2</b> - Dune<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29582-respect"><b>3</b> - Respect<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29587-h-tel-transylvanie"><b>4</b> - Hôtel Transylvanie<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29607-la-poursuite-infernale"><b>5</b> - La Poursuite infernale<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29626-l-incroyable-hulk"><b>5</b> - L'Incroyable Hulk<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29572-la-machine-explorer-le-temps-time-machine"><b>6</b> - La Machine à explorer le temps - Time machine<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29623-austin-powers-l-espion-qui-m-a-tir-e"><b>7</b> - Austin Powers - l'espion qui m'a tirée<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29626-l-incroyable-hulk"><b>8</b> - L'Incroyable Hulk<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29569-cigare-au-miel"><b>9</b> - Cigare au miel<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29574-ray-donovan"><b>10</b> - Ray Donovan<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29607-la-poursuite-infernale"><b>7</b> - La Poursuite infernale<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29586-respect"><b>8</b> - Respect<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29614-28-semaines-plus-tard"><b>9</b> - 28 semaines plus tard<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29623-austin-powers-l-espion-qui-m-a-tir-e"><b>10</b> - Austin Powers - l'espion qui m'a tirée<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12753-the-lost-symbol-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12753-the-lost-symbol-saison1"/>
-        <updated>2022-01-18T05:39:24.434Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"/>
+        <updated>2022-01-19T17:41:19.622Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12753-the-lost-symbol-saison1"><b>1</b> - The Lost Symbol - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5"><b>2</b> - Gomorra - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>3</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>4</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13636-the-great-saison2"><b>5</b> - The Great - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>6</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13719-gomorra-saison5"><b>7</b> - Gomorra - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13637-the-great-saison2"><b>8</b> - The Great - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13672-wellington-paranormal-saison3"><b>9</b> - Wellington Paranormal - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1"><b>10</b> - My Life Is Murder - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12753-the-lost-symbol-saison1"><b>5</b> - The Lost Symbol - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5"><b>6</b> - Gomorra - Saison 5<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>7</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13636-the-great-saison2"><b>9</b> - The Great - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>10</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
