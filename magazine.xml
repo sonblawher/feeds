@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-21T17:39:59.207Z</updated>
+    <updated>2022-01-22T05:36:08.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-21T17:39:58.478Z</updated>
+        <updated>2022-01-22T05:36:07.555Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29692-chicken-run</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29692-chicken-run"/>
-        <updated>2022-01-21T17:39:58.479Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29716-furyo</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29716-furyo"/>
+        <updated>2022-01-22T05:36:07.562Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29692-chicken-run">Chicken Run<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29691-c-est-arriv-pr-s-de-chez-vous">C'est Arrivé Près de Chez Vous<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29690-casablanca">Casablanca<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29689-captain-fantastic">Captain Fantastic<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29688-capitaine-orgazmo">Capitaine Orgazmo<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29687-infinite">Infinite<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29686-infinite">Infinite<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29685-infinite">Infinite<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29684-infinite">Infinite<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29683-infinite">Infinite<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29716-furyo">Furyo<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29715-fant-mes-contre-fant-mes">Fantômes contre fantômes<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29714-le-portrait-de-dorian-gray">Le Portrait de Dorian Gray<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29713-frankenstein-junior">Frankenstein Junior<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29712-foxcatcher">Foxcatcher<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29711-fanboys">Fanboys<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29710-existenz">eXistenZ<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29709-everybody-wants-some">Everybody Wants Some !!<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29708-every-thing-will-be-fine">Every Thing Will Be Fine<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29707-escaflowne-une-fille-sur-ga-a">Escaflowne - Une fille sur Gaïa<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13855-dota-dragon-s-blood-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13855-dota-dragon-s-blood-saison2"/>
-        <updated>2022-01-21T17:39:58.479Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13868-je-te-promets-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13868-je-te-promets-saison2"/>
+        <updated>2022-01-22T05:36:07.563Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13855-dota-dragon-s-blood-saison2">DOTA: Dragon's Blood - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13854-servant-saison3">Servant - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13853-servant-saison3">Servant - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2">Batwoman - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13852-servant-saison3">Servant - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13851-servant-saison3">Servant - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13713-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13580-batwoman-saison2">Batwoman - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13712-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13850-dota-dragon-s-blood-saison2">DOTA: Dragon's Blood - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13868-je-te-promets-saison2">Je te promets - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13867-je-te-promets-saison2">Je te promets - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1">The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13738-the-cleaning-lady-saison1">The Cleaning Lady - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13085-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13086-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,12 +1047,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29573-les-affranchis"><b>1</b> - Les Affranchis<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=29582-respect"><b>2</b> - Respect<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29576-dune"><b>3</b> - Dune<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29683-infinite"><b>4</b> - Infinite<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29572-la-machine-explorer-le-temps-time-machine"><b>5</b> - La Machine à explorer le temps - Time machine<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29587-h-tel-transylvanie"><b>6</b> - Hôtel Transylvanie<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29626-l-incroyable-hulk"><b>7</b> - L'Incroyable Hulk<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29662-juste-la-fin-du-monde"><b>8</b> - Juste La Fin Du Monde<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29607-la-poursuite-infernale"><b>9</b> - La Poursuite infernale<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29662-juste-la-fin-du-monde"><b>4</b> - Juste La Fin Du Monde<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29683-infinite"><b>5</b> - Infinite<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29572-la-machine-explorer-le-temps-time-machine"><b>6</b> - La Machine à explorer le temps - Time machine<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29696-coup-de-t-te"><b>7</b> - Coup de tête<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29587-h-tel-transylvanie"><b>8</b> - Hôtel Transylvanie<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29626-l-incroyable-hulk"><b>9</b> - L'Incroyable Hulk<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29648-bo-te-noire"><b>10</b> - Boîte noire<i> [4K LIGHT] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
