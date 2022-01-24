@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-23T17:38:49.527Z</updated>
+    <updated>2022-01-24T05:35:52.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-23T17:38:48.869Z</updated>
+        <updated>2022-01-24T05:35:52.020Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,11 +1000,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29767-encanto-la-fantastique-famille-madrigal</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29767-encanto-la-fantastique-famille-madrigal"/>
-        <updated>2022-01-23T17:38:48.873Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29768-trois-couleurs-blanc</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29768-trois-couleurs-blanc"/>
+        <updated>2022-01-24T05:35:52.026Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc">Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29767-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29766-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29765-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1014,64 +1015,63 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29761-les-m-chants">Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29760-les-m-chants">Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29759-les-m-chants">Les Méchants<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29758-les-disparues-de-valan">Les Disparues de Valan<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13004-s-w-a-t-2017-saison5</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13004-s-w-a-t-2017-saison5"/>
-        <updated>2022-01-23T17:38:48.874Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13870-peacemaker-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13870-peacemaker-saison1"/>
+        <updated>2022-01-24T05:35:52.032Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13870-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13869-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5">S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13003-s-w-a-t-2017-saison5">S.W.A.T. (2017) - Saison 5<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13643-snowdrop-saison1">Snowdrop - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13642-snowdrop-saison1">Snowdrop - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13612-our-kind-of-people-saison1">Our Kind Of People - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13609-our-kind-of-people-saison1">Our Kind Of People - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13085-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13086-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29573-les-affranchis</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29573-les-affranchis"/>
-        <updated>2022-01-17T17:48:17.536Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29753-les-disparues-de-valan</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29753-les-disparues-de-valan"/>
+        <updated>2022-01-24T05:35:52.032Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29573-les-affranchis"><b>1</b> - Les Affranchis<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29582-respect"><b>2</b> - Respect<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29576-dune"><b>3</b> - Dune<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29662-juste-la-fin-du-monde"><b>4</b> - Juste La Fin Du Monde<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29683-infinite"><b>5</b> - Infinite<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29648-bo-te-noire"><b>6</b> - Boîte noire<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29696-coup-de-t-te"><b>7</b> - Coup de tête<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29735-garde-vue"><b>8</b> - Garde à vue<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29572-la-machine-explorer-le-temps-time-machine"><b>9</b> - La Machine à explorer le temps - Time machine<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29701-delicatessen"><b>10</b> - Delicatessen<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29755-les-disparues-de-valan"><b>2</b> - Les Disparues de Valan<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>3</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>4</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>5</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29757-les-disparues-de-valan"><b>6</b> - Les Disparues de Valan<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29758-les-disparues-de-valan"><b>7</b> - Les Disparues de Valan<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>8</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29763-encanto-la-fantastique-famille-madrigal"><b>9</b> - Encanto, la fantastique famille Madrigal<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29764-encanto-la-fantastique-famille-madrigal"><b>10</b> - Encanto, la fantastique famille Madrigal<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"/>
-        <updated>2022-01-21T05:36:05.413Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13729-yellowjackets-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13729-yellowjackets-saison1"/>
+        <updated>2022-01-24T05:35:52.034Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12753-the-lost-symbol-saison1"><b>5</b> - The Lost Symbol - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>6</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5"><b>7</b> - Gomorra - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>8</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>9</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2"><b>10</b> - Batwoman - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>1</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13637-the-great-saison2"><b>2</b> - The Great - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1"><b>3</b> - Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1"><b>4</b> - Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23"><b>5</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"><b>6</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13639-the-great-saison2"><b>7</b> - The Great - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5"><b>8</b> - S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13612-our-kind-of-people-saison1"><b>9</b> - Our Kind Of People - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13638-the-great-saison2"><b>10</b> - The Great - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
