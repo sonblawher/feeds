@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-24T05:35:52.649Z</updated>
+    <updated>2022-01-24T17:41:02.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-24T05:35:52.020Z</updated>
+        <updated>2022-01-24T17:41:01.758Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,10 +468,51 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><i class="flag flag-fr"></i> 01Net Hors Série N°126 – Janvier-Février 2022<i> [Magazines]</i> </a>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><img alt="01Net Hors Série N°126 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/4ec07f5d8f5c51dfd9625584a8578477.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								lun. 24 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Né de la fusion des magazines Micro hebdo et l’Ordinateur individuel, 01Net a pour ambition de vous accompagner dans le nouveau monde numérique qui révolutionne votre vie quotidienne.Le Hors-série...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=01Net" rel="nofollow">01Net</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36040-l-informaticien-n-202-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> L’Informaticien N°202 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -509,9 +550,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36040-l-informaticien-n-202-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°30 – Février-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -859,49 +898,6 @@ Un magazine 100% fiches pratiques et astuces....</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35276-micro-pratique-n-304-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique N°304 – Janvier 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">14 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35276-micro-pratique-n-304-janvier-2022"><img alt="Micro Pratique N°304 – Janvier 2022 [Magazines]" src="/img/ebooks/a1044846fb892fdc4e1d7a14e11eee61.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								sam. 11 déc. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Micro Pratique est un des leaders de la presse micro-informatique personnelle. Chaque mois, il apporte des réponses concrètes à la fois à ceux qui font leurs premiers pas et à ceux qui sont plus a...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Micro Pratique" rel="nofollow">Micro Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35276-micro-pratique-n-304-janvier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1001,40 +997,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29768-trois-couleurs-blanc</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29768-trois-couleurs-blanc"/>
-        <updated>2022-01-24T05:35:52.026Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29782-le-projet-blair-witch</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29782-le-projet-blair-witch"/>
+        <updated>2022-01-24T17:41:01.761Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc">Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29767-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29766-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29765-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29764-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29763-encanto-la-fantastique-famille-madrigal">Encanto, la fantastique famille Madrigal<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29762-les-m-chants">Les Méchants<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants">Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29760-les-m-chants">Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29759-les-m-chants">Les Méchants<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29782-le-projet-blair-witch">Le Projet Blair Witch<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29781-le-proc-s">Le Procès<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29780-le-crime-tait-presque-parfait">Le Crime était presque parfait<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29779-le-pr-nom">Le Prénom<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29778-le-jour-des-morts-vivants">Le Jour des morts-vivants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29777-la-conqu-te">La Conquête<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29776-la-petite-boutique-des-horreurs">La Petite Boutique des horreurs<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29775-la-nuit-des-morts-vivants">La Nuit des morts-vivants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29774-le-secret-de-brokeback-mountain">Le Secret de Brokeback Mountain<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29773-perdus-dans-l-espace">Perdus dans l'espace<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13870-peacemaker-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13870-peacemaker-saison1"/>
-        <updated>2022-01-24T05:35:52.032Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13765-euphoria-2019-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13765-euphoria-2019-saison2"/>
+        <updated>2022-01-24T17:41:01.762Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13870-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13869-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5">S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13003-s-w-a-t-2017-saison5">S.W.A.T. (2017) - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13643-snowdrop-saison1">Snowdrop - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13642-snowdrop-saison1">Snowdrop - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13612-our-kind-of-people-saison1">Our Kind Of People - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13609-our-kind-of-people-saison1">Our Kind Of People - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13762-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13764-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13813-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13806-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13814-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13807-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13768-station-eleven-saison1">Station Eleven - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1">Station Eleven - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,34 +1041,34 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29755-les-disparues-de-valan"><b>2</b> - Les Disparues de Valan<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>3</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>4</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>5</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29757-les-disparues-de-valan"><b>6</b> - Les Disparues de Valan<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29758-les-disparues-de-valan"><b>7</b> - Les Disparues de Valan<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>8</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29763-encanto-la-fantastique-famille-madrigal"><b>9</b> - Encanto, la fantastique famille Madrigal<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29764-encanto-la-fantastique-famille-madrigal"><b>10</b> - Encanto, la fantastique famille Madrigal<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>2</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>3</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>4</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29769-ammonite"><b>5</b> - Ammonite<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29770-j-ai-rencontr-le-diable"><b>6</b> - J'ai rencontré le Diable<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29755-les-disparues-de-valan"><b>7</b> - Les Disparues de Valan<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>8</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29771-jcvd"><b>9</b> - JCVD<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29773-perdus-dans-l-espace"><b>10</b> - Perdus dans l'espace<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13729-yellowjackets-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13729-yellowjackets-saison1"/>
-        <updated>2022-01-24T05:35:52.034Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12710-seal-team-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12710-seal-team-saison4"/>
+        <updated>2022-01-24T17:41:01.769Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>1</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13637-the-great-saison2"><b>2</b> - The Great - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1"><b>3</b> - Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1"><b>4</b> - Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23"><b>5</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"><b>6</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13639-the-great-saison2"><b>7</b> - The Great - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5"><b>8</b> - S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13612-our-kind-of-people-saison1"><b>9</b> - Our Kind Of People - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13638-the-great-saison2"><b>10</b> - The Great - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>1</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>2</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>3</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>4</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13637-the-great-saison2"><b>5</b> - The Great - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13672-wellington-paranormal-saison3"><b>6</b> - Wellington Paranormal - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1"><b>7</b> - Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>8</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5"><b>9</b> - S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1"><b>10</b> - Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
