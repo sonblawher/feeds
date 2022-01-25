@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-25T05:36:14.917Z</updated>
+    <updated>2022-01-25T17:39:58.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-25T05:36:14.131Z</updated>
+        <updated>2022-01-25T17:39:57.787Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><i class="flag flag-fr"></i> 01Net Hors Série N°126 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -515,7 +515,7 @@
 					<a href="?p=ebook&amp;id=36040-l-informaticien-n-202-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> L’Informaticien N°202 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">7 vote(s)</div>
+							<div class="progress-desc">8 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,40 +1000,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29795-south-of-heaven</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29795-south-of-heaven"/>
-        <updated>2022-01-25T05:36:14.139Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29803-source-code</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29803-source-code"/>
+        <updated>2022-01-25T17:39:57.795Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29803-source-code">Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29802-les-eternels">Les Eternels<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29801-les-eternels">Les Eternels<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29800-les-eternels">Les Eternels<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29799-les-eternels">Les Eternels<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29798-les-eternels">Les Eternels<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment">Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge">Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29795-south-of-heaven">South of Heaven<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29794-south-of-heaven">South of Heaven<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29793-south-of-heaven">South of Heaven<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29792-south-of-heaven">South of Heaven<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29791-south-of-heaven">South of Heaven<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29790-respire">Respire<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29789-lou-journal-infime">Lou ! Journal infime<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu">Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29787-le-petit-fugitif">Le Petit fugitif<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29786-le-jour-o-la-terre-s-arr-ta">Le Jour où la Terre s'arrêta<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13880-ins-nia-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13880-ins-nia-saison1"/>
-        <updated>2022-01-25T05:36:14.139Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13890-snowpiercer-saison3</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13890-snowpiercer-saison3"/>
+        <updated>2022-01-25T17:39:57.796Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13880-ins-nia-saison1">Insânia - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13879-ins-nia-saison1">Insânia - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13614-station-eleven-saison1">Station Eleven - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13611-station-eleven-saison1">Station Eleven - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13878-ins-nia-saison1">Insânia - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13877-ins-nia-saison1">Insânia - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13876-smiling-friends-saison1">Smiling Friends - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13762-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13764-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13889-neymar-le-chaos-parfait-saison1">Neymar : Le chaos parfait - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13887-neymar-le-chaos-parfait-saison1">Neymar : Le chaos parfait - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13886-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13885-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13228-star-trek-prodigy-saison1">Star Trek: Prodigy - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1">Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13883-neymar-le-chaos-parfait-saison1">Neymar : Le chaos parfait - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,14 +1045,14 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>3</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29770-j-ai-rencontr-le-diable"><b>4</b> - J'ai rencontré le Diable<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>5</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29769-ammonite"><b>6</b> - Ammonite<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29781-le-proc-s"><b>7</b> - Le Procès<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29793-south-of-heaven"><b>8</b> - South of Heaven<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29755-les-disparues-de-valan"><b>9</b> - Les Disparues de Valan<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>10</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>3</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29803-source-code"><b>4</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>5</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>6</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29769-ammonite"><b>7</b> - Ammonite<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29770-j-ai-rencontr-le-diable"><b>8</b> - J'ai rencontré le Diable<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29781-le-proc-s"><b>9</b> - Le Procès<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>10</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1065,13 +1065,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>1</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>2</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>3</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>4</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13637-the-great-saison2"><b>5</b> - The Great - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13672-wellington-paranormal-saison3"><b>6</b> - Wellington Paranormal - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1"><b>7</b> - Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>8</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5"><b>9</b> - S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13023-ghosts-us-saison1"><b>10</b> - Ghosts (US) - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>4</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1"><b>5</b> - Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1"><b>6</b> - My Life Is Murder - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>7</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3"><b>8</b> - Snowpiercer - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13637-the-great-saison2"><b>9</b> - The Great - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13672-wellington-paranormal-saison3"><b>10</b> - Wellington Paranormal - Saison 3<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
