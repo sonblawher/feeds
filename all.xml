@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T05:36:31.006Z</updated>
+    <updated>2022-01-26T17:40:15.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-26T05:36:30.224Z</updated>
+        <updated>2022-01-26T17:40:14.477Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,10 +467,55 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°117 – Janvier-Février 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><img alt="Windows et Internet Pratique N°117 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/2da0ef9896ceb0acce82ade59c84aa8b.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								mer. 26 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><i class="flag flag-fr"></i> 01Net Hors Série N°126 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">7 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -508,14 +553,12 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36040-l-informaticien-n-202-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> L’Informaticien N°202 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -858,49 +901,6 @@ Un magazine 100% fiches pratiques et astuces....</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><i class="flag flag-fr"></i> Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022<i> [Magazines]</i> </a>
-											<div title="92.307692307692% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 92.307692307692%;"></div>
-							<div class="progress-desc">13 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022"><img alt="Micro Pratique Hors Série N°39 – Décembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/66c6c6e6255375beed6c4621394fdb52.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								ven. 17 déc. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Le magazine de la micro-informatique personnelle Pour tirer le meilleur parti de votre PC… mais aussi de tous les appareils connectés : périphériques, appareil photo, smartphone… Avec Micro Pratiq...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Micro Pratique" rel="nofollow">Micro Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35442-micro-pratique-hors-s-rie-n-39-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1000,11 +1000,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29808-clifford</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29808-clifford"/>
-        <updated>2022-01-26T05:36:30.228Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29810-tom-and-jerry-cowboy-up</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29810-tom-and-jerry-cowboy-up"/>
+        <updated>2022-01-26T17:40:14.481Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29810-tom-and-jerry-cowboy-up">Tom and Jerry: Cowboy Up!<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29809-tom-and-jerry-cowboy-up">Tom and Jerry: Cowboy Up!<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29808-clifford">Clifford<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29807-clifford">Clifford<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29806-clifford">Clifford<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1013,27 +1015,25 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29803-source-code">Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29802-les-eternels">Les Eternels<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29801-les-eternels">Les Eternels<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29800-les-eternels">Les Eternels<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29799-les-eternels">Les Eternels<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13878-ins-nia-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13878-ins-nia-saison1"/>
-        <updated>2022-01-26T05:36:30.232Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13910-that-70s-show-saison8</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13910-that-70s-show-saison8"/>
+        <updated>2022-01-26T17:40:14.482Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13878-ins-nia-saison1">Insânia - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13877-ins-nia-saison1">Insânia - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13742-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13892-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13891-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13728-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13910-that-70s-show-saison8">That '70s Show - Saison 8<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13909-that-70s-show-saison7">That '70s Show - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13908-that-70s-show-saison6">That '70s Show - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13907-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13906-that-70s-show-saison5">That '70s Show - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13905-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5">Animal Kingdom - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13904-the-sinner-saison4">The Sinner - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13903-that-70s-show-saison4">That '70s Show - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13902-that-70s-show-saison3">That '70s Show - Saison 3<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,34 +1044,34 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>2</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>3</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>4</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code"><b>5</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>3</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>4</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>5</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>6</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>7</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>7</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29769-ammonite"><b>8</b> - Ammonite<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29770-j-ai-rencontr-le-diable"><b>9</b> - J'ai rencontré le Diable<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29781-le-proc-s"><b>10</b> - Le Procès<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29803-source-code"><b>9</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>10</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12710-seal-team-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12710-seal-team-saison4"/>
-        <updated>2022-01-24T17:41:01.769Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"/>
+        <updated>2022-01-26T17:40:14.488Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>1</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>2</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>3</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>4</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>5</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1"><b>6</b> - Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1"><b>7</b> - SurrealEstate - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1"><b>8</b> - My Life Is Murder - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13729-yellowjackets-saison1"><b>9</b> - Yellowjackets - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>10</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>4</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>6</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>7</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1"><b>10</b> - SurrealEstate - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
