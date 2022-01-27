@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T17:40:15.105Z</updated>
+    <updated>2022-01-27T05:36:06.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-26T17:40:14.477Z</updated>
+        <updated>2022-01-27T05:36:06.118Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°117 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
+							<div class="progress-desc">2 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,21 +1000,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29810-tom-and-jerry-cowboy-up</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29810-tom-and-jerry-cowboy-up"/>
-        <updated>2022-01-26T17:40:14.481Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29817-out-of-death</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29817-out-of-death"/>
+        <updated>2022-01-27T05:36:06.121Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29817-out-of-death">Out Of Death<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29816-out-of-death">Out Of Death<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29815-out-of-death">Out Of Death<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29814-out-of-death">Out Of Death<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29813-out-of-death">Out Of Death<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29812-cloclo">Cloclo<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29811-tom-and-jerry-cowboy-up">Tom and Jerry: Cowboy Up!<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29810-tom-and-jerry-cowboy-up">Tom and Jerry: Cowboy Up!<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29809-tom-and-jerry-cowboy-up">Tom and Jerry: Cowboy Up!<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29808-clifford">Clifford<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29807-clifford">Clifford<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29806-clifford">Clifford<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29805-clifford">Clifford<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29804-clifford">Clifford<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code">Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29802-les-eternels">Les Eternels<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29801-les-eternels">Les Eternels<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,14 +1045,14 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>3</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>4</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>5</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>6</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>3</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>4</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>5</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>6</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>7</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29769-ammonite"><b>8</b> - Ammonite<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code"><b>9</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>10</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29803-source-code"><b>8</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>9</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29769-ammonite"><b>10</b> - Ammonite<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1071,7 +1071,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>7</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1"><b>10</b> - SurrealEstate - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>10</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
