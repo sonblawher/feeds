@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-27T17:39:59.817Z</updated>
+    <updated>2022-01-28T05:36:05.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-27T17:39:59.167Z</updated>
+        <updated>2022-01-28T05:36:04.717Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°117 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">5 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,21 +1001,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29838-la-conqu-te-de-l-ouest</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29838-la-conqu-te-de-l-ouest"/>
-        <updated>2022-01-27T17:39:59.170Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29851-baby-phone</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29851-baby-phone"/>
+        <updated>2022-01-28T05:36:04.722Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29838-la-conqu-te-de-l-ouest">La Conquête de l'Ouest<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29837-la-cit-des-enfants-perdus">La Cité des enfants perdus<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29836-la-ch-vre">La Chèvre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29835-la-science-des-r-ves">La Science des rêves<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29834-la-nuit-am-ricaine">La Nuit américaine<i> [HDTV 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29833-la-cit-de-dieu">La Cité de Dieu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29832-la-grande-bouffe">La Grande bouffe<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29831-l-extravagant-voyage-du-jeune-et-prodigieux-t-s-spivet">L'Extravagant voyage du jeune et prodigieux T.S. Spivet<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29830-l-etrange-cr-ature-du-lac-noir">L'Etrange créature du lac noir<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29829-l-antre-de-la-folie">L'Antre de la folie<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29851-baby-phone">Baby Phone<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29850-la-cabane-dans-les-bois">La Cabane dans les bois<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29849-l-orphelinat">L'Orphelinat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29848-les-chroniques-de-riddick">Les Chroniques de Riddick<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29847-les-choses-de-la-vie">Les choses de la vie<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29846-les-aventures-de-philibert-capitaine-puceau">Les Aventures de Philibert, capitaine puceau<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29845-les-autres">Les Autres<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29844-les-diaboliques">Les Diaboliques<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29843-les-aventures-de-jack-burton-dans-les-griffes-du-mandarin">Les Aventures de Jack Burton dans les griffes du mandarin<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29842-les-anges-d-chus">Les Anges déchus<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,11 +1046,11 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>3</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>4</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>5</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>6</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code"><b>7</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>3</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>4</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>5</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29803-source-code"><b>6</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>7</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>8</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>9</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge"><b>10</b> - Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
