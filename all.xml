@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T17:39:59.229Z</updated>
+    <updated>2022-01-29T05:36:15.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-28T17:39:58.560Z</updated>
+        <updated>2022-01-29T05:36:14.724Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29857-home-team</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29857-home-team"/>
-        <updated>2022-01-28T17:39:58.563Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29861-l-ge-de-glace-les-aventures-de-buck-wild</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29861-l-ge-de-glace-les-aventures-de-buck-wild"/>
+        <updated>2022-01-29T05:36:14.728Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=29861-l-ge-de-glace-les-aventures-de-buck-wild">L'Âge de glace : Les aventures de Buck Wild<i> [WEB-DL 4K] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29860-tout-s-est-bien-pass">Tout s'est bien passé<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29859-tout-s-est-bien-pass">Tout s'est bien passé<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29858-tout-s-est-bien-pass">Tout s'est bien passé<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29857-home-team">Home Team<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29856-home-team">Home Team<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29855-home-team">Home Team<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29854-l-ge-de-glace-les-aventures-de-buck-wild">L'Âge de glace : Les aventures de Buck Wild<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29853-l-ge-de-glace-les-aventures-de-buck-wild">L'Âge de glace : Les aventures de Buck Wild<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29852-l-ge-de-glace-les-aventures-de-buck-wild">L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29851-baby-phone">Baby Phone<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29850-la-cabane-dans-les-bois">La Cabane dans les bois<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29849-l-orphelinat">L'Orphelinat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29848-les-chroniques-de-riddick">Les Chroniques de Riddick<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13943-notre-jeunesse-en-orbite-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13943-notre-jeunesse-en-orbite-saison1"/>
-        <updated>2022-01-28T17:39:58.564Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13580-batwoman-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13580-batwoman-saison2"/>
+        <updated>2022-01-29T05:36:14.729Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13943-notre-jeunesse-en-orbite-saison1">Notre jeunesse en orbite - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13942-notre-jeunesse-en-orbite-saison1">Notre jeunesse en orbite - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13941-feria-l-clat-des-t-n-bres-saison1">Feria : L'éclat des ténèbres - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13940-la-femme-qui-habitait-en-face-de-la-fille-la-fen-tre-saison1">La Femme qui habitait en face de la fille à la fenêtre - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13939-la-femme-qui-habitait-en-face-de-la-fille-la-fen-tre-saison1">La Femme qui habitait en face de la fille à la fenêtre - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13938-au-service-du-pass-saison1">Au service du passé - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13937-au-service-du-pass-saison1">Au service du passé - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13936-notre-jeunesse-en-orbite-saison1">Notre jeunesse en orbite - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13935-notre-jeunesse-en-orbite-saison1">Notre jeunesse en orbite - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13934-feria-l-clat-des-t-n-bres-saison1">Feria : L'éclat des ténèbres - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13580-batwoman-saison2">Batwoman - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13949-all-of-us-are-dead-saison1">All Of Us Are Dead - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13948-au-service-du-pass-saison1">Au service du passé - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13947-la-femme-qui-habitait-en-face-de-la-fille-la-fen-tre-saison1">La Femme qui habitait en face de la fille à la fenêtre - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13631-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13632-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4">SEAL Team - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4">SEAL Team - Saison 4<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,13 +1046,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>3</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>4</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>5</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code"><b>6</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>7</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29760-les-m-chants"><b>8</b> - Les Méchants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>9</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge"><b>10</b> - Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>4</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29803-source-code"><b>5</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>6</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>7</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>8</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge"><b>9</b> - Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29832-la-grande-bouffe"><b>10</b> - La Grande bouffe<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,8 +1068,8 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>4</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>6</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>7</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>7</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>8</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>10</b> - Evil - Saison 2<i> - VF</i></a></li>
 													</ul>]]></content>
