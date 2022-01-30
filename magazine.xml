@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-30T05:36:33.832Z</updated>
+    <updated>2022-01-30T17:37:50.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-30T05:36:33.195Z</updated>
+        <updated>2022-01-30T17:37:49.367Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,6 +468,51 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><i class="flag flag-fr"></i> 01Net N°967 Du 2 au 15 Février 2022<i> [Magazines]</i> </a>
+											<div title="0% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 0%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><img alt="01Net N°967 Du 2 au 15 Février 2022 [Magazines]" src="/img/ebooks/3a0580542f32fac40db89592b9e6f43b.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								dim. 30 janv. 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Né de la fusion des magazines Micro hebdo et l’Ordinateur individuel, 01Net a pour ambition de vous accompagner dans le nouveau monde numérique qui révolutionne votre vie quotidienne. Vous y retro...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=01Net" rel="nofollow">01Net</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°117 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -509,9 +554,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><i class="flag flag-fr"></i> 01Net Hors Série N°126 – Janvier-Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -859,49 +902,6 @@ Un magazine 100% fiches pratiques et astuces....</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=35471-silicon-n-9-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022"><i class="flag flag-fr"></i> Pirate Informatique N°51 – Janvier-Mars 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">13 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022"><img alt="Pirate Informatique N°51 – Janvier-Mars 2022 [Magazines]" src="/img/ebooks/1f251cbb57a4bd357950d2972cfbe6bb.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								sam. 18 déc. 2021							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Les news, logiciels et tendances 100% sécurité informatique, hacking et nouvelles technologies. Des sujets clairs et pratiques pour décrypter l’info, se protéger et tout savoir sur les dernières t...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Pirate Informatique" rel="nofollow">Pirate Informatique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35468-pirate-informatique-n-51-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1001,40 +1001,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29876-une-histoire-d-amour-et-de-d-sir</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29876-une-histoire-d-amour-et-de-d-sir"/>
-        <updated>2022-01-30T05:36:33.201Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29889-m-le-maudit</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29889-m-le-maudit"/>
+        <updated>2022-01-30T17:37:49.371Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29876-une-histoire-d-amour-et-de-d-sir">Une histoire d'amour et de désir<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29875-une-histoire-d-amour-et-de-d-sir">Une histoire d'amour et de désir<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29874-une-histoire-d-amour-et-de-d-sir">Une histoire d'amour et de désir<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29873-flag-day">Flag Day<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29872-flag-day">Flag Day<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29871-flag-day">Flag Day<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29870-serre-moi-fort">Serre Moi Fort<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29869-serre-moi-fort">Serre Moi Fort<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29868-les-h-ro-ques">Les Héroïques<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29867-les-h-ro-ques">Les Héroïques<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29889-m-le-maudit">M le Maudit<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29888-magic-mike-xxl">Magic Mike XXL<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29887-the-big-short-le-casse-du-si-cle">The Big Short : le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29886-catwoman-hunted">Catwoman: Hunted<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29885-catwoman-hunted">Catwoman: Hunted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29884-catwoman-hunted">Catwoman: Hunted<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29883-catwoman-hunted">Catwoman: Hunted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29882-catwoman-hunted">Catwoman: Hunted<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29881-black-friday">Black Friday<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29880-black-friday">Black Friday<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13955-the-lost-symbol-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13955-the-lost-symbol-saison1"/>
-        <updated>2022-01-30T05:36:33.202Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12596-alex-hugo-saison7</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12596-alex-hugo-saison7"/>
+        <updated>2022-01-30T17:37:49.372Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13955-the-lost-symbol-saison1">The Lost Symbol - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13954-the-outpost-saison4">The Outpost - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13953-the-lost-symbol-saison1">The Lost Symbol - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13952-the-outpost-saison4">The Outpost - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5">Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5">Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13713-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13712-day-of-the-dead-saison1">Day Of The Dead - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13870-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13869-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12596-alex-hugo-saison7">Alex Hugo - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13442-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13443-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12595-alex-hugo-saison7">Alex Hugo - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13440-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13441-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13060-nancy-drew-saison3">Nancy Drew - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13059-nancy-drew-saison3">Nancy Drew - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,13 +1047,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>3</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>4</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code"><b>5</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29756-les-disparues-de-valan"><b>6</b> - Les Disparues de Valan<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>7</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>8</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge"><b>9</b> - Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29832-la-grande-bouffe"><b>10</b> - La Grande bouffe<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>4</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>5</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29803-source-code"><b>6</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>7</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge"><b>8</b> - Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29832-la-grande-bouffe"><b>9</b> - La Grande bouffe<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29837-la-cit-des-enfants-perdus"><b>10</b> - La Cité des enfants perdus<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,13 +1066,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>4</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>6</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>7</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2"><b>10</b> - Batwoman - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12595-alex-hugo-saison7"><b>4</b> - Alex Hugo - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>5</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>6</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>7</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>8</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>9</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>10</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
