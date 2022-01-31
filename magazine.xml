@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-01-30T17:37:50.089Z</updated>
+    <updated>2022-01-31T05:36:28.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-01-30T17:37:49.367Z</updated>
+        <updated>2022-01-31T05:36:28.139Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -469,9 +469,9 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><i class="flag flag-fr"></i> 01Net N°967 Du 2 au 15 Février 2022<i> [Magazines]</i> </a>
-											<div title="0% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 0%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
+											<div title="50% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 50%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,21 +1001,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29889-m-le-maudit</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29889-m-le-maudit"/>
-        <updated>2022-01-30T17:37:49.371Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"/>
+        <updated>2022-01-31T05:36:28.145Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29889-m-le-maudit">M le Maudit<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29888-magic-mike-xxl">Magic Mike XXL<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29887-the-big-short-le-casse-du-si-cle">The Big Short : le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29886-catwoman-hunted">Catwoman: Hunted<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29885-catwoman-hunted">Catwoman: Hunted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29884-catwoman-hunted">Catwoman: Hunted<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29883-catwoman-hunted">Catwoman: Hunted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29882-catwoman-hunted">Catwoman: Hunted<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29881-black-friday">Black Friday<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29880-black-friday">Black Friday<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s">Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29905-nos-plus-belles-ann-es">Nos plus belles années<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29904-night-and-day">Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne">Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29902-naked">Naked<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29901-l-ge-de-glace-les-aventures-de-buck-wild">L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP 4K] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29900-mysterious-skin">Mysterious Skin<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29899-misery">Misery<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29898-my-movie-project">My Movie Project<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29897-morning-glory">Morning Glory<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1039,40 +1039,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29753-les-disparues-de-valan</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29753-les-disparues-de-valan"/>
-        <updated>2022-01-24T05:35:52.032Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29903-ne-le-dis-personne</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29903-ne-le-dis-personne"/>
+        <updated>2022-01-31T05:36:28.150Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29753-les-disparues-de-valan"><b>1</b> - Les Disparues de Valan<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29785-le-parfum-histoire-d-un-meurtrier"><b>2</b> - Le Parfum : histoire d'un meurtrier<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29797-le-cinqui-me-l-ment"><b>3</b> - Le Cinquième élément<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29761-les-m-chants"><b>4</b> - Les Méchants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29788-le-r-gne-du-feu"><b>5</b> - Le Règne du feu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29803-source-code"><b>6</b> - Source Code<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29768-trois-couleurs-blanc"><b>7</b> - Trois couleurs - Blanc<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29796-trois-couleurs-rouge"><b>8</b> - Trois couleurs - Rouge<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29832-la-grande-bouffe"><b>9</b> - La Grande bouffe<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29837-la-cit-des-enfants-perdus"><b>10</b> - La Cité des enfants perdus<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>1</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"><b>2</b> - Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29899-misery"><b>3</b> - Misery<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>4</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29905-nos-plus-belles-ann-es"><b>5</b> - Nos plus belles années<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29879-black-friday"><b>6</b> - Black Friday<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29880-black-friday"><b>7</b> - Black Friday<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29881-black-friday"><b>8</b> - Black Friday<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29883-catwoman-hunted"><b>9</b> - Catwoman: Hunted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29887-the-big-short-le-casse-du-si-cle"><b>10</b> - The Big Short : le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"/>
-        <updated>2022-01-26T17:40:14.488Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12595-alex-hugo-saison7</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12595-alex-hugo-saison7"/>
+        <updated>2022-01-31T05:36:28.150Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12595-alex-hugo-saison7"><b>4</b> - Alex Hugo - Saison 7<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12710-seal-team-saison4"><b>5</b> - SEAL Team - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>6</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>7</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12709-seal-team-saison4"><b>8</b> - SEAL Team - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>9</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>10</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12595-alex-hugo-saison7"><b>1</b> - Alex Hugo - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12596-alex-hugo-saison7"><b>2</b> - Alex Hugo - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13059-nancy-drew-saison3"><b>3</b> - Nancy Drew - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13060-nancy-drew-saison3"><b>4</b> - Nancy Drew - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1"><b>5</b> - Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13955-the-lost-symbol-saison1"><b>6</b> - The Lost Symbol - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13714-baptiste-saison2"><b>7</b> - Baptiste - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13804-express-saison1"><b>8</b> - Express - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13559-blade-runner-black-lotus-saison1"><b>9</b> - Blade Runner - Black Lotus - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13805-express-saison1"><b>10</b> - Express - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
