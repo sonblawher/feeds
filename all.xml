@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-31T17:37:44.698Z</updated>
+    <updated>2022-02-01T05:36:05.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-01-31T17:37:44.072Z</updated>
+        <updated>2022-02-01T05:36:05.220Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,9 +468,9 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><i class="flag flag-fr"></i> 01Net N°967 Du 2 au 15 Février 2022<i> [Magazines]</i> </a>
-											<div title="50% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 50%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+											<div title="66.666666666667% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 66.666666666667%;"></div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,21 +1000,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29919-white-girl</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29919-white-girl"/>
-        <updated>2022-01-31T17:37:44.078Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29931-la-m-thode-williams</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29931-la-m-thode-williams"/>
+        <updated>2022-02-01T05:36:05.224Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29919-white-girl">White Girl<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29918-wakefield">Wakefield<i> [BLU-RAY 720p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29917-railroad-tigers">Railroad Tigers<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29916-deepwater">Deepwater<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29915-la-isla-m-nima">La Isla mínima<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29914-diversion">Diversion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29913-la-isla-m-nima">La Isla mínima<i> [HDLIGHT 1080p] - VO</i></a></li>
-															<li><a href="/?p=film&amp;id=29912-un-homme-id-al">Un homme idéal<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29911-le-sommet-des-dieux">Le Sommet des Dieux<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29910-le-sommet-des-dieux">Le Sommet des Dieux<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29931-la-m-thode-williams">La Méthode Williams<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29930-heat">Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29929-la-m-thode-williams">La Méthode Williams<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29928-la-m-thode-williams">La Méthode Williams<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29927-la-m-thode-williams">La Méthode Williams<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29926-la-m-thode-williams">La Méthode Williams<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29925-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29924-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29923-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29922-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,15 +1044,15 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>1</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"><b>2</b> - Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29890-match-point"><b>3</b> - Match Point<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>4</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29905-nos-plus-belles-ann-es"><b>5</b> - Nos plus belles années<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>6</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29889-m-le-maudit"><b>7</b> - M le Maudit<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29899-misery"><b>8</b> - Misery<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29900-mysterious-skin"><b>9</b> - Mysterious Skin<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=29901-l-ge-de-glace-les-aventures-de-buck-wild"><b>10</b> - L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP 4K] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29890-match-point"><b>2</b> - Match Point<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>3</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"><b>4</b> - Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29901-l-ge-de-glace-les-aventures-de-buck-wild"><b>5</b> - L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP 4K] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29905-nos-plus-belles-ann-es"><b>6</b> - Nos plus belles années<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>7</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29887-the-big-short-le-casse-du-si-cle"><b>8</b> - The Big Short : le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29889-m-le-maudit"><b>9</b> - M le Maudit<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29893-m-moires-d-une-geisha"><b>10</b> - Mémoires d'une geisha<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,10 +1068,10 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>4</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>5</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1"><b>6</b> - Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>7</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13768-station-eleven-saison1"><b>8</b> - Station Eleven - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13955-the-lost-symbol-saison1"><b>9</b> - The Lost Symbol - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13228-star-trek-prodigy-saison1"><b>10</b> - Star Trek: Prodigy - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1"><b>7</b> - Station Eleven - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>8</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13768-station-eleven-saison1"><b>9</b> - Station Eleven - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13955-the-lost-symbol-saison1"><b>10</b> - The Lost Symbol - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
