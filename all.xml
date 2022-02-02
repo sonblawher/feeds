@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-02T05:36:05.071Z</updated>
+    <updated>2022-02-02T17:39:30.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-02T05:36:04.336Z</updated>
+        <updated>2022-02-02T17:39:29.899Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29960-eug-nie-grandet</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29960-eug-nie-grandet"/>
-        <updated>2022-02-02T05:36:04.342Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29987-the-box</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29987-the-box"/>
+        <updated>2022-02-02T17:39:29.903Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29960-eug-nie-grandet">Eugénie Grandet<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29959-eug-nie-grandet">Eugénie Grandet<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29958-eug-nie-grandet">Eugénie Grandet<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29957-the-truman-show">The Truman Show<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29956-requiem-pour-un-massacre">Requiem pour un massacre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29955-rubber">Rubber<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29954-robocop-2">RoboCop 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29953-robocop-3">Robocop 3<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29952-priest">Priest<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29951-r-alit">Réalité<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29987-the-box">The Box<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29986-the-fountain">The Fountain<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29985-the-faculty">The Faculty<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29984-the-crazies">The Crazies<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29983-the-bling-ring">The Bling Ring<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29982-the-bay">The Bay<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29981-the-artist">The Artist<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29980-tenue-de-soir-e">Tenue de soirée<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29979-tamara-drewe">Tamara Drewe<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29978-superman-returns">Superman Returns<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13965-comment-lever-un-super-h-ros-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13965-comment-lever-un-super-h-ros-saison2"/>
-        <updated>2022-02-01T17:40:09.485Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13742-surrealestate-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13742-surrealestate-saison1"/>
+        <updated>2022-02-02T17:39:29.904Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13965-comment-lever-un-super-h-ros-saison2">Comment élever un super-héros - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13348-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13964-comment-lever-un-super-h-ros-saison2">Comment élever un super-héros - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13721-my-life-is-murder-saison1">My Life Is Murder - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1">My Life Is Murder - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13963-comment-lever-un-super-h-ros-saison2">Comment élever un super-héros - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13950-arctic-circle-saison2">Arctic Circle - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13742-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13005-bull-saison6">Bull - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12940-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12941-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13919-billions-saison6">Billions - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13918-billions-saison6">Billions - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13971-pam-tommy-saison1">Pam &amp; Tommy - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1">Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13970-pam-tommy-saison1">Pam &amp; Tommy - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,34 +1044,34 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>1</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>2</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29939-house-of-gucci"><b>2</b> - House of Gucci<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>3</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29939-house-of-gucci"><b>4</b> - House of Gucci<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29890-match-point"><b>5</b> - Match Point<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"><b>6</b> - Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29930-heat"><b>7</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>4</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29930-heat"><b>5</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29890-match-point"><b>6</b> - Match Point<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"><b>7</b> - Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29957-the-truman-show"><b>8</b> - The Truman Show<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29901-l-ge-de-glace-les-aventures-de-buck-wild"><b>9</b> - L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP 4K] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29905-nos-plus-belles-ann-es"><b>10</b> - Nos plus belles années<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29956-requiem-pour-un-massacre"><b>9</b> - Requiem pour un massacre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29901-l-ge-de-glace-les-aventures-de-buck-wild"><b>10</b> - L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP 4K] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12595-alex-hugo-saison7</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12595-alex-hugo-saison7"/>
-        <updated>2022-01-31T05:36:28.150Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"/>
+        <updated>2022-02-02T17:39:29.906Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12595-alex-hugo-saison7"><b>1</b> - Alex Hugo - Saison 7<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>2</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>3</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>4</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12596-alex-hugo-saison7"><b>5</b> - Alex Hugo - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>6</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1"><b>7</b> - Station Eleven - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>8</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1"><b>9</b> - Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13950-arctic-circle-saison2"><b>10</b> - Arctic Circle - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12595-alex-hugo-saison7"><b>4</b> - Alex Hugo - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>6</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>7</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>8</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12596-alex-hugo-saison7"><b>9</b> - Alex Hugo - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>10</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
