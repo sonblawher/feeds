@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-02-02T17:39:30.619Z</updated>
+    <updated>2022-02-03T05:36:08.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-02-02T17:39:29.899Z</updated>
+        <updated>2022-02-03T05:36:08.016Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,21 +1001,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29987-the-box</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29987-the-box"/>
-        <updated>2022-02-02T17:39:29.903Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30008-frankenstein</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30008-frankenstein"/>
+        <updated>2022-02-03T05:36:08.020Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29987-the-box">The Box<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29986-the-fountain">The Fountain<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29985-the-faculty">The Faculty<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29984-the-crazies">The Crazies<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29983-the-bling-ring">The Bling Ring<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29982-the-bay">The Bay<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29981-the-artist">The Artist<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29980-tenue-de-soir-e">Tenue de soirée<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29979-tamara-drewe">Tamara Drewe<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29978-superman-returns">Superman Returns<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30008-frankenstein">Frankenstein<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30007-les-eternels">Les Eternels<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30006-7-jours">7 jours<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30005-7-jours">7 jours<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30004-7-jours">7 jours<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30003-7-jours">7 jours<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30002-7-jours">7 jours<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30001-l-ge-de-glace-les-lois-de-l-univers">L'Âge de Glace : les Lois de l'Univers<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30000-wakefield">Wakefield<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=29999-the-fallout">The Fallout<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1039,20 +1039,20 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=29903-ne-le-dis-personne</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=29903-ne-le-dis-personne"/>
-        <updated>2022-01-31T05:36:28.150Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=29939-house-of-gucci</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=29939-house-of-gucci"/>
+        <updated>2022-02-03T05:36:08.022Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>1</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29939-house-of-gucci"><b>2</b> - House of Gucci<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29939-house-of-gucci"><b>1</b> - House of Gucci<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>2</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>3</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>4</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29930-heat"><b>5</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29890-match-point"><b>6</b> - Match Point<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29906-nous-nous-sommes-tant-aim-s"><b>7</b> - Nous nous sommes tant aimés !<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29957-the-truman-show"><b>8</b> - The Truman Show<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29956-requiem-pour-un-massacre"><b>9</b> - Requiem pour un massacre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29956-requiem-pour-un-massacre"><b>8</b> - Requiem pour un massacre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29957-the-truman-show"><b>9</b> - The Truman Show<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29901-l-ge-de-glace-les-aventures-de-buck-wild"><b>10</b> - L'Âge de glace : Les aventures de Buck Wild<i> [HDRIP 4K] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
