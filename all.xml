@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-06T05:36:17.501Z</updated>
+    <updated>2022-02-06T17:37:46.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-06T05:36:16.811Z</updated>
+        <updated>2022-02-06T17:37:46.350Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30053-les-trois-mousquetaires</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30053-les-trois-mousquetaires"/>
-        <updated>2022-02-06T05:36:16.814Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30063-s-o-s-fant-mes-l-h-ritage</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30063-s-o-s-fant-mes-l-h-ritage"/>
+        <updated>2022-02-06T17:37:46.354Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30053-les-trois-mousquetaires">Les Trois Mousquetaires<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30052-les-tortues-ninja-3">Les Tortues Ninja 3<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30051-les-tortues-ninja-2">Les Tortues ninja 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30050-les-tortues-ninja">Les Tortues Ninja<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30049-the-delta-force">The Delta Force<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30048-richie-rich">Richie Rich<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30047-kazaam">Kazaam<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30046-gatsby-le-magnifique">Gatsby le Magnifique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30045-american-underdog">American Underdog<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30044-american-underdog">American Underdog<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30063-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30062-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30061-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30060-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30059-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30058-elizabeth-l-ge-d-or">Elizabeth : l'âge d'or<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30057-elizabeth-l-ge-d-or">Elizabeth : l'âge d'or<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30056-le-tr-sor-du-petit-nicolas">Le Trésor du Petit Nicolas<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30055-le-tr-sor-du-petit-nicolas">Le Trésor du Petit Nicolas<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30054-le-tr-sor-du-petit-nicolas">Le Trésor du Petit Nicolas<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13966-la-fortuna-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13966-la-fortuna-saison1"/>
-        <updated>2022-02-06T05:36:16.818Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2"/>
+        <updated>2022-02-06T17:37:46.354Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13966-la-fortuna-saison1">La Fortuna - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13991-britannia-saison3">Britannia - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13990-britannia-saison3">Britannia - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13989-britannia-saison3">Britannia - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13869-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13870-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13443-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13442-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13440-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13441-power-book-ii-ghost-saison2">Power Book II: Ghost - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13560-blade-runner-black-lotus-saison1">Blade Runner - Black Lotus - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,13 +1046,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30009-old-henry"><b>1</b> - Old Henry<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29939-house-of-gucci"><b>2</b> - House of Gucci<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30008-frankenstein"><b>3</b> - Frankenstein<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30038-interstellar"><b>4</b> - Interstellar<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>5</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>6</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29930-heat"><b>7</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30022-wargames"><b>8</b> - WarGames<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>9</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29958-eug-nie-grandet"><b>10</b> - Eugénie Grandet<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29930-heat"><b>4</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30038-interstellar"><b>5</b> - Interstellar<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>6</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30022-wargames"><b>7</b> - WarGames<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>8</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>9</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30017-old-henry"><b>10</b> - Old Henry<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1069,9 +1069,9 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>6</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>7</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2"><b>8</b> - Batwoman - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>9</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12596-alex-hugo-saison7"><b>10</b> - Alex Hugo - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13982-reacher-saison1"><b>8</b> - Reacher - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13579-batwoman-saison2"><b>9</b> - Batwoman - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>10</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
