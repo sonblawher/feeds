@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-02-05T17:36:13.542Z</updated>
+    <updated>2022-02-06T05:36:17.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-02-05T17:36:12.849Z</updated>
+        <updated>2022-02-06T05:36:16.811Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30048-richie-rich</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30048-richie-rich"/>
-        <updated>2022-02-05T17:36:12.853Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30053-les-trois-mousquetaires</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30053-les-trois-mousquetaires"/>
+        <updated>2022-02-06T05:36:16.814Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30053-les-trois-mousquetaires">Les Trois Mousquetaires<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30052-les-tortues-ninja-3">Les Tortues Ninja 3<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30051-les-tortues-ninja-2">Les Tortues ninja 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30050-les-tortues-ninja">Les Tortues Ninja<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30049-the-delta-force">The Delta Force<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30048-richie-rich">Richie Rich<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30047-kazaam">Kazaam<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30046-gatsby-le-magnifique">Gatsby le Magnifique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30045-american-underdog">American Underdog<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30044-american-underdog">American Underdog<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30043-american-underdog">American Underdog<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30042-american-underdog">American Underdog<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30041-the-card-counter">The Card Counter<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30040-the-card-counter">The Card Counter<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30039-l-amant">L'amant<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13991-britannia-saison3</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13991-britannia-saison3"/>
-        <updated>2022-02-05T17:36:12.855Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13966-la-fortuna-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13966-la-fortuna-saison1"/>
+        <updated>2022-02-06T05:36:16.818Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13966-la-fortuna-saison1">La Fortuna - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13991-britannia-saison3">Britannia - Saison 3<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13990-britannia-saison3">Britannia - Saison 3<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13989-britannia-saison3">Britannia - Saison 3<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13869-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13870-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3">9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13837-9-1-1-lone-star-saison3">9-1-1: Lone Star - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13988-britannia-saison3">Britannia - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,12 +1047,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30009-old-henry"><b>1</b> - Old Henry<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=29939-house-of-gucci"><b>2</b> - House of Gucci<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30008-frankenstein"><b>3</b> - Frankenstein<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>4</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>5</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30022-wargames"><b>6</b> - WarGames<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30038-interstellar"><b>7</b> - Interstellar<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>8</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=29930-heat"><b>9</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30038-interstellar"><b>4</b> - Interstellar<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29903-ne-le-dis-personne"><b>5</b> - Ne le dis à personne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29907-le-sommet-des-dieux"><b>6</b> - Le Sommet des Dieux<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=29930-heat"><b>7</b> - Heat<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30022-wargames"><b>8</b> - WarGames<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=29904-night-and-day"><b>9</b> - Night and Day<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=29958-eug-nie-grandet"><b>10</b> - Eugénie Grandet<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
