@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-08T05:36:10.477Z</updated>
+    <updated>2022-02-08T17:38:50.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-08T05:36:09.797Z</updated>
+        <updated>2022-02-08T17:38:49.565Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,11 +1000,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30078-enhanced</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30078-enhanced"/>
-        <updated>2022-02-08T05:36:09.802Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30079-outfall</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30079-outfall"/>
+        <updated>2022-02-08T17:38:49.576Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30079-outfall">Outfall<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30078-enhanced">Enhanced<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30077-enhanced">Enhanced<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30076-enhanced">Enhanced<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1014,26 +1015,25 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30072-endings-beginnings">Endings, Beginnings<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30071-endings-beginnings">Endings, Beginnings<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30070-yakuza-princess">Yakuza Princess<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30069-yakuza-princess">Yakuza Princess<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1"/>
-        <updated>2022-02-08T05:36:09.802Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13890-snowpiercer-saison3</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13890-snowpiercer-saison3"/>
+        <updated>2022-02-08T17:38:49.577Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1">1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1">1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1">Peacemaker - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14004-peacemaker-saison1">Peacemaker - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13768-station-eleven-saison1">Station Eleven - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1">Station Eleven - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14003-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14002-yellowjackets-saison1">Yellowjackets - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1">Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13226-star-trek-prodigy-saison1">Star Trek: Prodigy - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13885-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13886-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13907-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13905-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13898-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13899-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13918-billions-saison6">Billions - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13919-billions-saison6">Billions - Saison 6<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,21 +1045,21 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30064-seven"><b>1</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30061-s-o-s-fant-mes-l-h-ritage"><b>2</b> - S.O.S. Fantômes : L'Héritage<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30057-elizabeth-l-ge-d-or"><b>3</b> - Elizabeth : l'âge d'or<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30058-elizabeth-l-ge-d-or"><b>4</b> - Elizabeth : l'âge d'or<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30067-yakuza-princess"><b>5</b> - Yakuza Princess<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30054-le-tr-sor-du-petit-nicolas"><b>6</b> - Le Trésor du Petit Nicolas<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30055-le-tr-sor-du-petit-nicolas"><b>7</b> - Le Trésor du Petit Nicolas<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30056-le-tr-sor-du-petit-nicolas"><b>8</b> - Le Trésor du Petit Nicolas<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30065-yakuza-princess"><b>9</b> - Yakuza Princess<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30068-maniac"><b>10</b> - Maniac<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30067-yakuza-princess"><b>3</b> - Yakuza Princess<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30057-elizabeth-l-ge-d-or"><b>4</b> - Elizabeth : l'âge d'or<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30058-elizabeth-l-ge-d-or"><b>5</b> - Elizabeth : l'âge d'or<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30065-yakuza-princess"><b>6</b> - Yakuza Princess<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30068-maniac"><b>7</b> - Maniac<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30066-yakuza-princess"><b>8</b> - Yakuza Princess<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30069-yakuza-princess"><b>9</b> - Yakuza Princess<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30072-endings-beginnings"><b>10</b> - Endings, Beginnings<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1</id>
         <link href="https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1"/>
-        <updated>2022-02-08T05:36:09.803Z</updated>
+        <updated>2022-02-08T05:36:09.802Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>1</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
@@ -1069,9 +1069,9 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1"><b>5</b> - Station Eleven - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13225-star-trek-prodigy-saison1"><b>6</b> - Star Trek: Prodigy - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>7</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13768-station-eleven-saison1"><b>8</b> - Station Eleven - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13966-la-fortuna-saison1"><b>10</b> - La Fortuna - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>8</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13966-la-fortuna-saison1"><b>9</b> - La Fortuna - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13227-star-trek-prodigy-saison1"><b>10</b> - Star Trek: Prodigy - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
