@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-10T17:38:00.839Z</updated>
+    <updated>2022-02-11T05:36:09.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-10T17:38:00.166Z</updated>
+        <updated>2022-02-11T05:36:08.778Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30119-le-tigre-aime-la-chair-fra-che</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30119-le-tigre-aime-la-chair-fra-che"/>
-        <updated>2022-02-10T17:38:00.167Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30125-last-night-in-soho</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30125-last-night-in-soho"/>
+        <updated>2022-02-11T05:36:08.783Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30125-last-night-in-soho">Last Night in Soho<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30124-last-night-in-soho">Last Night in Soho<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30123-last-night-in-soho">Last Night in Soho<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30122-last-night-in-soho">Last Night in Soho<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30121-last-night-in-soho">Last Night in Soho<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30120-dheepan">Dheepan<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30119-le-tigre-aime-la-chair-fra-che">Le Tigre aime la chair fraîche<i> [DVDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30118-le-tigre-se-parfume-la-dynamite">Le Tigre se parfume à la dynamite<i> [DVDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30117-le-loup-et-le-lion">Le Loup et le lion<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30116-le-loup-et-le-lion">Le Loup et le lion<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30115-le-loup-et-le-lion">Le Loup et le lion<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30114-les-mitchell-contre-les-machines">Les Mitchell contre les machines<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30113-les-mitchell-contre-les-machines">Les Mitchell contre les machines<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30112-les-mitchell-contre-les-machines">Les Mitchell contre les machines<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30111-les-mitchell-contre-les-machines">Les Mitchell contre les machines<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30110-les-mitchell-contre-les-machines">Les Mitchell contre les machines<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14039-murderville-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14039-murderville-saison1"/>
-        <updated>2022-02-10T17:38:00.168Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2"/>
+        <updated>2022-02-11T05:36:08.785Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14043-a-l-ombre-des-magnolias-saison2">A l'ombre des magnolias - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14042-a-l-ombre-des-magnolias-saison2">A l'ombre des magnolias - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14041-a-l-ombre-des-magnolias-saison2">A l'ombre des magnolias - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14040-a-l-ombre-des-magnolias-saison2">A l'ombre des magnolias - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13785-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13719-gomorra-saison5">Gomorra - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5">Animal Kingdom - Saison 5<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14039-murderville-saison1">Murderville - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14038-d-senchant-e-saison4">Désenchantée - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13737-animal-kingdom-saison5">Animal Kingdom - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5">Gomorra - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14037-bloodline-2015-saison3">Bloodline (2015) - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14036-catching-killers-saison2">Catching Killers - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14035-murderville-saison1">Murderville - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14034-catching-killers-saison2">Catching Killers - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14033-d-senchant-e-saison4">Désenchantée - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14032-catching-killers-saison2">Catching Killers - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,14 +1044,14 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30091-the-king-s-man-premi-re-mission"><b>1</b> - The King's Man : Première Mission<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30094-the-king-s-man-premi-re-mission"><b>2</b> - The King's Man : Première Mission<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30100-viva-maria"><b>3</b> - Viva Maria!<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30064-seven"><b>4</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30099-ted-bundy-american-boogeyman"><b>5</b> - Ted Bundy: American Boogeyman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30065-yakuza-princess"><b>6</b> - Yakuza Princess<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30100-viva-maria"><b>2</b> - Viva Maria!<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30064-seven"><b>3</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30094-the-king-s-man-premi-re-mission"><b>4</b> - The King's Man : Première Mission<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>5</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30099-ted-bundy-american-boogeyman"><b>6</b> - Ted Bundy: American Boogeyman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30088-the-privilege"><b>7</b> - The Privilege<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30089-the-privilege"><b>8</b> - The Privilege<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>9</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30106-miss-willoughby-and-the-haunted-bookshop"><b>9</b> - Miss Willoughby and the Haunted Bookshop<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30057-elizabeth-l-ge-d-or"><b>10</b> - Elizabeth : l'âge d'or<i> [HDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
@@ -1067,11 +1067,11 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>4</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5"><b>7</b> - Gomorra - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>9</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13769-station-eleven-saison1"><b>10</b> - Station Eleven - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>6</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5"><b>8</b> - Gomorra - Saison 5<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13719-gomorra-saison5"><b>9</b> - Gomorra - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>10</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
