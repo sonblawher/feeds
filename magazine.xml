@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-02-11T17:37:29.111Z</updated>
+    <updated>2022-02-12T05:36:18.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-02-11T17:37:28.443Z</updated>
+        <updated>2022-02-12T05:36:18.080Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -999,40 +999,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30150-eiffel</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30150-eiffel"/>
-        <updated>2022-02-11T17:37:28.454Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30167-eiffel</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30167-eiffel"/>
+        <updated>2022-02-12T05:36:18.083Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30150-eiffel">Eiffel<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30149-eiffel">Eiffel<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30148-bigbug">BigBug<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30147-bigbug">BigBug<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30146-tall-girl-2">Tall Girl 2<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30145-tall-girl-2">Tall Girl 2<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30144-anne-le-film">ANNE+ le film<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30143-anne-le-film">ANNE+ le film<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30142-l-amour-en-laisse">L'Amour en laisse<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30141-l-amour-en-laisse">L'Amour en laisse<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30167-eiffel">Eiffel<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30166-eiffel">Eiffel<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30165-eiffel">Eiffel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30164-eiffel">Eiffel<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30163-eiffel">Eiffel<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30162-soeurs">Soeurs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30161-soeurs">Soeurs<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30160-soeurs">Soeurs<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30159-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30158-yakuza-princess">Yakuza Princess<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14050-inventing-anna-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14050-inventing-anna-saison1"/>
-        <updated>2022-02-11T17:37:28.455Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14054-totally-spies-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14054-totally-spies-saison1"/>
+        <updated>2022-02-12T05:36:18.085Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14050-inventing-anna-saison1">Inventing Anna - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14049-inventing-anna-saison1">Inventing Anna - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14048-with-love-saison1">With Love - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13869-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14047-with-love-saison1">With Love - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13870-peacemaker-saison1">Peacemaker - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13734-evil-saison2">Evil - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2">Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13979-suspicion-saison1">Suspicion - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1">Suspicion - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14054-totally-spies-saison1">Totally Spies - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14053-young-sheldon-saison4">Young Sheldon - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13368-the-republic-of-sarah-saison1">The Republic of Sarah - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13369-the-republic-of-sarah-saison1">The Republic of Sarah - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14052-inventing-anna-saison1">Inventing Anna - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14051-inventing-anna-saison1">Inventing Anna - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1049,9 +1049,9 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30064-seven"><b>5</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>6</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30099-ted-bundy-american-boogeyman"><b>7</b> - Ted Bundy: American Boogeyman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30088-the-privilege"><b>8</b> - The Privilege<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30089-the-privilege"><b>9</b> - The Privilege<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30149-eiffel"><b>10</b> - Eiffel<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30140-bigbug"><b>8</b> - BigBug<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30065-yakuza-princess"><b>9</b> - Yakuza Princess<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30088-the-privilege"><b>10</b> - The Privilege<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1063,14 +1063,14 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13687-le-livre-de-boba-fett-saison1"><b>1</b> - Le Livre de Boba Fett - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13691-le-livre-de-boba-fett-saison1"><b>2</b> - Le Livre de Boba Fett - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>3</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>4</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>5</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>6</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>7</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>8</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13920-la-l-gende-de-vox-machina-saison1"><b>9</b> - La Légende de Vox Machina - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13718-gomorra-saison5"><b>10</b> - Gomorra - Saison 5<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4"><b>3</b> - Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13690-le-livre-de-boba-fett-saison1"><b>4</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>5</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13688-le-livre-de-boba-fett-saison1"><b>6</b> - Le Livre de Boba Fett - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>7</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>8</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13920-la-l-gende-de-vox-machina-saison1"><b>10</b> - La Légende de Vox Machina - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
