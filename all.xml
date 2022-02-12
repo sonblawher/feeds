@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-12T05:36:18.730Z</updated>
+    <updated>2022-02-12T17:36:27.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-12T05:36:18.080Z</updated>
+        <updated>2022-02-12T17:36:27.046Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,6 +468,10 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022"><i class="flag flag-fr"></i> Programmez Hors Série N°6 – Hiver 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
 									</div>
 				<div style="position:relative" class="content row">
 					<div class="cover col-md-2">
@@ -998,40 +1002,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30167-eiffel</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30167-eiffel"/>
-        <updated>2022-02-12T05:36:18.083Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30178-jeepers-creepers-2</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30178-jeepers-creepers-2"/>
+        <updated>2022-02-12T17:36:27.051Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30167-eiffel">Eiffel<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30166-eiffel">Eiffel<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30165-eiffel">Eiffel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30164-eiffel">Eiffel<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30163-eiffel">Eiffel<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30162-soeurs">Soeurs<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30161-soeurs">Soeurs<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30160-soeurs">Soeurs<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30159-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30158-yakuza-princess">Yakuza Princess<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30178-jeepers-creepers-2">Jeepers Creepers 2<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30177-jeepers-creepers-le-chant-du-diable">Jeepers Creepers, le chant du diable<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30176-waldo-d-tective-priv">Waldo, détective privé<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30175-waldo-d-tective-priv">Waldo, détective privé<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30174-waldo-d-tective-priv">Waldo, détective privé<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30173-waldo-d-tective-priv">Waldo, détective privé<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30172-waldo-d-tective-priv">Waldo, détective privé<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30171-marry-me">Marry Me<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30170-marry-me">Marry Me<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30169-marry-me">Marry Me<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14054-totally-spies-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14054-totally-spies-saison1"/>
-        <updated>2022-02-12T05:36:18.085Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14059-totally-spies-saison6</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14059-totally-spies-saison6"/>
+        <updated>2022-02-12T17:36:27.052Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14059-totally-spies-saison6">Totally Spies - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14058-totally-spies-saison5">Totally Spies - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14057-totally-spies-saison4">Totally Spies - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14056-totally-spies-saison3">Totally Spies - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14055-totally-spies-saison2">Totally Spies - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14054-totally-spies-saison1">Totally Spies - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14053-young-sheldon-saison4">Young Sheldon - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13368-the-republic-of-sarah-saison1">The Republic of Sarah - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13369-the-republic-of-sarah-saison1">The Republic of Sarah - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14052-inventing-anna-saison1">Inventing Anna - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14051-inventing-anna-saison1">Inventing Anna - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,12 +1049,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30137-eiffel"><b>2</b> - Eiffel<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30094-the-king-s-man-premi-re-mission"><b>3</b> - The King's Man : Première Mission<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30100-viva-maria"><b>4</b> - Viva Maria!<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30064-seven"><b>5</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>6</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30099-ted-bundy-american-boogeyman"><b>7</b> - Ted Bundy: American Boogeyman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30140-bigbug"><b>8</b> - BigBug<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30065-yakuza-princess"><b>9</b> - Yakuza Princess<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30088-the-privilege"><b>10</b> - The Privilege<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30163-eiffel"><b>5</b> - Eiffel<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30064-seven"><b>6</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>7</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30099-ted-bundy-american-boogeyman"><b>8</b> - Ted Bundy: American Boogeyman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30149-eiffel"><b>9</b> - Eiffel<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30156-la-r-surrection-du-christ"><b>10</b> - La Résurrection du Christ<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
