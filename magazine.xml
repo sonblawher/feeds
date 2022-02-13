@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-02-13T05:36:22.259Z</updated>
+    <updated>2022-02-13T17:36:32.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-02-13T05:36:21.617Z</updated>
+        <updated>2022-02-13T17:36:31.190Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1003,40 +1003,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30181-the-king-s-man-premi-re-mission</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30181-the-king-s-man-premi-re-mission"/>
-        <updated>2022-02-13T05:36:21.623Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30200-the-king-s-man-premi-re-mission</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30200-the-king-s-man-premi-re-mission"/>
+        <updated>2022-02-13T17:36:31.193Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30181-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [HDRIP 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30180-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [WEB-DL 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30179-s-o-s-fant-mes-l-h-ritage">S.O.S. Fantômes : L'Héritage<i> [BLURAY REMUX 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30178-jeepers-creepers-2">Jeepers Creepers 2<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30177-jeepers-creepers-le-chant-du-diable">Jeepers Creepers, le chant du diable<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30176-waldo-d-tective-priv">Waldo, détective privé<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30175-waldo-d-tective-priv">Waldo, détective privé<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30174-waldo-d-tective-priv">Waldo, détective privé<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30173-waldo-d-tective-priv">Waldo, détective privé<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30172-waldo-d-tective-priv">Waldo, détective privé<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30200-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30199-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30198-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30197-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30196-the-king-s-man-premi-re-mission">The King's Man : Première Mission<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30195-copshop">Copshop<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30194-355">355<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30193-355">355<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30192-355">355<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30191-morgue">Morgue<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13640-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13640-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4"/>
-        <updated>2022-02-13T05:36:21.623Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13997-power-book-iv-force-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13997-power-book-iv-force-saison1"/>
+        <updated>2022-02-13T17:36:31.194Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13640-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4">La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13755-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4">La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14062-miraculous-les-aventures-de-ladybug-et-chat-noir-saison3">Miraculous, les aventures de Ladybug et Chat Noir - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14061-miraculous-les-aventures-de-ladybug-et-chat-noir-saison2">Miraculous, les aventures de Ladybug et Chat Noir - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14060-miraculous-les-aventures-de-ladybug-et-chat-noir-saison1">Miraculous, les aventures de Ladybug et Chat Noir - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14059-totally-spies-saison6">Totally Spies - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14058-totally-spies-saison5">Totally Spies - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14057-totally-spies-saison4">Totally Spies - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14056-totally-spies-saison3">Totally Spies - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14055-totally-spies-saison2">Totally Spies - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14066-l-o-matte-brigade-des-mineurs-saison9">Léo Matteï, Brigade des mineurs - Saison 9<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14065-l-o-matte-brigade-des-mineurs-saison9">Léo Matteï, Brigade des mineurs - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13805-express-saison1">Express - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13804-express-saison1">Express - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14064-south-park-saison25">South Park - Saison 25<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14063-south-park-saison25">South Park - Saison 25<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1050,12 +1050,12 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30137-eiffel"><b>2</b> - Eiffel<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30163-eiffel"><b>3</b> - Eiffel<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30094-the-king-s-man-premi-re-mission"><b>4</b> - The King's Man : Première Mission<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30100-viva-maria"><b>5</b> - Viva Maria!<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30172-waldo-d-tective-priv"><b>6</b> - Waldo, détective privé<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30064-seven"><b>7</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>8</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30099-ted-bundy-american-boogeyman"><b>9</b> - Ted Bundy: American Boogeyman<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30149-eiffel"><b>10</b> - Eiffel<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30156-la-r-surrection-du-christ"><b>5</b> - La Résurrection du Christ<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30064-seven"><b>6</b> - Seven<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30100-viva-maria"><b>7</b> - Viva Maria!<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30172-waldo-d-tective-priv"><b>8</b> - Waldo, détective privé<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30065-yakuza-princess"><b>9</b> - Yakuza Princess<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30097-ted-bundy-american-boogeyman"><b>10</b> - Ted Bundy: American Boogeyman<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
