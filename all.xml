@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-14T05:36:08.611Z</updated>
+    <updated>2022-02-14T17:37:20.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-14T05:36:07.965Z</updated>
+        <updated>2022-02-14T17:37:20.050Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1002,40 +1002,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30210-american-underdog</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30210-american-underdog"/>
-        <updated>2022-02-14T05:36:07.968Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30214-the-mask</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30214-the-mask"/>
+        <updated>2022-02-14T17:37:20.057Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30214-the-mask">The Mask<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30213-pirates-la-recherche-de-l-or-perdu">Pirates : à la recherche de l'or perdu<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30212-pirates-la-recherche-de-l-or-perdu">Pirates : à la recherche de l'or perdu<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30211-pirates-la-recherche-de-l-or-perdu">Pirates : à la recherche de l'or perdu<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30210-american-underdog">American Underdog<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30209-american-underdog">American Underdog<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30208-american-underdog">American Underdog<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30207-house-of-gucci">House of Gucci<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30206-american-underdog">American Underdog<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30205-american-underdog">American Underdog<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30204-house-of-gucci">House of Gucci<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30203-house-of-gucci">House of Gucci<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30202-house-of-gucci">House of Gucci<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30201-house-of-gucci">House of Gucci<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14074-ninjago-saison8</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14074-ninjago-saison8"/>
-        <updated>2022-02-14T05:36:07.969Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14085-dollface-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14085-dollface-saison2"/>
+        <updated>2022-02-14T17:37:20.058Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14074-ninjago-saison8">Ninjago - Saison 8<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14073-ninjago-saison7">Ninjago - Saison 7<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14072-ninjago-saison6">Ninjago - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14071-ninjago-saison5">Ninjago - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14070-ninjago-saison4">Ninjago - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14069-ninjago-saison3">Ninjago - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14068-ninjago-saison2">Ninjago - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14067-ninjago-saison1">Ninjago - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1">Peacemaker - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14004-peacemaker-saison1">Peacemaker - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14085-dollface-saison2">Dollface - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14084-chaque-fid-lit-saison1">Chaque fidélité - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14083-ninjago-saison13">Ninjago - Saison 13<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14082-ninjago-saison12">Ninjago - Saison 12<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14081-ninjago-saison11">Ninjago - Saison 11<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14080-chaque-fid-lit-saison1">Chaque fidélité - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13437-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14079-ninjago-saison10">Ninjago - Saison 10<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14078-ninjago-saison9">Ninjago - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13436-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,33 +1047,33 @@ Un magazine 100% fiches pratiques et astuces....</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30201-house-of-gucci"><b>1</b> - House of Gucci<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30198-the-king-s-man-premi-re-mission"><b>2</b> - The King's Man : Première Mission<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30195-copshop"><b>3</b> - Copshop<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30197-the-king-s-man-premi-re-mission"><b>4</b> - The King's Man : Première Mission<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30197-the-king-s-man-premi-re-mission"><b>3</b> - The King's Man : Première Mission<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30209-american-underdog"><b>4</b> - American Underdog<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30182-catch-the-fair-one"><b>5</b> - Catch The Fair One<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30183-catch-the-fair-one"><b>6</b> - Catch The Fair One<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30184-catch-the-fair-one"><b>7</b> - Catch The Fair One<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30187-morgue"><b>8</b> - Morgue<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30190-355"><b>9</b> - 355<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30192-355"><b>10</b> - 355<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30195-copshop"><b>10</b> - Copshop<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2"/>
-        <updated>2022-02-14T05:36:07.971Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2"/>
+        <updated>2022-02-14T17:37:20.061Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13755-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4"><b>4</b> - La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>6</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13804-express-saison1"><b>7</b> - Express - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14004-peacemaker-saison1"><b>10</b> - Peacemaker - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>1</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13773-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>3</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"><b>4</b> - Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>5</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13755-la-ligue-des-justiciers-nouvelle-g-n-ration-saison4"><b>8</b> - La Ligue des Justiciers : Nouvelle Génération - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>9</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2"><b>10</b> - Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
