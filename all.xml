@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T05:36:27.201Z</updated>
+    <updated>2022-02-16T17:38:00.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-16T05:36:26.483Z</updated>
+        <updated>2022-02-16T17:37:59.361Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1002,40 +1002,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30221-lamb</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30221-lamb"/>
-        <updated>2022-02-16T05:36:26.488Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30230-l-homme-de-la-cave</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30230-l-homme-de-la-cave"/>
+        <updated>2022-02-16T17:37:59.365Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30230-l-homme-de-la-cave">L'Homme de la cave<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30229-l-homme-de-la-cave">L'Homme de la cave<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30228-l-homme-de-la-cave">L'Homme de la cave<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30227-blair-witch">Blair Witch<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30226-fortress">Fortress<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30225-fortress">Fortress<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30224-fortress">Fortress<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30223-fortress">Fortress<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30222-fortress">Fortress<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30221-lamb">Lamb<i> [4K LIGHT] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30220-love-weddings-other-disasters">Love, Weddings &amp; Other Disasters<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30219-love-weddings-other-disasters">Love, Weddings &amp; Other Disasters<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30218-love-weddings-other-disasters">Love, Weddings &amp; Other Disasters<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30217-love-weddings-other-disasters">Love, Weddings &amp; Other Disasters<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30216-355">355<i> [HDRIP 4K] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30215-last-night-in-soho">Last Night in Soho<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30214-the-mask">The Mask<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30213-pirates-la-recherche-de-l-or-perdu">Pirates : à la recherche de l'or perdu<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30212-pirates-la-recherche-de-l-or-perdu">Pirates : à la recherche de l'or perdu<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1"/>
-        <updated>2022-02-16T05:36:26.493Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14092-sombre-d-sir-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14092-sombre-d-sir-saison2"/>
+        <updated>2022-02-16T17:37:59.365Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1">1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=11604-les-secrets-des-baleines-saison1">Les Secrets des baleines - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1">1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=11603-les-secrets-des-baleines-saison1">Les Secrets des baleines - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14087-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=11776-high-school-musical-la-com-die-musicale-la-serie-saison2">High School MUSICAL : la Comédie Musicale, la SERIE - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13885-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14092-sombre-d-sir-saison2">Sombre Désir - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14091-sombre-d-sir-saison1">Sombre Désir - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13971-pam-tommy-saison1">Pam &amp; Tommy - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13970-pam-tommy-saison1">Pam &amp; Tommy - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13968-pam-tommy-saison1">Pam &amp; Tommy - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13967-pam-tommy-saison1">Pam &amp; Tommy - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13657-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13652-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13653-les-ann-es-coup-de-coeur-2021-saison1">Les Années coup de coeur (2021) - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1061,7 +1061,7 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1</id>
         <link href="https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1"/>
-        <updated>2022-02-16T05:36:26.514Z</updated>
+        <updated>2022-02-16T05:36:26.493Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>1</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
@@ -1071,9 +1071,9 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>5</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>6</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"><b>7</b> - Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>8</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>10</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>8</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
