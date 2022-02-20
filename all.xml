@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-19T17:36:29.618Z</updated>
+    <updated>2022-02-20T05:36:14.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-19T17:36:28.930Z</updated>
+        <updated>2022-02-20T05:36:13.764Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1040,13 +1040,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30201-house-of-gucci</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30201-house-of-gucci"/>
-        <updated>2022-02-14T05:36:07.970Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30263-passengers</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30263-passengers"/>
+        <updated>2022-02-20T05:36:13.769Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30201-house-of-gucci"><b>1</b> - House of Gucci<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30263-passengers"><b>2</b> - Passengers<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30263-passengers"><b>1</b> - Passengers<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30201-house-of-gucci"><b>2</b> - House of Gucci<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30196-the-king-s-man-premi-re-mission"><b>3</b> - The King's Man : Première Mission<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30198-the-king-s-man-premi-re-mission"><b>4</b> - The King's Man : Première Mission<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30216-355"><b>5</b> - 355<i> [HDRIP 4K] - FRENCH</i></a></li>
