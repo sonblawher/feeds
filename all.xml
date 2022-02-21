@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-21T05:35:59.164Z</updated>
+    <updated>2022-02-21T17:37:38.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-21T05:35:58.530Z</updated>
+        <updated>2022-02-21T17:37:37.620Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -515,9 +515,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><i class="flag flag-fr"></i> 01Net N°967 Du 2 au 15 Février 2022<i> [Magazines]</i> </a>
-											<div title="90% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 90%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
+											<div title="90.909090909091% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 90.909090909091%;"></div>
+							<div class="progress-desc">11 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1002,78 +1002,78 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <id>https://www.wawacity.one/?p=film&amp;id=30300-la-promesse</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30300-la-promesse"/>
+        <updated>2022-02-21T17:37:37.624Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
+						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30300-la-promesse">La Promesse<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30299-la-promesse">La Promesse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30298-france">France<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30297-france">France<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30296-scream">Scream<i> [WEBRIP 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30295-france">France<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30294-france">France<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30293-fond-les-biberons">À Fond les Biberons<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30292-france">France<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel">Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+													</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (informatique)]]></title>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14134-ovni-s-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14134-ovni-s-saison2"/>
+        <updated>2022-02-21T17:37:37.624Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
+						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14134-ovni-s-saison2">OVNI(s) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13762-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13764-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13881-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13815-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13816-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13814-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR HD</i></a></li>
+													</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://www.wawacity.one/?p=film&amp;id=30285-les-400-coups</id>
         <link href="https://www.wawacity.one/?p=film&amp;id=30285-les-400-coups"/>
         <updated>2022-02-21T05:35:58.536Z</updated>
-        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
-						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30285-les-400-coups">Les 400 coups<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30284-d-flagrations">Déflagrations<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30283-d-flagrations">Déflagrations<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30282-the-survivalist">The Survivalist<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30281-the-survivalist">The Survivalist<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30280-after-earth">After Earth<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30279-the-survivalist">The Survivalist<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30278-the-survivalist">The Survivalist<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30277-the-survivalist">The Survivalist<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30276-apex">Apex<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-													</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13891-how-i-met-your-father-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13891-how-i-met-your-father-saison1"/>
-        <updated>2022-02-21T05:35:58.537Z</updated>
-        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
-						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13891-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13892-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3">Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3">Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13437-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13436-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR HD</i></a></li>
-													</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30285-les-400-coups</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30285-les-400-coups"/>
-        <updated>2022-02-21T05:35:58.538Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30285-les-400-coups"><b>1</b> - Les 400 coups<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30284-d-flagrations"><b>2</b> - Déflagrations<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30298-france"><b>2</b> - France<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30274-apex"><b>3</b> - Apex<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30277-the-survivalist"><b>4</b> - The Survivalist<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30280-after-earth"><b>5</b> - After Earth<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30272-apex"><b>6</b> - Apex<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30273-apex"><b>7</b> - Apex<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30278-the-survivalist"><b>8</b> - The Survivalist<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30279-the-survivalist"><b>9</b> - The Survivalist<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30281-the-survivalist"><b>10</b> - The Survivalist<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30287-ne-me-tue-pas"><b>4</b> - Ne me tue pas<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30288-fond-les-biberons"><b>5</b> - À Fond les Biberons<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30289-ne-me-tue-pas"><b>6</b> - Ne me tue pas<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30290-fond-les-biberons"><b>7</b> - À Fond les Biberons<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel"><b>8</b> - Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30293-fond-les-biberons"><b>9</b> - À Fond les Biberons<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30294-france"><b>10</b> - France<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2"/>
-        <updated>2022-02-21T05:35:58.539Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2"/>
+        <updated>2022-02-21T17:37:37.627Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>3</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>4</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>5</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13721-my-life-is-murder-saison1"><b>6</b> - My Life Is Murder - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13804-express-saison1"><b>8</b> - Express - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13720-my-life-is-murder-saison1"><b>9</b> - My Life Is Murder - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>1</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>3</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>5</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14134-ovni-s-saison2"><b>6</b> - OVNI(s) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2"><b>8</b> - Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>9</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13721-my-life-is-murder-saison1"><b>10</b> - My Life Is Murder - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
