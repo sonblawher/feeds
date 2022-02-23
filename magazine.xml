@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-02-22T17:38:19.710Z</updated>
+    <updated>2022-02-23T05:36:20.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-02-22T17:38:19.070Z</updated>
+        <updated>2022-02-23T05:36:20.169Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1003,40 +1003,40 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30326-la-famille-addams-2-une-vir-e-d-enfer</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30326-la-famille-addams-2-une-vir-e-d-enfer"/>
-        <updated>2022-02-22T17:38:19.073Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30331-uncut-gems</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30331-uncut-gems"/>
+        <updated>2022-02-23T05:36:20.175Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30331-uncut-gems">Uncut Gems<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30330-kimi">KIMI<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30329-kimi">KIMI<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30328-kimi">KIMI<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30327-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30326-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30325-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30324-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30323-la-famille-addams-2-une-vir-e-d-enfer">La Famille Addams 2 : une virée d'enfer<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30322-ar-s">Arès<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30321-invasion-u-s-a">Invasion U.S.A.<i> [DVDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30320-que-dios-nos-perdone">Que Dios Nos Perdone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30319-belfast">Belfast<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30318-belfast">Belfast<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30317-belfast">Belfast<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13890-snowpiercer-saison3</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13890-snowpiercer-saison3"/>
-        <updated>2022-02-22T17:38:19.074Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14140-koh-lanta-saison23</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14140-koh-lanta-saison23"/>
+        <updated>2022-02-23T05:36:20.176Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14140-koh-lanta-saison23">Koh-Lanta - Saison 23<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14087-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13885-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13886-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13907-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13905-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13899-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13898-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13891-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13892-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,15 +1047,15 @@ Un magazine 100% fiches pratiques et astuces....</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30285-les-400-coups"><b>1</b> - Les 400 coups<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel"><b>2</b> - Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30299-la-promesse"><b>3</b> - La Promesse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30307-queenpins"><b>4</b> - Queenpins<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30319-belfast"><b>5</b> - Belfast<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30322-ar-s"><b>6</b> - Arès<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30300-la-promesse"><b>7</b> - La Promesse<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30314-made-in-france"><b>8</b> - Made in France<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30315-belfast"><b>9</b> - Belfast<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30316-belfast"><b>10</b> - Belfast<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30315-belfast"><b>2</b> - Belfast<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel"><b>3</b> - Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30319-belfast"><b>4</b> - Belfast<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30299-la-promesse"><b>5</b> - La Promesse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30300-la-promesse"><b>6</b> - La Promesse<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30307-queenpins"><b>7</b> - Queenpins<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30317-belfast"><b>8</b> - Belfast<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30320-que-dios-nos-perdone"><b>9</b> - Que Dios Nos Perdone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30314-made-in-france"><b>10</b> - Made in France<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,13 +1068,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>1</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>2</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14134-ovni-s-saison2"><b>4</b> - OVNI(s) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>5</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>4</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14134-ovni-s-saison2"><b>5</b> - OVNI(s) - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>6</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>8</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14006-my-life-is-murder-saison2"><b>9</b> - My Life Is Murder - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>10</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>8</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>9</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14006-my-life-is-murder-saison2"><b>10</b> - My Life Is Murder - Saison 2<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
