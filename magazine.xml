@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-02-25T17:38:27.348Z</updated>
+    <updated>2022-02-26T05:36:31.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-02-25T17:38:26.661Z</updated>
+        <updated>2022-02-26T05:36:31.011Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1003,11 +1003,14 @@ Un magazine 100% fiches pratiques et astuces....</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30434-le-grimoire-d-arkandias</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30434-le-grimoire-d-arkandias"/>
-        <updated>2022-02-25T17:38:26.665Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30437-lui</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30437-lui"/>
+        <updated>2022-02-26T05:36:31.014Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30437-lui">Lui<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30436-lui">Lui<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30435-lui">Lui<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30434-le-grimoire-d-arkandias">Le Grimoire d'Arkandias<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30433-freddy-chapitre-5-l-enfant-du-cauchemar">Freddy - Chapitre 5 : l'enfant du cauchemar<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30432-freddy-chapitre-4-le-cauchemar-de-freddy">Freddy - Chapitre 4 : le cauchemar de Freddy<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1015,18 +1018,16 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30430-freddy-chapitre-2-la-revanche-de-freddy">Freddy - Chapitre 2 : la revanche de Freddy<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30429-west-side-story">West Side Story<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30428-the-grudge">The Grudge<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30427-freddy-chapitre-7-freddy-sort-de-la-nuit">Freddy - Chapitre 7 : Freddy sort de la nuit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30426-freddy-chapitre-6-la-fin-de-freddy-l-ultime-cauchemar">Freddy - Chapitre 6 : La fin de Freddy - L'ultime cauchemar<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30425-freddy-contre-jason">Freddy contre Jason<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14147-vikings-valhalla-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14147-vikings-valhalla-saison1"/>
-        <updated>2022-02-25T17:38:26.668Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14148-vikings-valhalla-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14148-vikings-valhalla-saison1"/>
+        <updated>2022-02-26T05:36:31.015Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14148-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14147-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14146-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14145-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VF HD</i></a></li>
@@ -1036,7 +1037,6 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=serie&amp;id=14122-totems-saison1">Totems - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14119-la-fabuleuse-mme-maisel-saison4">La Fabuleuse Mme Maisel - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14116-la-fabuleuse-mme-maisel-saison4">La Fabuleuse Mme Maisel - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13977-suspicion-saison1">Suspicion - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1049,13 +1049,13 @@ Un magazine 100% fiches pratiques et astuces....</p>
 															<li><a href="/?p=film&amp;id=30315-belfast"><b>1</b> - Belfast<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30285-les-400-coups"><b>2</b> - Les 400 coups<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30319-belfast"><b>3</b> - Belfast<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30351-la-classe-am-ricaine"><b>4</b> - La Classe américaine<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30359-stranger-than-paradise"><b>5</b> - Stranger Than Paradise<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30359-stranger-than-paradise"><b>4</b> - Stranger Than Paradise<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30351-la-classe-am-ricaine"><b>5</b> - La Classe américaine<i> [DVDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel"><b>6</b> - Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30320-que-dios-nos-perdone"><b>7</b> - Que Dios Nos Perdone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30299-la-promesse"><b>8</b> - La Promesse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30300-la-promesse"><b>9</b> - La Promesse<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30317-belfast"><b>10</b> - Belfast<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30368-citizenfour"><b>7</b> - Citizenfour<i> [DVDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30369-francofonia-le-louvre-sous-l-occupation"><b>8</b> - Francofonia, le Louvre sous l?Occupation<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30388-capitaine-alatriste"><b>9</b> - Capitaine Alatriste<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30299-la-promesse"><b>10</b> - La Promesse<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
