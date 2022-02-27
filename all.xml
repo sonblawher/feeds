@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-26T17:36:39.321Z</updated>
+    <updated>2022-02-27T05:36:41.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-26T17:36:38.696Z</updated>
+        <updated>2022-02-27T05:36:40.331Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°118 – Février-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
+							<div class="progress-desc">2 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30449-project-gemini</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30449-project-gemini"/>
-        <updated>2022-02-26T17:36:38.703Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30453-life-on-mars</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30453-life-on-mars"/>
+        <updated>2022-02-27T05:36:40.335Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30453-life-on-mars">Life On Mars<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30452-la-ligne-verte">La Ligne verte<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30451-american-underdog">American Underdog<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30450-en-cavale">En cavale<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30449-project-gemini">Project Gemini<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30448-project-gemini">Project Gemini<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30447-project-gemini">Project Gemini<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30446-project-gemini">Project Gemini<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30445-project-gemini">Project Gemini<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30444-black-butterfly">Black Butterfly<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30443-american-refugee">American Refugee<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30442-american-refugee">American Refugee<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30441-american-refugee">American Refugee<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30440-lui">Lui<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14045-balthazar-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14045-balthazar-saison4"/>
-        <updated>2022-02-26T17:36:38.706Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"/>
+        <updated>2022-02-27T05:36:40.336Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1">Peacemaker - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14004-peacemaker-saison1">Peacemaker - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14046-balthazar-saison4">Balthazar - Saison 4<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14045-balthazar-saison4">Balthazar - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1">The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13738-the-cleaning-lady-saison1">The Cleaning Lady - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14148-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14147-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14146-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14145-vikings-valhalla-saison1">Vikings: Valhalla - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14124-totems-saison1">Totems - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13979-suspicion-saison1">Suspicion - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1">Suspicion - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,12 +1044,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30315-belfast"><b>1</b> - Belfast<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30285-les-400-coups"><b>2</b> - Les 400 coups<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30319-belfast"><b>3</b> - Belfast<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30359-stranger-than-paradise"><b>4</b> - Stranger Than Paradise<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30359-stranger-than-paradise"><b>2</b> - Stranger Than Paradise<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30285-les-400-coups"><b>3</b> - Les 400 coups<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30319-belfast"><b>4</b> - Belfast<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30351-la-classe-am-ricaine"><b>5</b> - La Classe américaine<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30368-citizenfour"><b>6</b> - Citizenfour<i> [DVDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel"><b>7</b> - Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30291-les-chevaliers-du-ciel"><b>6</b> - Les Chevaliers du ciel<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30368-citizenfour"><b>7</b> - Citizenfour<i> [DVDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=30317-belfast"><b>8</b> - Belfast<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30369-francofonia-le-louvre-sous-l-occupation"><b>9</b> - Francofonia, le Louvre sous l?Occupation<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30388-capitaine-alatriste"><b>10</b> - Capitaine Alatriste<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
