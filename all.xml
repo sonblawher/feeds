@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T05:36:16.124Z</updated>
+    <updated>2022-02-28T17:39:22.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-02-28T05:36:15.478Z</updated>
+        <updated>2022-02-28T17:39:21.664Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°118 – Février-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">4 vote(s)</div>
+							<div class="progress-desc">5 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,11 +1000,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30471-tout-nous-sourit</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30471-tout-nous-sourit"/>
-        <updated>2022-02-28T05:36:15.484Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30474-cigarettes-et-chocolat-chaud</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30474-cigarettes-et-chocolat-chaud"/>
+        <updated>2022-02-28T17:39:21.669Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30474-cigarettes-et-chocolat-chaud">Cigarettes et chocolat chaud<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30473-space-boy">Space Boy<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30472-space-boy">Space Boy<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30471-tout-nous-sourit">Tout nous sourit<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30470-tout-nous-sourit">Tout nous sourit<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30469-tout-nous-sourit">Tout nous sourit<i> [HDRIP] - FRENCH</i></a></li>
@@ -1012,28 +1015,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30467-barbaque">Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30466-barbaque">Barbaque<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30465-yes-man">Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30464-into-the-wild">Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30463-la-travers-e">La Traversée<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30462-la-travers-e">La Traversée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1"/>
-        <updated>2022-02-28T05:36:15.485Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13765-euphoria-2019-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13765-euphoria-2019-saison2"/>
+        <updated>2022-02-28T17:39:21.670Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14150-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14149-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14143-magpie-murders-saison1">Magpie Murders - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14144-magpie-murders-saison1">Magpie Murders - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13762-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13764-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13881-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13816-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13815-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13814-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13813-somebody-somewhere-saison1">Somebody Somewhere - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,34 +1044,34 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30464-into-the-wild"><b>1</b> - Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30466-barbaque"><b>2</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30465-yes-man"><b>3</b> - Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30468-barbaque"><b>4</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30469-tout-nous-sourit"><b>5</b> - Tout nous sourit<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30469-tout-nous-sourit"><b>2</b> - Tout nous sourit<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30474-cigarettes-et-chocolat-chaud"><b>3</b> - Cigarettes et chocolat chaud<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30466-barbaque"><b>4</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30468-barbaque"><b>5</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30470-tout-nous-sourit"><b>6</b> - Tout nous sourit<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30471-tout-nous-sourit"><b>7</b> - Tout nous sourit<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30454-see-for-me"><b>8</b> - See for Me<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>9</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>8</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30465-yes-man"><b>9</b> - Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30467-barbaque"><b>10</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2"/>
-        <updated>2022-02-28T05:36:15.486Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2"/>
+        <updated>2022-02-28T17:39:21.672Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>4</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>5</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>6</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3"><b>7</b> - Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>8</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13804-express-saison1"><b>10</b> - Express - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>1</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>3</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>6</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>7</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>8</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3"><b>9</b> - Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>10</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
