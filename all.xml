@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-01T05:36:12.726Z</updated>
+    <updated>2022-03-01T17:38:51.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-01T05:36:11.935Z</updated>
+        <updated>2022-03-01T17:38:51.045Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -448,12 +448,12 @@
 							...						</a>
 					</li>
 									<li class=" ">
-						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=53">
-							53						</a>
-					</li>
-									<li class=" ">
 						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
 							54						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=55">
+							55						</a>
 					</li>
 								
 				<li>
@@ -467,10 +467,184 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> Internet Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><img alt="Internet Pratique N°10 – Novembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/103dfd24fb3b3dbd29872b8ac709ca67.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								mar. 01 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Internet Pratique est le seul magazine français entièrement dédié à rendre l’utilisation d’internet facile et…sûre. Dans chaque numéro, conseils de pros, pas-à-pas, trucs et astuces et grands doss...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Internet Pratique" rel="nofollow">Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> PC Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><img alt="PC Pratique N°10 – Novembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/00b7a1e5a9614253334ddfcda16c9088.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								mar. 01 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce qu’aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous pr...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=PC Pratique" rel="nofollow">PC Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><i class="flag flag-fr"></i> Windows 10 Pratique N°11 – Octobre-Décembre 2021<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><img alt="Windows 10 Pratique N°11 – Octobre-Décembre 2021 [Magazines]" src="/img/ebooks/5f9da84f58fdc0a44ac313fc978e2693.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								mar. 01 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Conçu pour aider ses lecteurs à progresser dans l’utilisation et la maîtrise de Windows 10, cela sans jargon technique, Windows 10 Pratique propose dans chacun de ses numéros : &gt; l’essentiel de l’...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows 10 Pratique" rel="nofollow">Windows 10 Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022"><i class="flag flag-fr"></i> L’Informaticien N°203 – Février 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022"><img alt="L’Informaticien N°203 – Février 2022 [Magazines]" src="/img/ebooks/c7d59db0a23e40370f35be85602df372.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								mar. 01 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>L’Informaticien est le magazine mensuel des décideurs IT développant une ligne éditoriale à forte dominante technologique. L’Informaticien maintient un strict équilibre entre plates-formes libres ...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=L’Informaticien" rel="nofollow">L’Informaticien</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°118 – Février-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -508,9 +682,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022"><i class="flag flag-fr"></i> Programmez Hors Série N°6 – Hiver 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -727,180 +899,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36040-l-informaticien-n-202-d-cembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°30 – Février-Avril 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022"><img alt="Les Dossiers Du Pirate N°30 – Février-Avril 2022 [Magazines]" src="/img/ebooks/ea39980620768e5c62f4ab2b528d93c8.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								jeu. 13 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Le piratage de A à Z avec ces guides exclusifs 100% pratiques. Les meilleurs logiciels et des dizaines de fiches pratiques dédiées pour devenir un pro. No limit....</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Les Dossiers Du Pirate" rel="nofollow">Les Dossiers Du Pirate</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35972-les-dossiers-du-pirate-n-30-f-vrier-avril-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><i class="flag flag-fr"></i> Micro Pratique N°305 – Février 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">11 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022"><img alt="Micro Pratique N°305 – Février 2022 [Magazines]" src="/img/ebooks/0a80a8ff32fc4e43fbee57bea74663f9.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								jeu. 13 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Micro Pratique est un des leaders de la presse micro-informatique personnelle. Chaque mois, il apporte des réponses concrètes à la fois à ceux qui font leurs premiers pas et à ceux qui sont plus a...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Micro Pratique" rel="nofollow">Micro Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35967-micro-pratique-n-305-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Hackable Magazine N°40 – Janvier-Février 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022"><img alt="Hackable Magazine N°40 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/4ac34f3d3e3c878b884bdb9635f7f347.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								lun. 10 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Hackable Magazine est une publication des Éditions Diamond, destiné à des utilisateurs curieux souhaitant découvrir et progresser dans le domaine de l’électronique numérique, de l’utilisation de n...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Hackable Magazine" rel="nofollow">Hackable Magazine</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35909-hackable-magazine-n-40-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Programmez N°250 – Janvier-Février 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022"><img alt="Programmez N°250 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/36db85a2369530cc37ad1dbe25d4f644.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								ven. 07 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
-
-Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=35853-programmez-n-250-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -957,12 +955,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 							...						</a>
 					</li>
 									<li class=" ">
-						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=53">
-							53						</a>
-					</li>
-									<li class=" ">
 						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
 							54						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=55">
+							55						</a>
 					</li>
 								
 				<li>
@@ -1000,78 +998,78 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30484-benedetta</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30484-benedetta"/>
-        <updated>2022-03-01T05:36:11.940Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30492-licorice-pizza</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30492-licorice-pizza"/>
+        <updated>2022-03-01T17:38:51.052Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30492-licorice-pizza">Licorice Pizza<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30491-licorice-pizza">Licorice Pizza<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30490-licorice-pizza">Licorice Pizza<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30489-bloodthirsty">Bloodthirsty<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30488-bloodthirsty">Bloodthirsty<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30487-macabro">Macabro<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30486-bloodthirsty">Bloodthirsty<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30485-macabro">Macabro<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30484-benedetta">Benedetta<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30483-oliver">Oliver!<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30482-macabro">Macabro<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30481-macabro">Macabro<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30480-macabro">Macabro<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30479-drive-my-car">Drive My Car<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30478-drive-my-car">Drive My Car<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30477-drive-my-car">Drive My Car<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30476-drive-my-car">Drive My Car<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30475-drive-my-car">Drive My Car<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14154-new-york-district-new-york-police-judiciaire-saison21</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14154-new-york-district-new-york-police-judiciaire-saison21"/>
-        <updated>2022-03-01T05:36:11.941Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14046-balthazar-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14046-balthazar-saison4"/>
+        <updated>2022-03-01T17:38:51.053Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14154-new-york-district-new-york-police-judiciaire-saison21">New York District / New York Police Judiciaire - Saison 21<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14153-new-york-district-new-york-police-judiciaire-saison21">New York District / New York Police Judiciaire - Saison 21<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13765-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13762-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13764-euphoria-2019-saison2">Euphoria (2019) - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13881-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13816-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13815-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2">The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14046-balthazar-saison4">Balthazar - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14045-balthazar-saison4">Balthazar - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13663-1883-saison1">1883 - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1">1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13907-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14156-9-1-1-saison5">9-1-1 - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13905-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13898-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30464-into-the-wild</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30464-into-the-wild"/>
-        <updated>2022-02-27T17:37:41.822Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30466-barbaque</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30466-barbaque"/>
+        <updated>2022-03-01T17:38:51.057Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30464-into-the-wild"><b>1</b> - Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30466-barbaque"><b>2</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30466-barbaque"><b>1</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30464-into-the-wild"><b>2</b> - Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30467-barbaque"><b>3</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30468-barbaque"><b>4</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30469-tout-nous-sourit"><b>5</b> - Tout nous sourit<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>6</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30470-tout-nous-sourit"><b>7</b> - Tout nous sourit<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30471-tout-nous-sourit"><b>8</b> - Tout nous sourit<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30474-cigarettes-et-chocolat-chaud"><b>9</b> - Cigarettes et chocolat chaud<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30465-yes-man"><b>10</b> - Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>5</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30470-tout-nous-sourit"><b>6</b> - Tout nous sourit<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30480-macabro"><b>7</b> - Macabro<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30473-space-boy"><b>8</b> - Space Boy<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30465-yes-man"><b>9</b> - Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30472-space-boy"><b>10</b> - Space Boy<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13763-euphoria-2019-saison2"/>
-        <updated>2022-02-28T17:39:21.672Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13663-1883-saison1"/>
+        <updated>2022-03-01T17:38:51.058Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>1</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>3</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>6</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>7</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>8</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>9</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3"><b>10</b> - Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>1</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>2</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>4</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>5</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>7</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14006-my-life-is-murder-saison2"><b>8</b> - My Life Is Murder - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>10</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
