@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-01T17:38:51.649Z</updated>
+    <updated>2022-03-02T05:36:06.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-01T17:38:51.045Z</updated>
+        <updated>2022-03-02T05:36:05.746Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> Internet Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -515,7 +515,7 @@
 					<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> PC Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -558,7 +558,7 @@
 					<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><i class="flag flag-fr"></i> Windows 10 Pratique N°11 – Octobre-Décembre 2021<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -601,7 +601,7 @@
 					<a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022"><i class="flag flag-fr"></i> L’Informaticien N°203 – Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -998,11 +998,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30492-licorice-pizza</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30492-licorice-pizza"/>
-        <updated>2022-03-01T17:38:51.052Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30495-the-fallout</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30495-the-fallout"/>
+        <updated>2022-03-02T05:36:05.752Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30495-the-fallout">The Fallout<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs">L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30493-magnolia">Magnolia<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30492-licorice-pizza">Licorice Pizza<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30491-licorice-pizza">Licorice Pizza<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30490-licorice-pizza">Licorice Pizza<i> [HDRIP] - FRENCH</i></a></li>
@@ -1010,28 +1013,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30488-bloodthirsty">Bloodthirsty<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30487-macabro">Macabro<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30486-bloodthirsty">Bloodthirsty<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30485-macabro">Macabro<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30484-benedetta">Benedetta<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30483-oliver">Oliver!<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14046-balthazar-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14046-balthazar-saison4"/>
-        <updated>2022-03-01T17:38:51.053Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
+        <updated>2022-03-02T05:36:05.754Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14046-balthazar-saison4">Balthazar - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14045-balthazar-saison4">Balthazar - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13663-1883-saison1">1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1">1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13907-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14156-9-1-1-saison5">9-1-1 - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13905-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13898-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6">Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14140-koh-lanta-saison23">Koh-Lanta - Saison 23<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14087-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3">Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14160-peaky-blinders-saison6">Peaky Blinders - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13065-legacies-saison4">Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,11 +1046,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30467-barbaque"><b>3</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30468-barbaque"><b>4</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>5</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30470-tout-nous-sourit"><b>6</b> - Tout nous sourit<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30480-macabro"><b>7</b> - Macabro<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30480-macabro"><b>6</b> - Macabro<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30470-tout-nous-sourit"><b>7</b> - Tout nous sourit<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30473-space-boy"><b>8</b> - Space Boy<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30465-yes-man"><b>9</b> - Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30472-space-boy"><b>10</b> - Space Boy<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30461-la-travers-e"><b>9</b> - La Traversée<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30465-yes-man"><b>10</b> - Yes Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1061,15 +1061,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13663-1883-saison1"><b>1</b> - 1883 - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>2</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>4</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>5</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14005-peacemaker-saison1"><b>7</b> - Peacemaker - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14006-my-life-is-murder-saison2"><b>8</b> - My Life Is Murder - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13749-private-eyes-saison5"><b>10</b> - Private Eyes - Saison 5<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>3</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>4</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>5</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13884-the-righteous-gemstones-saison2"><b>7</b> - The Righteous Gemstones - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>8</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
