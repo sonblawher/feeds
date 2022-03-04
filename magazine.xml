@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-03T17:39:38.535Z</updated>
+    <updated>2022-03-04T05:36:33.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-03T17:39:37.846Z</updated>
+        <updated>2022-03-04T05:36:32.940Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022"><i class="flag flag-fr"></i> Hackable Magazine N°41 – Mars-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -516,7 +516,7 @@
 					<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> Internet Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -559,7 +559,7 @@
 					<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> PC Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -602,7 +602,7 @@
 					<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><i class="flag flag-fr"></i> Windows 10 Pratique N°11 – Octobre-Décembre 2021<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -999,40 +999,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30525-tenacious-d-in-the-pick-of-destiny</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30525-tenacious-d-in-the-pick-of-destiny"/>
-        <updated>2022-03-03T17:39:37.851Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30531-aline</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30531-aline"/>
+        <updated>2022-03-04T05:36:32.944Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30531-aline">Aline<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30530-aline">Aline<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30529-aline">Aline<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30528-les-olympiades">Les Olympiades<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30527-les-olympiades">Les Olympiades<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30526-les-olympiades">Les Olympiades<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30525-tenacious-d-in-the-pick-of-destiny">Tenacious D in : The Pick of Destiny<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30524-rock-academy">Rock Academy<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30523-l-an-1-des-d-buts-difficiles">L'An 1 : des débuts difficiles<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30522-easy-girl">Easy Girl<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30521-bernie">Bernie<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30520-a-bord-du-darjeeling-limited">A bord du Darjeeling Limited<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30519-the-weekend-away">The Weekend Away<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30518-the-weekend-away">The Weekend Away<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30517-the-weekend-away">The Weekend Away<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30516-a-house-on-the-bayou">A House on the Bayou<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14158-fisk-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14158-fisk-saison1"/>
-        <updated>2022-03-03T17:39:37.852Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14166-la-bande-picsou-2017-saison3</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14166-la-bande-picsou-2017-saison3"/>
+        <updated>2022-03-04T05:36:32.946Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14158-fisk-saison1">Fisk - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14157-fisk-saison1">Fisk - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14165-occupied-saison2">Occupied - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14164-occupied-saison1">Occupied - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12841-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12840-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12878-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14166-la-bande-picsou-2017-saison3">La Bande à Picsou (2017) - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12792-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12790-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12821-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12822-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14143-magpie-murders-saison1">Magpie Murders - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14144-magpie-murders-saison1">Magpie Murders - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12925-big-sky-saison2">Big Sky - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12924-big-sky-saison2">Big Sky - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13724-a-p-bio-saison4">A.P. Bio - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,11 +1047,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30467-barbaque"><b>3</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>4</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30468-barbaque"><b>5</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30480-macabro"><b>6</b> - Macabro<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs"><b>7</b> - L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30505-west-side-story"><b>8</b> - West Side Story<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>9</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30493-magnolia"><b>10</b> - Magnolia<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30505-west-side-story"><b>6</b> - West Side Story<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30480-macabro"><b>7</b> - Macabro<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs"><b>8</b> - L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>9</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>10</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
