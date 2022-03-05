@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T17:38:24.282Z</updated>
+    <updated>2022-03-05T05:36:35.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-04T17:38:23.637Z</updated>
+        <updated>2022-03-05T05:36:34.689Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1017,21 +1017,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14179-star-trek-picard-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14179-star-trek-picard-saison2"/>
-        <updated>2022-03-04T17:38:23.641Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13891-how-i-met-your-father-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13891-how-i-met-your-father-saison1"/>
+        <updated>2022-03-05T05:36:34.693Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13891-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13892-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14178-son-vrai-visage-saison1">Son vrai visage - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14177-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14156-9-1-1-saison5">9-1-1 - Saison 5<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14124-totems-saison1">Totems - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14155-9-1-1-saison5">9-1-1 - Saison 5<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14122-totems-saison1">Totems - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1043,14 +1043,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30466-barbaque"><b>1</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30464-into-the-wild"><b>2</b> - Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30467-barbaque"><b>3</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30503-perdus-dans-l-arctique"><b>3</b> - Perdus dans l'Arctique<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>4</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30468-barbaque"><b>5</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30503-perdus-dans-l-arctique"><b>6</b> - Perdus dans l'Arctique<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30467-barbaque"><b>5</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30468-barbaque"><b>6</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>7</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30505-west-side-story"><b>8</b> - West Side Story<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs"><b>8</b> - L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>9</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30480-macabro"><b>10</b> - Macabro<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>10</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,8 +1068,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>6</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>8</b> - Suspicion - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14124-totems-saison1"><b>9</b> - Totems - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>10</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>9</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>10</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
