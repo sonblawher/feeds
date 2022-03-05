@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-05T05:36:35.357Z</updated>
+    <updated>2022-03-05T17:37:09.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-05T05:36:34.689Z</updated>
+        <updated>2022-03-05T17:37:08.541Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022"><i class="flag flag-fr"></i> Hackable Magazine N°41 – Mars-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -644,7 +644,7 @@
 					<a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022"><i class="flag flag-fr"></i> L’Informaticien N°203 – Février 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -998,40 +998,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30537-fresh</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30537-fresh"/>
-        <updated>2022-03-04T17:38:23.639Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30552-karat-kid</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30552-karat-kid"/>
+        <updated>2022-03-05T17:37:08.551Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30537-fresh">Fresh<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30536-fresh">Fresh<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30535-fresh">Fresh<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30534-blacklight">Blacklight<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30533-blacklight">Blacklight<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30532-blacklight">Blacklight<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30531-aline">Aline<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30530-aline">Aline<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30529-aline">Aline<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30528-les-olympiades">Les Olympiades<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30552-karat-kid">Karaté Kid<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30551-los-angeles-2013">Los Angeles 2013<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30550-halloween-kills">Halloween Kills<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30549-in-the-mood-for-love">In the Mood for Love<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30548-twilight-chapitre-5-r-v-lation-2e-partie">Twilight - Chapitre 5 : Révélation 2e partie<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30547-twilight-chapitre-3-h-sitation">Twilight - Chapitre 3 : hésitation<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30546-twilight-chapitre-2-tentation">Twilight - Chapitre 2 : tentation<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30545-twilight-chapitre-1-fascination">Twilight - Chapitre 1 : fascination<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30544-fresh">Fresh<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30543-50-degres-fahrenheit">50 Degres Fahrenheit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13891-how-i-met-your-father-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13891-how-i-met-your-father-saison1"/>
-        <updated>2022-03-05T05:36:34.693Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"/>
+        <updated>2022-03-05T17:37:08.551Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13891-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13892-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14178-son-vrai-visage-saison1">Son vrai visage - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14177-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14156-9-1-1-saison5">9-1-1 - Saison 5<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12940-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12941-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1047,10 +1047,10 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>4</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30467-barbaque"><b>5</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30468-barbaque"><b>6</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>7</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs"><b>8</b> - L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>9</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>10</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>7</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>8</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs"><b>9</b> - L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>10</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,9 +1066,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>4</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>5</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>6</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>8</b> - Suspicion - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>9</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>7</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>8</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>9</b> - Suspicion - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>10</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
