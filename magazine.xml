@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-05T17:37:09.253Z</updated>
+    <updated>2022-03-06T05:36:23.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-05T17:37:08.541Z</updated>
+        <updated>2022-03-06T05:36:22.564Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -999,11 +999,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30552-karat-kid</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30552-karat-kid"/>
-        <updated>2022-03-05T17:37:08.551Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30554-suicide-squad</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30554-suicide-squad"/>
+        <updated>2022-03-06T05:36:22.575Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30554-suicide-squad">Suicide Squad<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30553-ghost-in-the-shell">Ghost In The Shell<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30552-karat-kid">Karaté Kid<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30551-los-angeles-2013">Los Angeles 2013<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30550-halloween-kills">Halloween Kills<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1012,27 +1014,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30547-twilight-chapitre-3-h-sitation">Twilight - Chapitre 3 : hésitation<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30546-twilight-chapitre-2-tentation">Twilight - Chapitre 2 : tentation<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30545-twilight-chapitre-1-fascination">Twilight - Chapitre 1 : fascination<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30544-fresh">Fresh<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30543-50-degres-fahrenheit">50 Degres Fahrenheit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"/>
-        <updated>2022-03-05T17:37:08.551Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14171-the-boys-diabolical-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14171-the-boys-diabolical-saison1"/>
+        <updated>2022-03-06T05:36:22.575Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13098-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13099-dc-s-legends-of-tomorrow-saison7">DC's Legends of Tomorrow - Saison 7<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12940-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12941-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14171-the-boys-diabolical-saison1">The Boys: Diabolical - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14169-the-boys-diabolical-saison1">The Boys: Diabolical - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14150-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14149-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,13 +1045,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30466-barbaque"><b>1</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30464-into-the-wild"><b>2</b> - Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30503-perdus-dans-l-arctique"><b>3</b> - Perdus dans l'Arctique<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>4</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30467-barbaque"><b>5</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30468-barbaque"><b>6</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>7</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>8</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30494-l-age-de-glace-la-grande-chasse-aux-oeufs"><b>9</b> - L'Age de Glace: La grande chasse aux oeufs<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>10</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>4</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>5</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>6</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30467-barbaque"><b>7</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30468-barbaque"><b>8</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>9</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30529-aline"><b>10</b> - Aline<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
