@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-06T05:36:23.296Z</updated>
+    <updated>2022-03-06T17:37:12.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-06T05:36:22.564Z</updated>
+        <updated>2022-03-06T17:37:11.974Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,6 +468,92 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022"><i class="flag flag-fr"></i> Programmez N°251 – Mars-Avril 2022<i> [Magazines]</i> </a>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022"><img alt="Programmez N°251 – Mars-Avril 2022 [Magazines]" src="/img/ebooks/7430b04fc23de53e5ae8d9539665fdaf.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								dim. 06 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
+
+Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022"><i class="flag flag-fr"></i> PC Pratique Hors Série N°1 – Janvier-Mars 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022"><img alt="PC Pratique Hors Série N°1 – Janvier-Mars 2022 [Magazines]" src="/img/ebooks/7bf0fb0ca6e873f5444e7db1e2d612c5.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								dim. 06 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce qu’aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous pr...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=PC Pratique" rel="nofollow">PC Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022"><i class="flag flag-fr"></i> Hackable Magazine N°41 – Mars-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -509,9 +595,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> Internet Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -814,92 +898,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°117 – Janvier-Février 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022"><img alt="Windows et Internet Pratique N°117 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/2da0ef9896ceb0acce82ade59c84aa8b.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								mer. 26 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=36244-windows-et-internet-pratique-n-117-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><i class="flag flag-fr"></i> 01Net Hors Série N°126 – Janvier-Février 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022"><img alt="01Net Hors Série N°126 – Janvier-Février 2022 [Magazines]" src="/img/ebooks/4ec07f5d8f5c51dfd9625584a8578477.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								lun. 24 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Né de la fusion des magazines Micro hebdo et l’Ordinateur individuel, 01Net a pour ambition de vous accompagner dans le nouveau monde numérique qui révolutionne votre vie quotidienne.Le Hors-série...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=01Net" rel="nofollow">01Net</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=36211-01net-hors-s-rie-n-126-janvier-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -999,40 +997,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30554-suicide-squad</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30554-suicide-squad"/>
-        <updated>2022-03-06T05:36:22.575Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30564-karate-kid-3</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30564-karate-kid-3"/>
+        <updated>2022-03-06T17:37:11.977Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30554-suicide-squad">Suicide Squad<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30553-ghost-in-the-shell">Ghost In The Shell<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30552-karat-kid">Karaté Kid<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30551-los-angeles-2013">Los Angeles 2013<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30550-halloween-kills">Halloween Kills<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30549-in-the-mood-for-love">In the Mood for Love<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30548-twilight-chapitre-5-r-v-lation-2e-partie">Twilight - Chapitre 5 : Révélation 2e partie<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30547-twilight-chapitre-3-h-sitation">Twilight - Chapitre 3 : hésitation<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30546-twilight-chapitre-2-tentation">Twilight - Chapitre 2 : tentation<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30545-twilight-chapitre-1-fascination">Twilight - Chapitre 1 : fascination<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30564-karate-kid-3">Karate Kid 3<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30563-karat-kid-2">Karaté Kid 2<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30562-my-son">My Son<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30561-my-son">My Son<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30560-my-son">My Son<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30559-my-son">My Son<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30558-i-am-woman">I Am Woman<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30557-i-am-woman">I Am Woman<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30556-my-son">My Son<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30555-i-am-woman">I Am Woman<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14171-the-boys-diabolical-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14171-the-boys-diabolical-saison1"/>
-        <updated>2022-03-06T05:36:22.575Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13997-power-book-iv-force-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13997-power-book-iv-force-saison1"/>
+        <updated>2022-03-06T17:37:11.980Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14171-the-boys-diabolical-saison1">The Boys: Diabolical - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14169-the-boys-diabolical-saison1">The Boys: Diabolical - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14150-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14149-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14185-young-royals-saison1">Young Royals - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13066-legacies-saison4">Legacies - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,13 +1043,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30466-barbaque"><b>1</b> - Barbaque<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30464-into-the-wild"><b>2</b> - Into the Wild<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30503-perdus-dans-l-arctique"><b>3</b> - Perdus dans l'Arctique<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>4</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>5</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>6</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30467-barbaque"><b>7</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30468-barbaque"><b>8</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30512-la-sanction"><b>9</b> - La Sanction<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30529-aline"><b>10</b> - Aline<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30532-blacklight"><b>4</b> - Blacklight<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30507-si-on-chantait"><b>5</b> - Si on chantait<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30513-randonn-e-pour-un-tueur"><b>6</b> - Randonnée pour un tueur<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30529-aline"><b>7</b> - Aline<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30459-la-travers-e"><b>8</b> - La Traversée<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30467-barbaque"><b>9</b> - Barbaque<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30468-barbaque"><b>10</b> - Barbaque<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1067,10 +1065,10 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13763-euphoria-2019-saison2"><b>4</b> - Euphoria (2019) - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13736-animal-kingdom-saison5"><b>5</b> - Animal Kingdom - Saison 5<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14088-le-livre-perdu-des-sortil-ges-a-discovery-of-witches-saison3"><b>6</b> - Le Livre perdu des sortilèges : A Discovery Of Witches - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>7</b> - From - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>8</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>9</b> - Suspicion - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13664-1883-saison1"><b>10</b> - 1883 - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>7</b> - Suspicion - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>8</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14124-totems-saison1"><b>10</b> - Totems - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
