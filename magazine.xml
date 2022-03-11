@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-11T05:36:06.950Z</updated>
+    <updated>2022-03-11T17:39:18.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-11T05:36:06.247Z</updated>
+        <updated>2022-03-11T17:39:17.453Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -518,7 +518,7 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022"><i class="flag flag-fr"></i> PC Pratique Hors Série N°1 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">7 vote(s)</div>
+							<div class="progress-desc">8 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30613-les-rempla-ants</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30613-les-rempla-ants"/>
-        <updated>2022-03-10T17:39:02.007Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30626-dog</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30626-dog"/>
+        <updated>2022-03-11T17:39:17.457Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30613-les-rempla-ants">Les Remplaçants<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30612-la-quatri-me-dimension">La Quatrième Dimension<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30611-cops-les-forces-du-d-sordre">Cops - Les Forces du désordre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30610-julie-en-12-chapitres">Julie (en 12 chapitres)<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30609-julie-en-12-chapitres">Julie (en 12 chapitres)<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30608-julie-en-12-chapitres">Julie (en 12 chapitres)<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30607-albatros">Albatros<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30606-albatros">Albatros<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30605-albatros">Albatros<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30603-captives">Captives<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30626-dog">Dog<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30625-dog">Dog<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30624-dog">Dog<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30623-the-island">The Island<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30622-adam-travers-le-temps">Adam à travers le temps<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30621-adam-travers-le-temps">Adam à travers le temps<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30620-alerte-rouge">Alerte rouge<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30619-alerte-rouge">Alerte rouge<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30618-i-love-america">I Love America<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30617-i-love-america">I Love America<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13786-superman-lois-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13786-superman-lois-saison2"/>
-        <updated>2022-03-11T05:36:06.254Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"/>
+        <updated>2022-03-11T17:39:17.460Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13435-all-american-saison4">All American - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13434-all-american-saison4">All American - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12792-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12790-chicago-police-department-saison9">Chicago Police Department - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14133-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14132-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13735-evil-saison2">Evil - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13734-evil-saison2">Evil - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14226-la-stagiaire-saison7">La Stagiaire - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14225-la-stagiaire-saison7">La Stagiaire - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14224-a-million-little-things-saison3">A Million Little Things - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,33 +1046,33 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30556-my-son"><b>1</b> - My Son<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30602-nightmare-alley"><b>2</b> - Nightmare Alley<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30567-tout-schuss"><b>3</b> - Tout schuss<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30583-american-bluff"><b>4</b> - American Bluff<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30616-adam-travers-le-temps"><b>3</b> - Adam à travers le temps<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30587-la-m-thode-williams"><b>4</b> - La Méthode Williams<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30599-nightmare-alley"><b>5</b> - Nightmare Alley<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30574-un-prince-new-york-2"><b>6</b> - Un prince à New York 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30575-un-prince-new-york-2"><b>7</b> - Un prince à New York 2<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30573-a-journal-for-jordan"><b>8</b> - A Journal for Jordan<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30580-west-side-story"><b>9</b> - West Side Story<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30581-west-side-story"><b>10</b> - West Side Story<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30567-tout-schuss"><b>6</b> - Tout schuss<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30583-american-bluff"><b>7</b> - American Bluff<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30568-un-prince-new-york-2"><b>8</b> - Un prince à New York 2<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30569-a-journal-for-jordan"><b>9</b> - A Journal for Jordan<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30574-un-prince-new-york-2"><b>10</b> - Un prince à New York 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
-        <updated>2022-03-08T05:36:13.167Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13429-star-trek-discovery-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13429-star-trek-discovery-saison4"/>
+        <updated>2022-03-11T17:39:17.462Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=11351-final-space-saison3"><b>2</b> - Final Space - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>4</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>5</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>6</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14006-my-life-is-murder-saison2"><b>7</b> - My Life Is Murder - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1"><b>8</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>9</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13652-les-ann-es-coup-de-coeur-2021-saison1"><b>10</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4"><b>1</b> - Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=11351-final-space-saison3"><b>3</b> - Final Space - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>4</b> - Suspicion - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14124-totems-saison1"><b>5</b> - Totems - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>7</b> - Evil - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>8</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14122-totems-saison1"><b>10</b> - Totems - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
