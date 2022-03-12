@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-12T05:37:37.923Z</updated>
+    <updated>2022-03-12T17:37:34.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-12T05:37:37.252Z</updated>
+        <updated>2022-03-12T17:37:33.649Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30630-west-side-story</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30630-west-side-story"/>
-        <updated>2022-03-12T05:37:37.254Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30635-spider-man-no-way-home</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30635-spider-man-no-way-home"/>
+        <updated>2022-03-12T17:37:33.652Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30635-spider-man-no-way-home">Spider-Man: No Way Home<i> [BDRIP] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=30634-entretien-avec-un-vampire">Entretien avec un vampire<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30633-les-intranquilles">Les Intranquilles<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30632-les-intranquilles">Les Intranquilles<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30631-les-intranquilles">Les Intranquilles<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30630-west-side-story">West Side Story<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30629-domicile-conjugal">Domicile conjugal<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30628-brimstone">Brimstone<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30627-la-taupe">La Taupe<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30626-dog">Dog<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30625-dog">Dog<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30624-dog">Dog<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30623-the-island">The Island<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30622-adam-travers-le-temps">Adam à travers le temps<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30621-adam-travers-le-temps">Adam à travers le temps<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"/>
-        <updated>2022-03-11T17:39:17.460Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14139-csi-vegas-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14139-csi-vegas-saison1"/>
+        <updated>2022-03-12T17:37:33.652Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2">Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13734-evil-saison2">Evil - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14226-la-stagiaire-saison7">La Stagiaire - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14225-la-stagiaire-saison7">La Stagiaire - Saison 7<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14224-a-million-little-things-saison3">A Million Little Things - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13999-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12800-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12804-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12822-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12821-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13837-9-1-1-lone-star-saison3">9-1-1: Lone Star - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3">9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,11 +1045,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30616-adam-travers-le-temps"><b>1</b> - Adam à travers le temps<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30556-my-son"><b>2</b> - My Son<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30602-nightmare-alley"><b>3</b> - Nightmare Alley<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30587-la-m-thode-williams"><b>4</b> - La Méthode Williams<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30599-nightmare-alley"><b>5</b> - Nightmare Alley<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30622-adam-travers-le-temps"><b>6</b> - Adam à travers le temps<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30602-nightmare-alley"><b>2</b> - Nightmare Alley<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30556-my-son"><b>3</b> - My Son<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30622-adam-travers-le-temps"><b>4</b> - Adam à travers le temps<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30587-la-m-thode-williams"><b>5</b> - La Méthode Williams<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30599-nightmare-alley"><b>6</b> - Nightmare Alley<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30567-tout-schuss"><b>7</b> - Tout schuss<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30568-un-prince-new-york-2"><b>8</b> - Un prince à New York 2<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30578-west-side-story"><b>9</b> - West Side Story<i> [BDRIP] - TRUEFRENCH</i></a></li>
