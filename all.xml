@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-13T05:49:34.960Z</updated>
+    <updated>2022-03-13T17:37:55.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-13T05:49:34.316Z</updated>
+        <updated>2022-03-13T17:37:55.247Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,10 +467,51 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°119 – Avril-Mai 2022<i> [Magazines]</i> </a>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><img alt="Windows et Internet Pratique N°119 – Avril-Mai 2022 [Magazines]" src="/img/ebooks/27c6db7fb1c70c074bc8497b1636c422.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								dim. 13 mars 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022"><i class="flag flag-fr"></i> Programmez N°251 – Mars-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
+							<div class="progress-desc">2 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -510,14 +551,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022"><i class="flag flag-fr"></i> PC Pratique Hors Série N°1 – Janvier-Mars 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -858,49 +897,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><i class="flag flag-fr"></i> 01Net N°967 Du 2 au 15 Février 2022<i> [Magazines]</i> </a>
-											<div title="90.909090909091% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 90.909090909091%;"></div>
-							<div class="progress-desc">11 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022"><img alt="01Net N°967 Du 2 au 15 Février 2022 [Magazines]" src="/img/ebooks/3a0580542f32fac40db89592b9e6f43b.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								dim. 30 janv. 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Né de la fusion des magazines Micro hebdo et l’Ordinateur individuel, 01Net a pour ambition de vous accompagner dans le nouveau monde numérique qui révolutionne votre vie quotidienne. Vous y retro...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=01Net" rel="nofollow">01Net</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=36357-01net-n-967-du-2-au-15-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1000,40 +996,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30650-the-dark-and-the-wicked</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30650-the-dark-and-the-wicked"/>
-        <updated>2022-03-13T05:49:34.323Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30668-pig</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30668-pig"/>
+        <updated>2022-03-13T17:37:55.253Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30650-the-dark-and-the-wicked">The Dark and the Wicked<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30649-the-dark-and-the-wicked">The Dark and the Wicked<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30648-the-dark-and-the-wicked">The Dark and the Wicked<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30647-the-dark-and-the-wicked">The Dark and the Wicked<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30646-run-gun">Run &amp; Gun<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30645-run-gun">Run &amp; Gun<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30644-happily">Happily<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30643-happily">Happily<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30642-the-dark-and-the-wicked">The Dark and the Wicked<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30641-run-gun">Run &amp; Gun<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30668-pig">Pig<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30667-pig">Pig<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30666-le-calendrier">Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30665-juka-la-for-t-des-suicides">Jukaï : la Forêt des Suicides<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30664-juka-la-for-t-des-suicides">Jukaï : la Forêt des Suicides<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30663-juka-la-for-t-des-suicides">Jukaï : la Forêt des Suicides<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30662-pig">Pig<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30661-pig">Pig<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30660-pig">Pig<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30659-spider-man-no-way-home">Spider-Man: No Way Home<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2"/>
-        <updated>2022-03-13T05:49:34.324Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13997-power-book-iv-force-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13997-power-book-iv-force-saison1"/>
+        <updated>2022-03-13T17:37:55.255Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12825-a-million-little-things-saison4">A Million Little Things - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5">Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12826-a-million-little-things-saison4">A Million Little Things - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5">Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1">FBI: International - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13785-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14231-fbi-international-saison1">FBI: International - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14234-for-life-saison2">For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14233-for-life-saison2">For Life - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,13 +1042,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30616-adam-travers-le-temps"><b>1</b> - Adam à travers le temps<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30602-nightmare-alley"><b>2</b> - Nightmare Alley<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30556-my-son"><b>3</b> - My Son<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30587-la-m-thode-williams"><b>4</b> - La Méthode Williams<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30599-nightmare-alley"><b>5</b> - Nightmare Alley<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30622-adam-travers-le-temps"><b>6</b> - Adam à travers le temps<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30626-dog"><b>7</b> - Dog<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30568-un-prince-new-york-2"><b>8</b> - Un prince à New York 2<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30578-west-side-story"><b>9</b> - West Side Story<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30605-albatros"><b>10</b> - Albatros<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30626-dog"><b>4</b> - Dog<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30587-la-m-thode-williams"><b>5</b> - La Méthode Williams<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30599-nightmare-alley"><b>6</b> - Nightmare Alley<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30568-un-prince-new-york-2"><b>7</b> - Un prince à New York 2<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30606-albatros"><b>8</b> - Albatros<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30627-la-taupe"><b>9</b> - La Taupe<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30567-tout-schuss"><b>10</b> - Tout schuss<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1069,9 +1065,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14124-totems-saison1"><b>5</b> - Totems - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>7</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>8</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>10</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>8</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>9</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>10</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
