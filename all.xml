@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T05:50:40.399Z</updated>
+    <updated>2022-03-14T17:38:46.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-14T05:50:39.652Z</updated>
+        <updated>2022-03-14T17:38:45.532Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°119 – Avril-Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">4 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30675-spider-man-no-way-home</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30675-spider-man-no-way-home"/>
-        <updated>2022-03-14T05:50:39.656Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30691-les-mythos</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30691-les-mythos"/>
+        <updated>2022-03-14T17:38:45.537Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30675-spider-man-no-way-home">Spider-Man: No Way Home<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30674-spider-man-no-way-home">Spider-Man: No Way Home<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30673-juka-la-for-t-des-suicides">Jukaï : la Forêt des Suicides<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30672-juka-la-for-t-des-suicides">Jukaï : la Forêt des Suicides<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30671-le-calendrier">Le Calendrier<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30670-le-calendrier">Le Calendrier<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30669-spider-man-no-way-home">Spider-Man: No Way Home<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30668-pig">Pig<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30667-pig">Pig<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30666-le-calendrier">Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30691-les-mythos">Les Mythos<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30690-pig">Pig<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30689-nightmare-alley">Nightmare Alley<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30688-pan">Pan<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30687-la-rage-au-ventre">La Rage au ventre<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30686-aline">Aline<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30685-aline">Aline<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30684-aline">Aline<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30683-aline">Aline<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30682-goal-naissance-d-un-prodige">Goal ! : naissance d'un prodige<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13872-hudson-et-rex-saison3</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13872-hudson-et-rex-saison3"/>
-        <updated>2022-03-14T05:50:39.657Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"/>
+        <updated>2022-03-14T17:38:45.540Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3">Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3">Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1">The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13738-the-cleaning-lady-saison1">The Cleaning Lady - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6">Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14193-outlander-saison6">Outlander - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14191-outlander-saison6">Outlander - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14190-outlander-saison6">Outlander - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14194-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14195-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14197-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14196-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,14 +1045,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>1</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30659-spider-man-no-way-home"><b>2</b> - Spider-Man: No Way Home<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30671-le-calendrier"><b>3</b> - Le Calendrier<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>4</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30656-brimstone"><b>5</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30663-juka-la-for-t-des-suicides"><b>6</b> - Jukaï : la Forêt des Suicides<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>7</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30656-brimstone"><b>3</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30676-warhunt"><b>4</b> - WarHunt<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30687-la-rage-au-ventre"><b>5</b> - La Rage au ventre<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>6</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30657-spider-man-no-way-home"><b>7</b> - Spider-Man: No Way Home<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30669-spider-man-no-way-home"><b>8</b> - Spider-Man: No Way Home<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30670-le-calendrier"><b>9</b> - Le Calendrier<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30647-the-dark-and-the-wicked"><b>10</b> - The Dark and the Wicked<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30672-juka-la-for-t-des-suicides"><b>9</b> - Jukaï : la Forêt des Suicides<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30675-spider-man-no-way-home"><b>10</b> - Spider-Man: No Way Home<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1064,14 +1064,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>3</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>4</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3"><b>6</b> - In the Dark (2019) - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>7</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>8</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3"><b>9</b> - Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5"><b>10</b> - Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>3</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>4</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3"><b>7</b> - In the Dark (2019) - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>8</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>9</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3"><b>10</b> - Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
