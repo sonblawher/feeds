@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T17:38:46.209Z</updated>
+    <updated>2022-03-15T05:36:45.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-14T17:38:45.532Z</updated>
+        <updated>2022-03-15T05:36:44.850Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,11 +1000,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30691-les-mythos</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30691-les-mythos"/>
-        <updated>2022-03-14T17:38:45.537Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30692-raison-et-sentiments</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30692-raison-et-sentiments"/>
+        <updated>2022-03-15T05:36:44.854Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments">Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30691-les-mythos">Les Mythos<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30690-pig">Pig<i> [HDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=30689-nightmare-alley">Nightmare Alley<i> [HDRIP] - VOSTFR</i></a></li>
@@ -1014,7 +1015,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30685-aline">Aline<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30684-aline">Aline<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30683-aline">Aline<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30682-goal-naissance-d-un-prodige">Goal ! : naissance d'un prodige<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,14 +1045,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>1</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30659-spider-man-no-way-home"><b>2</b> - Spider-Man: No Way Home<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30656-brimstone"><b>3</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30676-warhunt"><b>4</b> - WarHunt<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30687-la-rage-au-ventre"><b>5</b> - La Rage au ventre<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>6</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30657-spider-man-no-way-home"><b>7</b> - Spider-Man: No Way Home<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30669-spider-man-no-way-home"><b>8</b> - Spider-Man: No Way Home<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30672-juka-la-for-t-des-suicides"><b>9</b> - Jukaï : la Forêt des Suicides<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30675-spider-man-no-way-home"><b>10</b> - Spider-Man: No Way Home<i> [HDLIGHT 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>3</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>4</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30656-brimstone"><b>5</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30687-la-rage-au-ventre"><b>6</b> - La Rage au ventre<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30688-pan"><b>7</b> - Pan<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30672-juka-la-for-t-des-suicides"><b>8</b> - Jukaï : la Forêt des Suicides<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30673-juka-la-for-t-des-suicides"><b>9</b> - Jukaï : la Forêt des Suicides<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30676-warhunt"><b>10</b> - WarHunt<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1063,15 +1063,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>3</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>2</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>4</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3"><b>7</b> - In the Dark (2019) - Saison 3<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>8</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>9</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13872-hudson-et-rex-saison3"><b>10</b> - Hudson et Rex - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"><b>9</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13871-hudson-et-rex-saison3"><b>10</b> - Hudson et Rex - Saison 3<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
