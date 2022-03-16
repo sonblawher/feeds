@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-15T17:37:41.059Z</updated>
+    <updated>2022-03-16T05:36:24.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-15T17:37:40.426Z</updated>
+        <updated>2022-03-16T05:36:23.416Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,11 +1000,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30717-small-engine-repair</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30717-small-engine-repair"/>
-        <updated>2022-03-15T17:37:40.427Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30719-small-engine-repair</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30719-small-engine-repair"/>
+        <updated>2022-03-16T05:36:23.417Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30719-small-engine-repair">Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30718-small-engine-repair">Small Engine Repair<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30717-small-engine-repair">Small Engine Repair<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30716-spider-man-no-way-home">Spider-Man: No Way Home<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30715-the-gambler">The Gambler<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1013,27 +1015,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30712-goal-of-the-dead-premi-re-mi-temps">Goal of the dead - Première mi-temps<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30711-candyman-3-le-jour-des-morts">Candyman 3 : Le jour des morts<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30710-candyman-2">Candyman 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30709-candyman">Candyman<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30708-small-engine-repair">Small Engine Repair<i> [HDRIP] - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
-        <updated>2022-03-15T17:37:40.428Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1"/>
+        <updated>2022-03-16T05:36:23.418Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13890-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13888-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13885-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13886-snowpiercer-saison3">Snowpiercer - Saison 3<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13905-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13907-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13899-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13898-the-gilded-age-saison1">The Gilded Age - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1">From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14238-wolf-like-me-saison1">Wolf Like Me - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14237-wolf-like-me-saison1">Wolf Like Me - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1">From - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13594-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3">9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13891-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13892-how-i-met-your-father-saison1">How I Met Your Father - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12940-blue-bloods-saison12">Blue Bloods - Saison 12<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,33 +1045,33 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>1</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>2</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30659-spider-man-no-way-home"><b>3</b> - Spider-Man: No Way Home<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>4</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>5</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30656-brimstone"><b>6</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30688-pan"><b>7</b> - Pan<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30693-spider-man-no-way-home"><b>8</b> - Spider-Man: No Way Home<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>9</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30657-spider-man-no-way-home"><b>10</b> - Spider-Man: No Way Home<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>3</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30693-spider-man-no-way-home"><b>4</b> - Spider-Man: No Way Home<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>5</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30701-nightmare-alley"><b>6</b> - Nightmare Alley<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30708-small-engine-repair"><b>7</b> - Small Engine Repair<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>8</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30656-brimstone"><b>9</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30659-spider-man-no-way-home"><b>10</b> - Spider-Man: No Way Home<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
         <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
-        <updated>2022-03-15T17:37:40.430Z</updated>
+        <updated>2022-03-15T17:37:40.428Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>3</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>4</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>6</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>7</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3"><b>9</b> - In the Dark (2019) - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>10</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>3</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>4</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>5</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>6</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>8</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3"><b>9</b> - 9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13837-9-1-1-lone-star-saison3"><b>10</b> - 9-1-1: Lone Star - Saison 3<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
