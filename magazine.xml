@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-16T17:40:21.777Z</updated>
+    <updated>2022-03-17T05:36:32.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-16T17:40:21.016Z</updated>
+        <updated>2022-03-17T05:36:31.457Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°119 – Avril-Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">7 vote(s)</div>
+							<div class="progress-desc">8 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,59 +1001,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30734-mary</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30734-mary"/>
-        <updated>2022-03-16T17:40:21.019Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30743-val</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30743-val"/>
+        <updated>2022-03-17T05:36:31.465Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30743-val">Val<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30742-val">Val<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30741-hunted">Hunted<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30740-hunted">Hunted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30739-hunted">Hunted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30738-hunted">Hunted<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30737-habit">Habit<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30736-habit">Habit<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30735-habit">Habit<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30734-mary">Mary<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30733-bodyguard">Bodyguard<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30732-il-tait-une-fois-en-am-rique">Il était une fois en Amérique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30731-le-fils-du-mask">Le Fils du Mask<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30730-les-bodin-s-en-tha-lande">Les Bodin's en Thaïlande<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30729-les-bodin-s-en-tha-lande">Les Bodin's en Thaïlande<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30728-les-bodin-s-en-tha-lande">Les Bodin's en Thaïlande<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30727-les-bodin-s-en-tha-lande">Les Bodin's en Thaïlande<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30726-les-bodin-s-en-tha-lande">Les Bodin's en Thaïlande<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30725-les-h-riti-res">Les Héritières<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14251-the-endgame-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14251-the-endgame-saison1"/>
-        <updated>2022-03-16T17:40:21.038Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12840-good-doctor-saison5</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12840-good-doctor-saison5"/>
+        <updated>2022-03-17T05:36:31.466Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=12840-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12841-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12878-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=4254-final-space-saison2">Final Space - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14251-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14250-final-space-saison3">Final Space - Saison 3<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14249-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14248-trois-tonne-braquage-record-au-br-sil-saison1">Trois tonne$ : Braquage record au Brésil - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14247-trois-tonne-braquage-record-au-br-sil-saison1">Trois tonne$ : Braquage record au Brésil - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14246-bad-vegan-arnaque-au-menu-saison1">Bad Vegan : Arnaque au menu - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14245-trois-tonne-braquage-record-au-br-sil-saison1">Trois tonne$ : Braquage record au Brésil - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14089-les-simpson-saison33">Les Simpson - Saison 33<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14244-trois-tonne-braquage-record-au-br-sil-saison1">Trois tonne$ : Braquage record au Brésil - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14090-les-simpson-saison33">Les Simpson - Saison 33<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30658-spider-man-no-way-home</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30658-spider-man-no-way-home"/>
-        <updated>2022-03-14T05:50:39.658Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30699-nightmare-alley</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30699-nightmare-alley"/>
+        <updated>2022-03-17T05:36:31.466Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>1</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>2</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>1</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>2</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>3</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>4</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30701-nightmare-alley"><b>5</b> - Nightmare Alley<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30708-small-engine-repair"><b>6</b> - Small Engine Repair<i> [HDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=30730-les-bodin-s-en-tha-lande"><b>7</b> - Les Bodin's en Thaïlande<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>8</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30652-assaut-sur-l-unit-33"><b>9</b> - Assaut sur l'unité 33<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30656-brimstone"><b>10</b> - Brimstone<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30693-spider-man-no-way-home"><b>8</b> - Spider-Man: No Way Home<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>9</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30727-les-bodin-s-en-tha-lande"><b>10</b> - Les Bodin's en Thaïlande<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,11 +1068,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>4</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>5</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1"><b>6</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>7</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13652-les-ann-es-coup-de-coeur-2021-saison1"><b>9</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>10</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>6</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1"><b>8</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5"><b>9</b> - Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13652-les-ann-es-coup-de-coeur-2021-saison1"><b>10</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
