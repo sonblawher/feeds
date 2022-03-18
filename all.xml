@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T05:36:44.531Z</updated>
+    <updated>2022-03-18T17:39:45.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-18T05:36:43.716Z</updated>
+        <updated>2022-03-18T17:39:44.850Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30759-amants</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30759-amants"/>
-        <updated>2022-03-18T05:36:43.723Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30775-l-homme-qui-valait-des-milliards</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30775-l-homme-qui-valait-des-milliards"/>
+        <updated>2022-03-18T17:39:44.852Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30759-amants">Amants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30758-amants">Amants<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30757-amants">Amants<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30756-illusions-perdues">Illusions Perdues<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30755-illusions-perdues">Illusions Perdues<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30754-illusions-perdues">Illusions Perdues<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30753-l-ge-de-glace">L'Âge de glace<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30752-une-amie-au-poil">Une amie au poil<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30751-une-amie-au-poil">Une amie au poil<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30750-matrix-resurrections">Matrix Resurrections<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30775-l-homme-qui-valait-des-milliards">L'homme qui valait des milliards<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30774-black-crab">Black Crab<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30773-contrecoups">Contrecoups<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30772-treize-la-douzaine">Treize à la douzaine<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30771-black-crab">Black Crab<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30770-contrecoups">Contrecoups<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30769-treize-la-douzaine">Treize à la douzaine<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30768-treize-la-douzaine">Treize à la douzaine<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30767-contrecoups">Contrecoups<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30766-black-crab">Black Crab<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13735-evil-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13735-evil-saison2"/>
-        <updated>2022-03-18T05:36:43.724Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14267-les-monstres-de-cracovie-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14267-les-monstres-de-cracovie-saison1"/>
+        <updated>2022-03-18T17:39:44.853Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2">Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13734-evil-saison2">Evil - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14133-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14132-and-just-like-that-saison1">And Just Like That... - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13784-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13785-in-the-dark-2019-saison3">In the Dark (2019) - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14251-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14249-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14259-la-bonne-terre-saison1">La Bonne Terre - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14258-la-bonne-terre-saison1">La Bonne Terre - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14267-les-monstres-de-cracovie-saison1">Les Monstres de Cracovie - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14266-les-monstres-de-cracovie-saison1">Les Monstres de Cracovie - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14265-les-monstres-de-cracovie-saison1">Les Monstres de Cracovie - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14264-les-monstres-de-cracovie-saison1">Les Monstres de Cracovie - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14177-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13976-suspicion-saison1">Suspicion - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,34 +1044,34 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>1</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>2</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>3</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30727-les-bodin-s-en-tha-lande"><b>4</b> - Les Bodin's en Thaïlande<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>5</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30701-nightmare-alley"><b>6</b> - Nightmare Alley<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30708-small-engine-repair"><b>7</b> - Small Engine Repair<i> [HDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>8</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30728-les-bodin-s-en-tha-lande"><b>9</b> - Les Bodin's en Thaïlande<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30730-les-bodin-s-en-tha-lande"><b>10</b> - Les Bodin's en Thaïlande<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>2</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30745-matrix-resurrections"><b>3</b> - Matrix Resurrections<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30750-matrix-resurrections"><b>4</b> - Matrix Resurrections<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>5</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>6</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>7</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30727-les-bodin-s-en-tha-lande"><b>8</b> - Les Bodin's en Thaïlande<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30732-il-tait-une-fois-en-am-rique"><b>9</b> - Il était une fois en Amérique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30701-nightmare-alley"><b>10</b> - Nightmare Alley<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
-        <updated>2022-03-15T17:37:40.428Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13429-star-trek-discovery-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13429-star-trek-discovery-saison4"/>
+        <updated>2022-03-18T17:39:44.857Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>2</b> - From - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>4</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>5</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>6</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>7</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>8</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13656-les-ann-es-coup-de-coeur-2021-saison1"><b>10</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13429-star-trek-discovery-saison4"><b>1</b> - Star Trek: Discovery - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>3</b> - Suspicion - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>4</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>5</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>6</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>7</b> - Evil - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>8</b> - Severance - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>9</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>10</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
