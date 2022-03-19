@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-19T05:36:41.857Z</updated>
+    <updated>2022-03-19T17:37:43.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-19T05:36:41.262Z</updated>
+        <updated>2022-03-19T17:37:42.435Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,59 +1001,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30777-blanche-neige-et-les-sept-nains</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30777-blanche-neige-et-les-sept-nains"/>
-        <updated>2022-03-19T05:36:41.264Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30795-le-calendrier</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30795-le-calendrier"/>
+        <updated>2022-03-19T17:37:42.439Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30777-blanche-neige-et-les-sept-nains">Blanche-Neige et les sept nains<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30776-contre-une-poign-e-de-diamants">Contre une poignée de diamants<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30775-l-homme-qui-valait-des-milliards">L'homme qui valait des milliards<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30774-black-crab">Black Crab<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30773-contrecoups">Contrecoups<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30772-treize-la-douzaine">Treize à la douzaine<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30771-black-crab">Black Crab<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30770-contrecoups">Contrecoups<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30769-treize-la-douzaine">Treize à la douzaine<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30768-treize-la-douzaine">Treize à la douzaine<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30795-le-calendrier">Le Calendrier<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30794-le-calendrier">Le Calendrier<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30793-le-calendrier">Le Calendrier<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30792-le-calendrier">Le Calendrier<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30791-le-calendrier">Le Calendrier<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30790-house-of-gucci">House of Gucci<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30789-house-of-gucci">House of Gucci<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30788-house-of-gucci">House of Gucci<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30787-house-of-gucci">House of Gucci<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30786-house-of-gucci">House of Gucci<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=11444-dollface-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=11444-dollface-saison1"/>
-        <updated>2022-03-19T05:36:41.265Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14288-grey-s-anatomy-saison18</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14288-grey-s-anatomy-saison18"/>
+        <updated>2022-03-19T17:37:42.440Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=11444-dollface-saison1">Dollface - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14278-human-resources-saison1">Human Resources - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14277-dr-le-saison1">Drôle - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14276-human-resources-saison1">Human Resources - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14090-les-simpson-saison33">Les Simpson - Saison 33<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14089-les-simpson-saison33">Les Simpson - Saison 33<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13799-skam-france-saison9">SKAM France - Saison 9<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13800-skam-france-saison9">SKAM France - Saison 9<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12878-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2">Resident Alien - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14285-resident-alien-saison2">Resident Alien - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14233-for-life-saison2">For Life - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14234-for-life-saison2">For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14284-life-beth-saison1">Life &amp; Beth - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14283-life-beth-saison1">Life &amp; Beth - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30699-nightmare-alley</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30699-nightmare-alley"/>
-        <updated>2022-03-17T05:36:31.466Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30745-matrix-resurrections</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30745-matrix-resurrections"/>
+        <updated>2022-03-19T17:37:42.441Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>1</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30745-matrix-resurrections"><b>2</b> - Matrix Resurrections<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>3</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30750-matrix-resurrections"><b>4</b> - Matrix Resurrections<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30745-matrix-resurrections"><b>1</b> - Matrix Resurrections<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>2</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>3</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30754-illusions-perdues"><b>4</b> - Illusions Perdues<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>5</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>6</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30727-les-bodin-s-en-tha-lande"><b>7</b> - Les Bodin's en Thaïlande<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30732-il-tait-une-fois-en-am-rique"><b>6</b> - Il était une fois en Amérique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30750-matrix-resurrections"><b>7</b> - Matrix Resurrections<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>8</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30732-il-tait-une-fois-en-am-rique"><b>9</b> - Il était une fois en Amérique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30743-val"><b>10</b> - Val<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>9</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30713-les-chemins-de-la-dignit"><b>10</b> - Les Chemins de la dignité<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1070,8 +1070,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>5</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>6</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>7</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>8</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>9</b> - Severance - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>8</b> - Severance - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>9</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>10</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
