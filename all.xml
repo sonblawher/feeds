@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-19T17:37:43.107Z</updated>
+    <updated>2022-03-20T05:36:30.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-19T17:37:42.435Z</updated>
+        <updated>2022-03-20T05:36:29.525Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,11 +1000,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30795-le-calendrier</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30795-le-calendrier"/>
-        <updated>2022-03-19T17:37:42.439Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30798-matrix-resurrections</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30798-matrix-resurrections"/>
+        <updated>2022-03-20T05:36:29.532Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30798-matrix-resurrections">Matrix Resurrections<i> [BLURAY REMUX 4K] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30797-gladiator">Gladiator<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30796-silence">Silence<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30795-le-calendrier">Le Calendrier<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30794-le-calendrier">Le Calendrier<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30793-le-calendrier">Le Calendrier<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
@@ -1012,47 +1015,44 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30791-le-calendrier">Le Calendrier<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30790-house-of-gucci">House of Gucci<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30789-house-of-gucci">House of Gucci<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30788-house-of-gucci">House of Gucci<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30787-house-of-gucci">House of Gucci<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30786-house-of-gucci">House of Gucci<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14288-grey-s-anatomy-saison18</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14288-grey-s-anatomy-saison18"/>
-        <updated>2022-03-19T17:37:42.440Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13436-star-trek-discovery-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13436-star-trek-discovery-saison4"/>
+        <updated>2022-03-20T05:36:29.533Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2">Resident Alien - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14285-resident-alien-saison2">Resident Alien - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14233-for-life-saison2">For Life - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14234-for-life-saison2">For Life - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14284-life-beth-saison1">Life &amp; Beth - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14283-life-beth-saison1">Life &amp; Beth - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13436-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13437-star-trek-discovery-saison4">Star Trek: Discovery - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14294-our-flag-means-death-saison1">Our Flag Means Death - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14293-our-flag-means-death-saison1">Our Flag Means Death - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14292-good-trouble-saison4">Good Trouble - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14291-good-trouble-saison4">Good Trouble - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14290-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30745-matrix-resurrections</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30745-matrix-resurrections"/>
-        <updated>2022-03-19T17:37:42.441Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30692-raison-et-sentiments</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30692-raison-et-sentiments"/>
+        <updated>2022-03-20T05:36:29.534Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30745-matrix-resurrections"><b>1</b> - Matrix Resurrections<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>2</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30692-raison-et-sentiments"><b>1</b> - Raison et sentiments<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30745-matrix-resurrections"><b>2</b> - Matrix Resurrections<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30699-nightmare-alley"><b>3</b> - Nightmare Alley<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30754-illusions-perdues"><b>4</b> - Illusions Perdues<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30658-spider-man-no-way-home"><b>5</b> - Spider-Man: No Way Home<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30732-il-tait-une-fois-en-am-rique"><b>6</b> - Il était une fois en Amérique<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30750-matrix-resurrections"><b>7</b> - Matrix Resurrections<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>8</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>9</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30713-les-chemins-de-la-dignit"><b>10</b> - Les Chemins de la dignité<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30666-le-calendrier"><b>7</b> - Le Calendrier<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30719-small-engine-repair"><b>8</b> - Small Engine Repair<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30727-les-bodin-s-en-tha-lande"><b>9</b> - Les Bodin's en Thaïlande<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30743-val"><b>10</b> - Val<i> [HDRIP] - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,8 +1066,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13978-suspicion-saison1"><b>3</b> - Suspicion - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>4</b> - From - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>5</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>6</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>5</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>7</b> - Evil - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>8</b> - Severance - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13428-star-trek-discovery-saison4"><b>9</b> - Star Trek: Discovery - Saison 4<i> - VF HD</i></a></li>
