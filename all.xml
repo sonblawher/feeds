@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T05:36:35.473Z</updated>
+    <updated>2022-03-21T17:39:55.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-21T05:36:34.823Z</updated>
+        <updated>2022-03-21T17:39:54.850Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30814-marry-me</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30814-marry-me"/>
-        <updated>2022-03-21T05:36:34.826Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30818-ghosts-of-mars</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30818-ghosts-of-mars"/>
+        <updated>2022-03-21T17:39:54.856Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30818-ghosts-of-mars">Ghosts of Mars<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30817-reste-la-vie">Reste la vie<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30816-reste-la-vie">Reste la vie<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30815-reste-la-vie">Reste la vie<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30814-marry-me">Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30813-tous-en-sc-ne-2">Tous en scène 2<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30812-tous-en-sc-ne-2">Tous en scène 2<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30811-marry-me">Marry Me<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30810-marry-me">Marry Me<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30809-marry-me">Marry Me<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30808-tous-en-sc-ne-2">Tous en scène 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30807-tous-en-sc-ne-2">Tous en scène 2<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30806-iron-man">Iron Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30805-tous-en-sc-ne-2">Tous en scène 2<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14298-ncis-los-angeles-saison13</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14298-ncis-los-angeles-saison13"/>
-        <updated>2022-03-21T05:36:34.827Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14151-white-sands-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14151-white-sands-saison1"/>
+        <updated>2022-03-21T17:39:54.857Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14298-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14297-top-boy-saison2">Top Boy - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14296-top-boy-saison2">Top Boy - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14295-top-boy-saison2">Top Boy - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2">Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14151-white-sands-saison1">White Sands - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14152-white-sands-saison1">White Sands - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6">Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14193-outlander-saison6">Outlander - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14196-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14197-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14190-outlander-saison6">Outlander - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14191-outlander-saison6">Outlander - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14195-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14194-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,14 +1044,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>1</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30808-tous-en-sc-ne-2"><b>2</b> - Tous en scène 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30800-scream"><b>3</b> - Scream<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30801-scream"><b>4</b> - Scream<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30802-scream"><b>5</b> - Scream<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30805-tous-en-sc-ne-2"><b>6</b> - Tous en scène 2<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30806-iron-man"><b>7</b> - Iron Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30807-tous-en-sc-ne-2"><b>8</b> - Tous en scène 2<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30809-marry-me"><b>9</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30809-marry-me"><b>2</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30814-marry-me"><b>3</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30818-ghosts-of-mars"><b>4</b> - Ghosts of Mars<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30808-tous-en-sc-ne-2"><b>5</b> - Tous en scène 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30800-scream"><b>6</b> - Scream<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30802-scream"><b>7</b> - Scream<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30806-iron-man"><b>8</b> - Iron Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30807-tous-en-sc-ne-2"><b>9</b> - Tous en scène 2<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30810-marry-me"><b>10</b> - Marry Me<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
@@ -1065,13 +1065,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"><b>3</b> - Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5"><b>6</b> - Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5"><b>8</b> - The Resident - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1"><b>9</b> - Shining Vale - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>4</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14151-white-sands-saison1"><b>7</b> - White Sands - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5"><b>8</b> - Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14251-the-endgame-saison1"><b>10</b> - The Endgame - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
