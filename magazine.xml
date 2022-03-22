@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-21T17:39:55.577Z</updated>
+    <updated>2022-03-22T05:37:31.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-21T17:39:54.850Z</updated>
+        <updated>2022-03-22T05:37:31.092Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1020,32 +1020,32 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14151-white-sands-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14151-white-sands-saison1"/>
-        <updated>2022-03-21T17:39:54.857Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14303-l-le-aux-30-cercueils-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14303-l-le-aux-30-cercueils-saison1"/>
+        <updated>2022-03-22T05:37:31.097Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14151-white-sands-saison1">White Sands - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14152-white-sands-saison1">White Sands - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6">Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14193-outlander-saison6">Outlander - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14196-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14197-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14190-outlander-saison6">Outlander - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14191-outlander-saison6">Outlander - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14195-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14194-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14303-l-le-aux-30-cercueils-saison1">L'île aux 30 cercueils - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13094-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13093-batwoman-saison3">Batwoman - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13400-riverdale-saison6">Riverdale - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13399-riverdale-saison6">Riverdale - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13398-riverdale-saison6">Riverdale - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13397-riverdale-saison6">Riverdale - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13455-flash-2014-saison8">Flash (2014) - Saison 8<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30804-pinocchio</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30804-pinocchio"/>
-        <updated>2022-03-21T05:36:34.828Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30809-marry-me</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30809-marry-me"/>
+        <updated>2022-03-22T05:37:31.100Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>1</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30809-marry-me"><b>2</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30809-marry-me"><b>1</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>2</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30814-marry-me"><b>3</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30818-ghosts-of-mars"><b>4</b> - Ghosts of Mars<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30808-tous-en-sc-ne-2"><b>5</b> - Tous en scène 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1058,21 +1058,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13958-resident-alien-saison2"/>
-        <updated>2022-03-21T05:36:34.828Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
+        <updated>2022-03-22T05:37:31.101Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>1</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"><b>3</b> - Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>4</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>3</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>4</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"><b>6</b> - Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14151-white-sands-saison1"><b>7</b> - White Sands - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5"><b>8</b> - Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13959-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14251-the-endgame-saison1"><b>10</b> - The Endgame - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>8</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>9</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
