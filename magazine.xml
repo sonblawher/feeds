@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-23T17:39:45.492Z</updated>
+    <updated>2022-03-24T05:36:43.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-23T17:39:44.859Z</updated>
+        <updated>2022-03-24T05:36:42.568Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,7 +468,7 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><i class="flag flag-multi"></i> Windows et Internet Pratique NÂ°119 â€“ Avril-Mai 2022<i> [Magazines]</i> </a>
+					<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°119 – Avril-Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
 							<div class="progress-desc">10 vote(s)</div>
@@ -476,7 +476,7 @@
 									</div>
 				<div style="position:relative" class="content row">
 					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><img alt="Windows et Internet Pratique NÂ°119 â€“ Avril-Mai 2022 [Magazines]" src="/img/ebooks/27c6db7fb1c70c074bc8497b1636c422.jpg" class="img-responsive"></a>
+						<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><img alt="Windows et Internet Pratique N°119 – Avril-Mai 2022 [Magazines]" src="/img/ebooks/27c6db7fb1c70c074bc8497b1636c422.jpg" class="img-responsive"></a>
 					</div>
 					<div class="col-md-10">
 						<div class="misc-info">
@@ -488,6 +488,591 @@
 								Sun 13 Mar 2022							</span>
 						</div>
 						<div class="clearfix"></div>
-						<p></p></div></div></div>]]></content>
+						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022"><i class="flag flag-fr"></i> Programmez N°251 – Mars-Avril 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">2 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022"><img alt="Programmez N°251 – Mars-Avril 2022 [Magazines]" src="/img/ebooks/7430b04fc23de53e5ae8d9539665fdaf.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Sun 06 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
+
+Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022"><i class="flag flag-fr"></i> PC Pratique Hors Série N°1 – Janvier-Mars 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">10 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022"><img alt="PC Pratique Hors Série N°1 – Janvier-Mars 2022 [Magazines]" src="/img/ebooks/7bf0fb0ca6e873f5444e7db1e2d612c5.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Sun 06 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce qu’aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous pr...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=PC Pratique" rel="nofollow">PC Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37048-pc-pratique-hors-s-rie-n-1-janvier-mars-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022"><i class="flag flag-fr"></i> Hackable Magazine N°41 – Mars-Avril 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">7 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022"><img alt="Hackable Magazine N°41 – Mars-Avril 2022 [Magazines]" src="/img/ebooks/fcda9d8bea1b2434781e8695bba61618.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Thu 03 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Hackable Magazine est une publication des Éditions Diamond, destiné à des utilisateurs curieux souhaitant découvrir et progresser dans le domaine de l’électronique numérique, de l’utilisation de n...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Hackable Magazine" rel="nofollow">Hackable Magazine</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36992-hackable-magazine-n-41-mars-avril-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> Internet Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">10 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022"><img alt="Internet Pratique N°10 – Novembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/103dfd24fb3b3dbd29872b8ac709ca67.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Tue 01 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Internet Pratique est le seul magazine français entièrement dédié à rendre l’utilisation d’internet facile et…sûre. Dans chaque numéro, conseils de pros, pas-à-pas, trucs et astuces et grands doss...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Internet Pratique" rel="nofollow">Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> PC Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">10 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><img alt="PC Pratique N°10 – Novembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/00b7a1e5a9614253334ddfcda16c9088.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Tue 01 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce qu’aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous pr...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=PC Pratique" rel="nofollow">PC Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><i class="flag flag-fr"></i> Windows 10 Pratique N°11 – Octobre-Décembre 2021<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">10 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><img alt="Windows 10 Pratique N°11 – Octobre-Décembre 2021 [Magazines]" src="/img/ebooks/5f9da84f58fdc0a44ac313fc978e2693.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Tue 01 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Conçu pour aider ses lecteurs à progresser dans l’utilisation et la maîtrise de Windows 10, cela sans jargon technique, Windows 10 Pratique propose dans chacun de ses numéros : &gt; l’essentiel de l’...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows 10 Pratique" rel="nofollow">Windows 10 Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022"><i class="flag flag-fr"></i> L’Informaticien N°203 – Février 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">8 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022"><img alt="L’Informaticien N°203 – Février 2022 [Magazines]" src="/img/ebooks/c7d59db0a23e40370f35be85602df372.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Tue 01 Mar 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>L’Informaticien est le magazine mensuel des décideurs IT développant une ligne éditoriale à forte dominante technologique. L’Informaticien maintient un strict équilibre entre plates-formes libres ...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=L’Informaticien" rel="nofollow">L’Informaticien</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36939-l-informaticien-n-203-f-vrier-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°118 – Février-Mars 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">11 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022"><img alt="Windows et Internet Pratique N°118 – Février-Mars 2022 [Magazines]" src="/img/ebooks/312649d6927885973c16329495d6535d.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Sat 26 Feb 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+								<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022"><i class="flag flag-fr"></i> Programmez Hors Série N°6 – Hiver 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022"><img alt="Programmez Hors Série N°6 – Hiver 2022 [Magazines]" src="/img/ebooks/3f32a10f1098ce28139dd0c175912e7b.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Fri 11 Feb 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
+
+Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+		
+		<div class="text-center" style="margin-top:20px"></div>
+		
+		<div class="text-center">
+			<ul class="pagination">
+				<li class="disabled">
+					<a>
+						<span>«</span>
+					</a>
+				</li>
+				
+									<li class="active ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=1">
+							1						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=2">
+							2						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=3">
+							3						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=4">
+							4						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=5">
+							5						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=6">
+							6						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=7">
+							7						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=8">
+							8						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=9">
+							9						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=10">
+							10						</a>
+					</li>
+									<li class=" disabled">
+						<a>
+							...						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
+							54						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=55">
+							55						</a>
+					</li>
+								
+				<li>
+					<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=2" rel="next">
+						<span>»</span>
+					</a>
+				</li>
+				
+			</ul>
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.wawacity.one/?p=login</id>
+        <link href="https://www.wawacity.one/?p=login"/>
+        <updated>2022-03-24T05:36:42.568Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-user"></i> Membre</div>
+						<div class="wa-block-text text-center">
+															<a href="?p=login" rel="nofollow">Se connecter</a>
+								<div>ou</div>
+								<a href="/?p=login" rel="nofollow">Créer un compte</a>
+													</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwawacity.blue/&amp;t=Chercher%20%C2%BB%20Wawacity%20-%20Site%20de%20T%C3%A9l%C3%A9chargement%20Gratuit</id>
+        <link href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwawacity.blue/&amp;t=Chercher%20%C2%BB%20Wawacity%20-%20Site%20de%20T%C3%A9l%C3%A9chargement%20Gratuit"/>
+        <updated>2022-03-24T05:36:42.569Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-link"></i> Soutenez-nous</div>
+						<div class="wa-block-text text-center">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwawacity.blue/&amp;t=Chercher%20%C2%BB%20Wawacity%20-%20Site%20de%20T%C3%A9l%C3%A9chargement%20Gratuit" onclick="popupWin = window.open(this.href, 'contacts', 'location,width=600,height=400,left=660,top=340'); popupWin.focus(); return false;"><img alt="facebook" src="https://cdn0.iconfinder.com/data/icons/social-media-2098/512/facebook-128.png" width="48px"></a>
+							<!--<a href="https://twitter.com/WawaCity_real" target="_blank"><img alt="twitter" src="https://cdn0.iconfinder.com/data/icons/social-media-2098/512/twitter-128.png" width="48px"/></a>-->
+							<a href="https://plus.google.com/share?url=https%3A%2F%2Fwawacity.blue%2F" onclick="popupWin = window.open(this.href, 'contacts', 'location,width=600,height=400,left=660,top=340'); popupWin.focus(); return false;"><img alt="google-plus" src="https://cdn0.iconfinder.com/data/icons/social-media-2098/512/google-plus-128.png" width="48px"></a>
+						</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.wawacity.one/?p=film&amp;id=30832-jackass-forever</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30832-jackass-forever"/>
+        <updated>2022-03-24T05:36:42.570Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
+						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30832-jackass-forever">jackass forever<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30831-jackass-forever">jackass forever<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30830-jackass-forever">jackass forever<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30829-gold">Gold<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30828-gold">Gold<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30827-gold">Gold<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30826-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30825-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30824-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30823-resident-evil-bienvenue-raccoon-city">Resident Evil : Bienvenue à Raccoon City<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+													</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9"/>
+        <updated>2022-03-24T05:36:42.571Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
+						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14290-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14319-para-les-saison1">Para//èles - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14318-para-les-saison1">Para//èles - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12841-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12840-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12764-9-1-1-saison5">9-1-1 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12767-9-1-1-saison5">9-1-1 - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12766-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
+													</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.wawacity.one/?p=film&amp;id=30809-marry-me</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30809-marry-me"/>
+        <updated>2022-03-24T05:36:42.572Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
+						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30809-marry-me"><b>1</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>2</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30814-marry-me"><b>3</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30806-iron-man"><b>4</b> - Iron Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30808-tous-en-sc-ne-2"><b>5</b> - Tous en scène 2<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30800-scream"><b>6</b> - Scream<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30802-scream"><b>7</b> - Scream<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30807-tous-en-sc-ne-2"><b>8</b> - Tous en scène 2<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30811-marry-me"><b>9</b> - Marry Me<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30812-tous-en-sc-ne-2"><b>10</b> - Tous en scène 2<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+													</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
+        <updated>2022-03-24T05:36:42.573Z</updated>
+        <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
+						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>2</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>4</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>5</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>6</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>7</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13998-raised-by-wolves-2020-saison2"><b>9</b> - Raised By Wolves (2020) - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13652-les-ann-es-coup-de-coeur-2021-saison1"><b>10</b> - Les Années coup de coeur (2021) - Saison 1<i> - VF HD</i></a></li>
+													</ul>]]></content>
     </entry>
 </feed>
