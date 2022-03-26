@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-26T05:36:24.280Z</updated>
+    <updated>2022-03-26T17:38:14.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-26T05:36:23.592Z</updated>
+        <updated>2022-03-26T17:38:13.372Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30853-les-olympiades</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30853-les-olympiades"/>
-        <updated>2022-03-25T17:40:44.958Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30863-les-week-ends-mal-fiques-du-comte-zaroff</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30863-les-week-ends-mal-fiques-du-comte-zaroff"/>
+        <updated>2022-03-26T17:38:13.379Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30853-les-olympiades">Les Olympiades<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30852-les-olympiades">Les Olympiades<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30851-les-olympiades">Les Olympiades<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30850-treize-la-douzaine">Treize à la douzaine<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30849-les-olympiades">Les Olympiades<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30848-nightmare-alley">Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30847-baisers-vol-s">Baisers volés<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30846-antoine-et-colette">Antoine et Colette<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30845-shang-chi-et-la-l-gende-des-dix-anneaux">Shang-Chi et la Légende des Dix Anneaux<i> [BLURAY REMUX 4K] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30844-l-ev-nement">L'Evénement<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30863-les-week-ends-mal-fiques-du-comte-zaroff">Les Week-ends maléfiques du comte Zaroff<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30862-slumber-party-massacre">Slumber Party Massacre<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30861-slumber-party-massacre">Slumber Party Massacre<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30860-licorice-pizza">Licorice Pizza<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30859-licorice-pizza">Licorice Pizza<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30858-13-minutes">13 Minutes<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30857-13-minutes">13 Minutes<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30856-slumber-party-massacre">Slumber Party Massacre<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30855-licorice-pizza">Licorice Pizza<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30854-13-minutes">13 Minutes<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13786-superman-lois-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13786-superman-lois-saison2"/>
-        <updated>2022-03-26T05:36:23.598Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14287-grey-s-anatomy-saison18</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14287-grey-s-anatomy-saison18"/>
+        <updated>2022-03-26T17:38:13.379Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14337-la-chronique-des-bridgerton-saison2">La Chronique des Bridgerton - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13732-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13733-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14336-la-chronique-des-bridgerton-saison2">La Chronique des Bridgerton - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14335-la-chronique-des-bridgerton-saison2">La Chronique des Bridgerton - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14334-la-chronique-des-bridgerton-saison2">La Chronique des Bridgerton - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14177-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,15 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30809-marry-me"><b>1</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30848-nightmare-alley"><b>2</b> - Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30814-marry-me"><b>3</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30827-gold"><b>4</b> - Gold<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30827-gold"><b>2</b> - Gold<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30848-nightmare-alley"><b>3</b> - Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30814-marry-me"><b>4</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30834-le-grand-restaurant"><b>5</b> - Le Grand restaurant<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>6</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30841-de-son-vivant"><b>7</b> - De son vivant<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30828-gold"><b>7</b> - Gold<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30846-antoine-et-colette"><b>8</b> - Antoine et Colette<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30828-gold"><b>9</b> - Gold<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30842-de-son-vivant"><b>10</b> - De son vivant<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30833-la-french"><b>9</b> - La French<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30836-supr-mes"><b>10</b> - Suprêmes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
