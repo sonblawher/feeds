@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-03-26T17:38:14.048Z</updated>
+    <updated>2022-03-27T05:36:19.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-03-26T17:38:13.372Z</updated>
+        <updated>2022-03-27T05:36:18.993Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1020,21 +1020,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14287-grey-s-anatomy-saison18</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14287-grey-s-anatomy-saison18"/>
-        <updated>2022-03-26T17:38:13.379Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"/>
+        <updated>2022-03-27T05:36:18.999Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14300-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14298-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14337-la-chronique-des-bridgerton-saison2">La Chronique des Bridgerton - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13732-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,15 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30809-marry-me"><b>1</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30827-gold"><b>2</b> - Gold<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30848-nightmare-alley"><b>3</b> - Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30814-marry-me"><b>4</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30834-le-grand-restaurant"><b>5</b> - Le Grand restaurant<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30848-nightmare-alley"><b>2</b> - Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30827-gold"><b>3</b> - Gold<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30834-le-grand-restaurant"><b>4</b> - Le Grand restaurant<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30814-marry-me"><b>5</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>6</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30828-gold"><b>7</b> - Gold<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30846-antoine-et-colette"><b>8</b> - Antoine et Colette<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30833-la-french"><b>9</b> - La French<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30836-supr-mes"><b>10</b> - Suprêmes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30847-baisers-vol-s"><b>10</b> - Baisers volés<i> [4K LIGHT] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
