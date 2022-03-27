@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-27T05:36:19.569Z</updated>
+    <updated>2022-03-27T17:38:40.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-27T05:36:18.993Z</updated>
+        <updated>2022-03-27T17:38:40.065Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,59 +1000,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30863-les-week-ends-mal-fiques-du-comte-zaroff</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30863-les-week-ends-mal-fiques-du-comte-zaroff"/>
-        <updated>2022-03-26T17:38:13.379Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30869-illusions-perdues</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30869-illusions-perdues"/>
+        <updated>2022-03-27T17:38:40.070Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30869-illusions-perdues">Illusions Perdues<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30868-illusions-perdues">Illusions Perdues<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30867-illusions-perdues">Illusions Perdues<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30866-soleil-vert">Soleil vert<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30865-illusions-perdues">Illusions Perdues<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30864-illusions-perdues">Illusions Perdues<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30863-les-week-ends-mal-fiques-du-comte-zaroff">Les Week-ends maléfiques du comte Zaroff<i> [4K LIGHT] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30862-slumber-party-massacre">Slumber Party Massacre<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30861-slumber-party-massacre">Slumber Party Massacre<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30860-licorice-pizza">Licorice Pizza<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30859-licorice-pizza">Licorice Pizza<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30858-13-minutes">13 Minutes<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30857-13-minutes">13 Minutes<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30856-slumber-party-massacre">Slumber Party Massacre<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30855-licorice-pizza">Licorice Pizza<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30854-13-minutes">13 Minutes<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"/>
-        <updated>2022-03-27T05:36:18.999Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1"/>
+        <updated>2022-03-27T17:38:40.071Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14300-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14298-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13918-billions-saison6">Billions - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13919-billions-saison6">Billions - Saison 6<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30809-marry-me</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30809-marry-me"/>
-        <updated>2022-03-24T05:36:42.572Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30848-nightmare-alley</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30848-nightmare-alley"/>
+        <updated>2022-03-27T17:38:40.072Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30809-marry-me"><b>1</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30848-nightmare-alley"><b>2</b> - Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30827-gold"><b>3</b> - Gold<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30848-nightmare-alley"><b>1</b> - Nightmare Alley<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30809-marry-me"><b>2</b> - Marry Me<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30828-gold"><b>3</b> - Gold<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30834-le-grand-restaurant"><b>4</b> - Le Grand restaurant<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30814-marry-me"><b>5</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30827-gold"><b>5</b> - Gold<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30804-pinocchio"><b>6</b> - Pinocchio<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30828-gold"><b>7</b> - Gold<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30846-antoine-et-colette"><b>8</b> - Antoine et Colette<i> [4K LIGHT] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30833-la-french"><b>9</b> - La French<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30847-baisers-vol-s"><b>10</b> - Baisers volés<i> [4K LIGHT] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30814-marry-me"><b>7</b> - Marry Me<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30833-la-french"><b>8</b> - La French<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30829-gold"><b>9</b> - Gold<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30836-supr-mes"><b>10</b> - Suprêmes<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,12 +1066,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>2</b> - From - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>3</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>4</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>5</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>6</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>8</b> - Severance - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>10</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>5</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>6</b> - Severance - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13958-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>8</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
