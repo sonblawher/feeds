@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-30T17:40:00.510Z</updated>
+    <updated>2022-03-31T05:37:38.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-03-30T17:39:59.837Z</updated>
+        <updated>2022-03-31T05:37:38.267Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30895-la-plan-te-au-tr-sor-un-nouvel-univers</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30895-la-plan-te-au-tr-sor-un-nouvel-univers"/>
-        <updated>2022-03-30T17:39:59.840Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30904-mort-sur-le-nil</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30904-mort-sur-le-nil"/>
+        <updated>2022-03-31T05:37:38.270Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30904-mort-sur-le-nil">Mort sur le Nil<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30903-mort-sur-le-nil">Mort sur le Nil<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30902-hercule">Hercule<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30901-mort-sur-le-nil">Mort sur le Nil<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30900-mort-sur-le-nil">Mort sur le Nil<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30899-mort-sur-le-nil">Mort sur le Nil<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30898-chernobyl-under-fire">Chernobyl : Under Fire<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30897-chernobyl-under-fire">Chernobyl : Under Fire<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30896-chernobyl-under-fire">Chernobyl : Under Fire<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30895-la-plan-te-au-tr-sor-un-nouvel-univers">La Planète au trésor, un nouvel univers<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30894-oranges-sanguines">Oranges sanguines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30893-oranges-sanguines">Oranges sanguines<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30892-oranges-sanguines">Oranges sanguines<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30891-notorious-nick">Notorious Nick<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30890-notorious-nick">Notorious Nick<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30889-notorious-nick">Notorious Nick<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30888-mulan">Mulan<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30887-l-avare">L'Avare<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30886-paris-br-le-t-il">Paris brûle-t-il ?<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14357-moon-knight-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14357-moon-knight-saison1"/>
-        <updated>2022-03-30T17:39:59.841Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14359-everything-sucks-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14359-everything-sucks-saison1"/>
+        <updated>2022-03-31T05:37:38.271Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14359-everything-sucks-saison1">Everything Sucks! - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14358-le-tueur-de-l-ombre-saison2">Le Tueur de l'ombre - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12840-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12841-good-doctor-saison5">Good Doctor - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12878-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14290-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14357-moon-knight-saison1">Moon Knight - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14251-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14249-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12766-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1">Moon Knight - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14284-life-beth-saison1">Life &amp; Beth - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14283-life-beth-saison1">Life &amp; Beth - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13434-all-american-saison4">All American - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13435-all-american-saison4">All American - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1050,9 +1050,9 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30867-illusions-perdues"><b>5</b> - Illusions Perdues<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30868-illusions-perdues"><b>6</b> - Illusions Perdues<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30870-le-train"><b>7</b> - Le Train<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30886-paris-br-le-t-il"><b>8</b> - Paris brûle-t-il ?<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30865-illusions-perdues"><b>9</b> - Illusions Perdues<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30878-mort-sur-le-nil"><b>10</b> - Mort sur le Nil<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30879-mort-sur-le-nil"><b>8</b> - Mort sur le Nil<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30886-paris-br-le-t-il"><b>9</b> - Paris brûle-t-il ?<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30894-oranges-sanguines"><b>10</b> - Oranges sanguines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,8 +1068,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>4</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>5</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14160-peaky-blinders-saison6"><b>6</b> - Peaky Blinders - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1"><b>7</b> - NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>8</b> - For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>7</b> - For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12765-ncis-hawai-i-saison1"><b>8</b> - NCIS: Hawai'i - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>9</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>10</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
