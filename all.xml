@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T17:42:23.743Z</updated>
+    <updated>2022-04-02T05:36:39.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:42:23.066Z</updated>
+        <updated>2022-04-02T05:36:38.693Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1000,11 +1000,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30932-tous-en-sc-ne-2</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30932-tous-en-sc-ne-2"/>
-        <updated>2022-04-01T17:42:23.075Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30935-moonfall</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30935-moonfall"/>
+        <updated>2022-04-02T05:36:38.697Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30935-moonfall">Moonfall<i> [WEB-DL 4K] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30934-anti-life">Anti-Life<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30933-le-monde-de-nate">Le Monde de Nate<i> [WEB-DL 4K] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30932-tous-en-sc-ne-2">Tous en scène 2<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30931-tous-en-sc-ne-2">Tous en scène 2<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30930-tous-en-sc-ne-2">Tous en scène 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1012,28 +1015,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30928-tous-en-sc-ne-2">Tous en scène 2<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30927-the-contractor">The Contractor<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30926-the-contractor">The Contractor<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30925-moonfall">Moonfall<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30924-moonfall">Moonfall<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30923-le-monde-de-nate">Le Monde de Nate<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14381-chucky-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14381-chucky-saison1"/>
-        <updated>2022-04-01T17:42:23.075Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14365-hors-saison-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14365-hors-saison-saison1"/>
+        <updated>2022-04-02T05:36:38.700Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14381-chucky-saison1">Chucky - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14380-chucky-saison1">Chucky - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14379-l-internat-las-cumbres-saison2">L'Internat : Las Cumbres - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14325-halo-saison1">Halo - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14378-le-dernier-bus-saison1">Le dernier bus - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14377-le-dernier-bus-saison1">Le dernier bus - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14376-le-dernier-bus-saison1">Le dernier bus - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14365-hors-saison-saison1">Hors-Saison - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14362-hors-saison-saison1">Hors-Saison - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14139-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14138-csi-vegas-saison1">CSI: Vegas - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12890-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12889-grey-s-anatomy-station-19-saison5">Grey's Anatomy : Station 19 - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14098-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,13 +1046,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30864-illusions-perdues"><b>1</b> - Illusions Perdues<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30866-soleil-vert"><b>2</b> - Soleil vert<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30872-le-fondateur"><b>3</b> - Le Fondateur<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30877-mort-sur-le-nil"><b>4</b> - Mort sur le Nil<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30894-oranges-sanguines"><b>5</b> - Oranges sanguines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30894-oranges-sanguines"><b>4</b> - Oranges sanguines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30877-mort-sur-le-nil"><b>5</b> - Mort sur le Nil<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30886-paris-br-le-t-il"><b>6</b> - Paris brûle-t-il ?<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30896-chernobyl-under-fire"><b>7</b> - Chernobyl : Under Fire<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30920-moonfall"><b>7</b> - Moonfall<i> [HDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30893-oranges-sanguines"><b>8</b> - Oranges sanguines<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30879-mort-sur-le-nil"><b>9</b> - Mort sur le Nil<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30899-mort-sur-le-nil"><b>10</b> - Mort sur le Nil<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30896-chernobyl-under-fire"><b>9</b> - Chernobyl : Under Fire<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30879-mort-sur-le-nil"><b>10</b> - Mort sur le Nil<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1064,12 +1064,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>2</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>3</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>3</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>4</b> - Evil - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>5</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>6</b> - Severance - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>8</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>7</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>10</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
