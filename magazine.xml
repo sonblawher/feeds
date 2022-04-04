@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-03T17:39:20.363Z</updated>
+    <updated>2022-04-04T05:37:26.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-03T17:39:19.664Z</updated>
+        <updated>2022-04-04T05:37:25.861Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,78 +1001,78 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30983-la-baie-du-silence</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30983-la-baie-du-silence"/>
-        <updated>2022-04-03T17:39:19.667Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30988-poisson-d-avril</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30988-poisson-d-avril"/>
+        <updated>2022-04-04T05:37:25.863Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=30988-poisson-d-avril">Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30987-la-baie-du-silence">La baie du silence<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30986-la-pi-ce-rapport-e">La Pièce rapportée<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30985-la-baie-du-silence">La baie du silence<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30984-la-pi-ce-rapport-e">La Pièce rapportée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence">La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30982-la-pi-ce-rapport-e">La Pièce rapportée<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence">La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30980-la-pi-ce-rapport-e">La Pièce rapportée<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence">La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30978-la-pi-ce-rapport-e">La Pièce rapportée<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30977-event-horizon-le-vaisseau-de-l-au-dela">Event Horizon: le vaisseau de l'au-dela<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30976-le-v-t-ran">Le Vétéran<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30975-13-minutes">13 Minutes<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30974-acts-of-vengeance">Acts of Vengeance<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14187-shining-vale-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14187-shining-vale-saison1"/>
-        <updated>2022-04-03T17:39:19.668Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"/>
+        <updated>2022-04-04T05:37:25.863Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14233-for-life-saison2">For Life - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14234-for-life-saison2">For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13435-all-american-saison4">All American - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13434-all-american-saison4">All American - Saison 4<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14342-snowfall-saison5">Snowfall - Saison 5<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14343-snowfall-saison5">Snowfall - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14387-this-is-going-to-hurt-saison1">This Is Going To Hurt - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14386-this-is-going-to-hurt-saison1">This Is Going To Hurt - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30894-oranges-sanguines</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30894-oranges-sanguines"/>
-        <updated>2022-04-03T17:39:19.672Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=30988-poisson-d-avril</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=30988-poisson-d-avril"/>
+        <updated>2022-04-04T05:37:25.864Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30894-oranges-sanguines"><b>1</b> - Oranges sanguines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30864-illusions-perdues"><b>2</b> - Illusions Perdues<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30877-mort-sur-le-nil"><b>3</b> - Mort sur le Nil<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30920-moonfall"><b>4</b> - Moonfall<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30866-soleil-vert"><b>5</b> - Soleil vert<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30872-le-fondateur"><b>6</b> - Le Fondateur<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30893-oranges-sanguines"><b>7</b> - Oranges sanguines<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30886-paris-br-le-t-il"><b>8</b> - Paris brûle-t-il ?<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30879-mort-sur-le-nil"><b>9</b> - Mort sur le Nil<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30899-mort-sur-le-nil"><b>10</b> - Mort sur le Nil<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>1</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence"><b>2</b> - La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>3</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30982-la-pi-ce-rapport-e"><b>4</b> - La Pièce rapportée<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30980-la-pi-ce-rapport-e"><b>5</b> - La Pièce rapportée<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>6</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30984-la-pi-ce-rapport-e"><b>7</b> - La Pièce rapportée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30986-la-pi-ce-rapport-e"><b>8</b> - La Pièce rapportée<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30985-la-baie-du-silence"><b>9</b> - La baie du silence<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30987-la-baie-du-silence"><b>10</b> - La baie du silence<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
-        <updated>2022-03-30T05:37:36.504Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14234-for-life-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14234-for-life-saison2"/>
+        <updated>2022-04-04T05:37:25.866Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>2</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>3</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13735-evil-saison2"><b>5</b> - Evil - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>6</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>7</b> - Severance - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>10</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>1</b> - For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>2</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14233-for-life-saison2"><b>3</b> - For Life - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2"><b>4</b> - Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14338-les-carnets-de-max-liebermann-saison2"><b>5</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14343-snowfall-saison5"><b>6</b> - Snowfall - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19"><b>7</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1"><b>8</b> - Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"><b>9</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>10</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
