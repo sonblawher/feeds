@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-04T17:41:59.933Z</updated>
+    <updated>2022-04-05T05:37:17.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-04T17:41:59.281Z</updated>
+        <updated>2022-04-05T05:37:17.312Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1020,21 +1020,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14192-outlander-saison6</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14192-outlander-saison6"/>
-        <updated>2022-04-04T17:41:59.290Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14390-sentinelles-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14390-sentinelles-saison1"/>
+        <updated>2022-04-05T05:37:17.317Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6">Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14193-outlander-saison6">Outlander - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14196-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14197-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14300-ncis-los-angeles-saison13">NCIS : Los Angeles - Saison 13<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13005-bull-saison6">Bull - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13002-bull-saison6">Bull - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14190-outlander-saison6">Outlander - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14191-outlander-saison6">Outlander - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14195-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14390-sentinelles-saison1">Sentinelles - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14389-sentinelles-saison1">Sentinelles - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13919-billions-saison6">Billions - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13918-billions-saison6">Billions - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12922-les-enqu-tes-de-murdoch-saison15">Les Enquêtes de Murdoch - Saison 15<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12923-les-enqu-tes-de-murdoch-saison15">Les Enquêtes de Murdoch - Saison 15<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14231-fbi-international-saison1">FBI: International - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1">FBI: International - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,15 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>1</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence"><b>2</b> - La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>3</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>4</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30989-dance-with-me"><b>5</b> - Dance with me<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30990-dance-with-me"><b>6</b> - Dance with me<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30991-cendrillon"><b>7</b> - Cendrillon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30992-cendrillon-2-une-vie-de-princesse-v"><b>8</b> - Cendrillon 2: Une vie de princesse (V)<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30982-la-pi-ce-rapport-e"><b>9</b> - La Pièce rapportée<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30984-la-pi-ce-rapport-e"><b>10</b> - La Pièce rapportée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>2</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>3</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30989-dance-with-me"><b>4</b> - Dance with me<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30990-dance-with-me"><b>5</b> - Dance with me<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30991-cendrillon"><b>6</b> - Cendrillon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30992-cendrillon-2-une-vie-de-princesse-v"><b>7</b> - Cendrillon 2: Une vie de princesse (V)<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence"><b>8</b> - La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30984-la-pi-ce-rapport-e"><b>9</b> - La Pièce rapportée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30985-la-baie-du-silence"><b>10</b> - La baie du silence<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,8 +1066,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>1</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>2</b> - For Life - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>3</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>4</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>4</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>5</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2"><b>6</b> - Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>7</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14233-for-life-saison2"><b>8</b> - For Life - Saison 2<i> - VF HD</i></a></li>
