@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-05T05:37:17.955Z</updated>
+    <updated>2022-04-05T17:41:15.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-05T05:37:17.312Z</updated>
+        <updated>2022-04-05T17:41:14.487Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,6 +468,49 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=37655-pc-trucs-et-astuces-n-46-avril-juin-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°46 – Avril-Juin 2022<i> [Magazines]</i> </a>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=37655-pc-trucs-et-astuces-n-46-avril-juin-2022"><img alt="PC Trucs et Astuces N°46 – Avril-Juin 2022 [Magazines]" src="/img/ebooks/3f3441741d032e54cb3d11a6fd9afc70.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Tue 05 Apr 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Des guides thématiques exclusifs pour maîtriser et doper son PC.
+
+Un magazine 100% fiches pratiques et astuces....</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=PC Trucs et Astuces" rel="nofollow">PC Trucs et Astuces</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=37655-pc-trucs-et-astuces-n-46-avril-juin-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°119 – Avril-Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -509,9 +552,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=37180-windows-et-internet-pratique-n-119-avril-mai-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37052-programmez-n-251-mars-avril-2022"><i class="flag flag-fr"></i> Programmez N°251 – Mars-Avril 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -857,51 +898,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36903-windows-et-internet-pratique-n-118-f-vrier-mars-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022"><i class="flag flag-fr"></i> Programmez Hors Série N°6 – Hiver 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">1 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022"><img alt="Programmez Hors Série N°6 – Hiver 2022 [Magazines]" src="/img/ebooks/3f32a10f1098ce28139dd0c175912e7b.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								Fri 11 Feb 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Programmez! est un magazine français consacré au développement informatique et à tous les langages et technologies informatiques.
-
-Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Programmez" rel="nofollow">Programmez</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=36613-programmez-hors-s-rie-n-6-hiver-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1001,32 +997,32 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30992-cendrillon-2-une-vie-de-princesse-v</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30992-cendrillon-2-une-vie-de-princesse-v"/>
-        <updated>2022-04-04T17:41:59.288Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31010-the-prodigies</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31010-the-prodigies"/>
+        <updated>2022-04-05T17:41:14.491Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30992-cendrillon-2-une-vie-de-princesse-v">Cendrillon 2: Une vie de princesse (V)<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30991-cendrillon">Cendrillon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30990-dance-with-me">Dance with me<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30989-dance-with-me">Dance with me<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30988-poisson-d-avril">Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30987-la-baie-du-silence">La baie du silence<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30986-la-pi-ce-rapport-e">La Pièce rapportée<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30985-la-baie-du-silence">La baie du silence<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30984-la-pi-ce-rapport-e">La Pièce rapportée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence">La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31010-the-prodigies">The Prodigies<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31009-nouvel-ordre">Nouvel Ordre<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31008-the-replacement">The Replacement<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31007-dans-la-brume">Dans la brume<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31006-nouvel-ordre">Nouvel Ordre<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31005-the-replacement">The Replacement<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31004-nouvel-ordre">Nouvel Ordre<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31003-the-replacement">The Replacement<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31002-mickey-donald-dingo-les-trois-mousquetaires-v">Mickey, Donald, Dingo : Les Trois Mousquetaires (V)<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31001-la-bande-picsou-le-film-le-tr-sor-de-la-lampe-perdue">La Bande à Picsou : le film - Le Trésor de la lampe perdue<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14390-sentinelles-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14390-sentinelles-saison1"/>
-        <updated>2022-04-05T05:37:17.317Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14389-sentinelles-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14389-sentinelles-saison1"/>
+        <updated>2022-04-05T17:41:14.491Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14390-sentinelles-saison1">Sentinelles - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14389-sentinelles-saison1">Sentinelles - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14390-sentinelles-saison1">Sentinelles - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13919-billions-saison6">Billions - Saison 6<i> - VOSTFR HD</i></a></li>
@@ -1045,15 +1041,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>1</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>2</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>3</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30989-dance-with-me"><b>4</b> - Dance with me<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30990-dance-with-me"><b>5</b> - Dance with me<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30991-cendrillon"><b>6</b> - Cendrillon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30992-cendrillon-2-une-vie-de-princesse-v"><b>7</b> - Cendrillon 2: Une vie de princesse (V)<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30991-cendrillon"><b>2</b> - Cendrillon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30999-dingo-et-max"><b>3</b> - Dingo et Max<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>4</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>5</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31003-the-replacement"><b>6</b> - The Replacement<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31006-nouvel-ordre"><b>7</b> - Nouvel Ordre<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence"><b>8</b> - La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30984-la-pi-ce-rapport-e"><b>9</b> - La Pièce rapportée<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30985-la-baie-du-silence"><b>10</b> - La baie du silence<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30989-dance-with-me"><b>9</b> - Dance with me<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30990-dance-with-me"><b>10</b> - Dance with me<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,11 +1062,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>1</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>2</b> - For Life - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>3</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>4</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>5</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>4</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2"><b>6</b> - Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>7</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14233-for-life-saison2"><b>8</b> - For Life - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13005-bull-saison6"><b>8</b> - Bull - Saison 6<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14338-les-carnets-de-max-liebermann-saison2"><b>9</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14343-snowfall-saison5"><b>10</b> - Snowfall - Saison 5<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
