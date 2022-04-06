@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-05T17:41:15.170Z</updated>
+    <updated>2022-04-06T05:37:27.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-04-05T17:41:14.487Z</updated>
+        <updated>2022-04-06T05:37:26.671Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -468,6 +468,10 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37655-pc-trucs-et-astuces-n-46-avril-juin-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°46 – Avril-Juin 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">1 vote(s)</div>
+						</div>
 									</div>
 				<div style="position:relative" class="content row">
 					<div class="cover col-md-2">
@@ -996,11 +1000,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31010-the-prodigies</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31010-the-prodigies"/>
-        <updated>2022-04-05T17:41:14.491Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31012-mort-sur-le-nil</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31012-mort-sur-le-nil"/>
+        <updated>2022-04-06T05:37:26.678Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31012-mort-sur-le-nil">Mort sur le Nil<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31011-scream">Scream<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31010-the-prodigies">The Prodigies<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31009-nouvel-ordre">Nouvel Ordre<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31008-the-replacement">The Replacement<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1009,27 +1015,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31005-the-replacement">The Replacement<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31004-nouvel-ordre">Nouvel Ordre<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31003-the-replacement">The Replacement<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31002-mickey-donald-dingo-les-trois-mousquetaires-v">Mickey, Donald, Dingo : Les Trois Mousquetaires (V)<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31001-la-bande-picsou-le-film-le-tr-sor-de-la-lampe-perdue">La Bande à Picsou : le film - Le Trésor de la lampe perdue<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14389-sentinelles-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14389-sentinelles-saison1"/>
-        <updated>2022-04-05T17:41:14.491Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14161-peaky-blinders-saison6</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14161-peaky-blinders-saison6"/>
+        <updated>2022-04-06T05:37:26.683Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6">Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14160-peaky-blinders-saison6">Peaky Blinders - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13594-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14389-sentinelles-saison1">Sentinelles - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14390-sentinelles-saison1">Sentinelles - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14181-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14182-killing-eve-saison4">Killing Eve - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13919-billions-saison6">Billions - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13918-billions-saison6">Billions - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12922-les-enqu-tes-de-murdoch-saison15">Les Enquêtes de Murdoch - Saison 15<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12923-les-enqu-tes-de-murdoch-saison15">Les Enquêtes de Murdoch - Saison 15<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14231-fbi-international-saison1">FBI: International - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1">FBI: International - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1042,32 +1046,32 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>1</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=30991-cendrillon"><b>2</b> - Cendrillon<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=30999-dingo-et-max"><b>3</b> - Dingo et Max<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>4</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>5</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31003-the-replacement"><b>6</b> - The Replacement<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31006-nouvel-ordre"><b>7</b> - Nouvel Ordre<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence"><b>8</b> - La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30989-dance-with-me"><b>9</b> - Dance with me<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30990-dance-with-me"><b>10</b> - Dance with me<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31003-the-replacement"><b>4</b> - The Replacement<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30981-la-baie-du-silence"><b>5</b> - La baie du silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30983-la-baie-du-silence"><b>6</b> - La baie du silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31001-la-bande-picsou-le-film-le-tr-sor-de-la-lampe-perdue"><b>7</b> - La Bande à Picsou : le film - Le Trésor de la lampe perdue<i> [WEBRIP 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31006-nouvel-ordre"><b>8</b> - Nouvel Ordre<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31007-dans-la-brume"><b>9</b> - Dans la brume<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30979-la-baie-du-silence"><b>10</b> - La baie du silence<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"/>
-        <updated>2022-04-04T17:41:59.293Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14161-peaky-blinders-saison6</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14161-peaky-blinders-saison6"/>
+        <updated>2022-04-06T05:37:26.684Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>1</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>2</b> - For Life - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>3</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>4</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2"><b>6</b> - Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>7</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13005-bull-saison6"><b>8</b> - Bull - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14338-les-carnets-de-max-liebermann-saison2"><b>9</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14343-snowfall-saison5"><b>10</b> - Snowfall - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>1</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>2</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14160-peaky-blinders-saison6"><b>3</b> - Peaky Blinders - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14234-for-life-saison2"><b>4</b> - For Life - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>5</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>6</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>7</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2"><b>8</b> - Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>9</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14233-for-life-saison2"><b>10</b> - For Life - Saison 2<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
