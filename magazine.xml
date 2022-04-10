@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-09T17:39:02.519Z</updated>
+    <updated>2022-04-10T05:37:03.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-09T17:39:01.820Z</updated>
+        <updated>2022-04-10T05:37:03.010Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=37733-micro-pratique-n-308-mai-2022"><i class="flag flag-fr"></i> Micro Pratique N°308 – Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">2 vote(s)</div>
+							<div class="progress-desc">3 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -516,7 +516,7 @@
 					<a href="?p=ebook&amp;id=37700-pirate-informatique-n-52-avril-juin-2022"><i class="flag flag-fr"></i> Pirate Informatique N°52 – Avril-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -559,7 +559,7 @@
 					<a href="?p=ebook&amp;id=37655-pc-trucs-et-astuces-n-46-avril-juin-2022"><i class="flag flag-fr"></i> PC Trucs et Astuces N°46 – Avril-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,11 +1001,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31074-john-and-the-hole</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31074-john-and-the-hole"/>
-        <updated>2022-04-09T17:39:01.822Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31075-blues-brothers-2000</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31075-blues-brothers-2000"/>
+        <updated>2022-04-10T05:37:03.015Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31075-blues-brothers-2000">Blues Brothers 2000<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31074-john-and-the-hole">John and the Hole<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31073-john-and-the-hole">John and the Hole<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31072-compartiment-n-6">Compartiment N°6<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
@@ -1015,38 +1016,37 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31068-john-and-the-hole">John and the Hole<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31067-john-and-the-hole">John and the Hole<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31066-40-jours-et-40-nuits">40 jours et 40 nuits<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31065-le-casse-de-central-park">Le Casse de Central Park<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14413-salem-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14413-salem-saison2"/>
-        <updated>2022-04-09T17:39:01.824Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1"/>
+        <updated>2022-04-10T05:37:03.015Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14136-from-saison1">From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14415-the-dropout-saison1">The Dropout - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1">From - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14414-the-dropout-saison1">The Dropout - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14413-salem-saison2">Salem - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14412-cobra-saison2">Cobra - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14411-cobra-saison2">Cobra - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14343-snowfall-saison5">Snowfall - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14342-snowfall-saison5">Snowfall - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14290-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=30988-poisson-d-avril</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=30988-poisson-d-avril"/>
-        <updated>2022-04-09T05:36:49.152Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission"/>
+        <updated>2022-04-10T05:37:03.016Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>1</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31003-the-replacement"><b>2</b> - The Replacement<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission"><b>3</b> - Yaksha, un démon en mission<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission"><b>1</b> - Yaksha, un démon en mission<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>2</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31003-the-replacement"><b>3</b> - The Replacement<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31016-mad-dog"><b>4</b> - Mad Dog<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31028-on-est-fait-pour-s-entendre"><b>5</b> - On est fait pour s?entendre<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31012-mort-sur-le-nil"><b>6</b> - Mort sur le Nil<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1064,15 +1064,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>1</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>3</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>5</b> - Severance - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14114-severance-saison1"><b>6</b> - Severance - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>7</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>8</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2"><b>9</b> - Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13739-the-cleaning-lady-saison1"><b>10</b> - The Cleaning Lady - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>2</b> - From - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>3</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>4</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>5</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>6</b> - Severance - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>7</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14114-severance-saison1"><b>8</b> - Severance - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14161-peaky-blinders-saison6"><b>9</b> - Peaky Blinders - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>10</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
