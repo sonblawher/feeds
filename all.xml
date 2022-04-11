@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-11T05:37:54.326Z</updated>
+    <updated>2022-04-11T17:42:35.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-04-11T05:37:53.563Z</updated>
+        <updated>2022-04-11T17:42:34.770Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=37733-micro-pratique-n-308-mai-2022"><i class="flag flag-fr"></i> Micro Pratique N°308 – Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">7 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31087-pi-ge-grande-vitesse</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31087-pi-ge-grande-vitesse"/>
-        <updated>2022-04-11T05:37:53.570Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31100-la-horse</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31100-la-horse"/>
+        <updated>2022-04-11T17:42:34.774Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31087-pi-ge-grande-vitesse">Piège à grande vitesse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31086-un-fauteuil-pour-deux">Un Fauteuil pour deux<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31085-blues-brothers-2000">Blues Brothers 2000<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31084-rouge">Rouge<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31083-basse-saison">Basse saison<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31082-an-imperfect-murder">An Imperfect Murder<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31081-rouge">Rouge<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31080-basse-saison">Basse saison<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31079-an-imperfect-murder">An Imperfect Murder<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31078-an-imperfect-murder">An Imperfect Murder﻿<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31100-la-horse">La Horse<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31099-forrest-gump">Forrest Gump<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31098-star-trek-sans-limites">Star Trek Sans limites<i> [HDLIGHT 1080p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31097-razzia-sur-la-chnouf">Razzia sur la chnouf<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31096-le-tatou">Le Tatoué<i> [HDTV 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31095-le-rouge-est-mis">Le Rouge est mis<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31094-le-pacha">Le Pacha<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31093-le-gentleman-d-epsom">Le Gentleman d'Epsom<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31092-le-baron-de-l-cluse">Le Baron de l'écluse<i> [HDTV 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31091-l-affaire-dominici">L'Affaire Dominici<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14380-chucky-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14380-chucky-saison1"/>
-        <updated>2022-04-11T05:37:53.571Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14427-infiniti-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14427-infiniti-saison1"/>
+        <updated>2022-04-11T17:42:34.775Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14380-chucky-saison1">Chucky - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14099-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14098-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14427-infiniti-saison1">Infiniti - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14426-infiniti-saison1">Infiniti - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14425-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14424-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14423-infiniti-saison1">Infiniti - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14422-infiniti-saison1">Infiniti - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2">Resident Alien - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14285-resident-alien-saison2">Resident Alien - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,34 +1044,34 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31086-un-fauteuil-pour-deux"><b>1</b> - Un Fauteuil pour deux<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31082-an-imperfect-murder"><b>2</b> - An Imperfect Murder<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31076-basse-saison"><b>3</b> - Basse saison<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31079-an-imperfect-murder"><b>4</b> - An Imperfect Murder<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31080-basse-saison"><b>5</b> - Basse saison<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31081-rouge"><b>6</b> - Rouge<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31083-basse-saison"><b>7</b> - Basse saison<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31085-blues-brothers-2000"><b>8</b> - Blues Brothers 2000<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31087-pi-ge-grande-vitesse"><b>9</b> - Piège à grande vitesse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31077-rouge"><b>10</b> - Rouge<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31090-archim-de-le-clochard"><b>2</b> - Archimède, le clochard<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31100-la-horse"><b>3</b> - La Horse<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31082-an-imperfect-murder"><b>4</b> - An Imperfect Murder<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31087-pi-ge-grande-vitesse"><b>5</b> - Piège à grande vitesse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31091-l-affaire-dominici"><b>6</b> - L'Affaire Dominici<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31092-le-baron-de-l-cluse"><b>7</b> - Le Baron de l'écluse<i> [HDTV 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31094-le-pacha"><b>8</b> - Le Pacha<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31096-le-tatou"><b>9</b> - Le Tatoué<i> [HDTV 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31097-razzia-sur-la-chnouf"><b>10</b> - Razzia sur la chnouf<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1"/>
-        <updated>2022-04-11T05:37:53.573Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12384-the-walking-dead-saison11"/>
+        <updated>2022-04-11T17:42:34.777Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>1</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1"><b>5</b> - FBI: International - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14380-chucky-saison1"><b>6</b> - Chucky - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23"><b>7</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"><b>8</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1"><b>9</b> - Shining Vale - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1"><b>10</b> - Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>2</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12383-the-walking-dead-saison11"><b>5</b> - The Walking Dead - Saison 11<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14339-les-carnets-de-max-liebermann-saison2"><b>7</b> - Les Carnets de Max Liebermann - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>8</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14285-resident-alien-saison2"><b>9</b> - Resident Alien - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>10</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
