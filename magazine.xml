@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-10T17:39:40.194Z</updated>
+    <updated>2022-04-11T05:37:54.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-10T17:39:39.618Z</updated>
+        <updated>2022-04-11T05:37:53.563Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=37733-micro-pratique-n-308-mai-2022"><i class="flag flag-fr"></i> Micro Pratique N°308 – Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">7 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,11 +1001,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31085-blues-brothers-2000</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31085-blues-brothers-2000"/>
-        <updated>2022-04-10T17:39:39.626Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31087-pi-ge-grande-vitesse</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31087-pi-ge-grande-vitesse"/>
+        <updated>2022-04-11T05:37:53.570Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31087-pi-ge-grande-vitesse">Piège à grande vitesse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31086-un-fauteuil-pour-deux">Un Fauteuil pour deux<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31085-blues-brothers-2000">Blues Brothers 2000<i> [HDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31084-rouge">Rouge<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31083-basse-saison">Basse saison<i> [WEB-DL 1080p] - FRENCH</i></a></li>
@@ -1014,17 +1016,16 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31080-basse-saison">Basse saison<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31079-an-imperfect-murder">An Imperfect Murder<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31078-an-imperfect-murder">An Imperfect Murder﻿<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31077-rouge">Rouge<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31076-basse-saison">Basse saison<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14099-abbott-elementary-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14099-abbott-elementary-saison1"/>
-        <updated>2022-04-10T17:39:39.626Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14380-chucky-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14380-chucky-saison1"/>
+        <updated>2022-04-11T05:37:53.571Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14380-chucky-saison1">Chucky - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14099-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14098-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
@@ -1034,45 +1035,44 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1">Shining Vale - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission"/>
-        <updated>2022-04-10T05:37:03.016Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31086-un-fauteuil-pour-deux</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31086-un-fauteuil-pour-deux"/>
+        <updated>2022-04-11T05:37:53.572Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31047-yaksha-un-d-mon-en-mission"><b>1</b> - Yaksha, un démon en mission<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=30988-poisson-d-avril"><b>2</b> - Poisson d'avril<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31003-the-replacement"><b>3</b> - The Replacement<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31012-mort-sur-le-nil"><b>4</b> - Mort sur le Nil<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31028-on-est-fait-pour-s-entendre"><b>5</b> - On est fait pour s?entendre<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31016-mad-dog"><b>6</b> - Mad Dog<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31025-on-est-fait-pour-s-entendre"><b>7</b> - On est fait pour s?entendre<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31026-on-est-fait-pour-s-entendre"><b>8</b> - On est fait pour s?entendre<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31019-the-cursed"><b>9</b> - The Cursed<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31071-compartiment-n-6"><b>10</b> - Compartiment N°6<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31086-un-fauteuil-pour-deux"><b>1</b> - Un Fauteuil pour deux<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31082-an-imperfect-murder"><b>2</b> - An Imperfect Murder<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31076-basse-saison"><b>3</b> - Basse saison<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31079-an-imperfect-murder"><b>4</b> - An Imperfect Murder<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31080-basse-saison"><b>5</b> - Basse saison<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31081-rouge"><b>6</b> - Rouge<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31083-basse-saison"><b>7</b> - Basse saison<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31085-blues-brothers-2000"><b>8</b> - Blues Brothers 2000<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31087-pi-ge-grande-vitesse"><b>9</b> - Piège à grande vitesse<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31077-rouge"><b>10</b> - Rouge<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1"/>
-        <updated>2022-04-10T05:37:03.015Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1"/>
+        <updated>2022-04-11T05:37:53.573Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>1</b> - From - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>2</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>3</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>4</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>5</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14115-severance-saison1"><b>6</b> - Severance - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>8</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14114-severance-saison1"><b>10</b> - Severance - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>1</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1"><b>5</b> - FBI: International - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14380-chucky-saison1"><b>6</b> - Chucky - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23"><b>7</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"><b>8</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1"><b>9</b> - Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1"><b>10</b> - Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
