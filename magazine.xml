@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-17T05:38:07.005Z</updated>
+    <updated>2022-04-17T17:40:48.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-17T05:38:06.370Z</updated>
+        <updated>2022-04-17T17:40:47.441Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31196-farewell-my-dear-cramer-movie-first-touch</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31196-farewell-my-dear-cramer-movie-first-touch"/>
-        <updated>2022-04-17T05:38:06.371Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31209-moonfall</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31209-moonfall"/>
+        <updated>2022-04-17T17:40:47.441Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31196-farewell-my-dear-cramer-movie-first-touch">Farewell, My Dear Cramer Movie : First Touch<i> [WEB-DL 720p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=31195-farewell-my-dear-cramer-movie-first-touch">Farewell, My Dear Cramer Movie : First Touch<i> [WEBRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=31194-le-convoi">Le Convoi<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31193-duel">Duel<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31192-la-reine-des-damn-s">La Reine des damnés<i> [BLU-RAY 1080p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31191-wolfboy">Wolfboy<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31190-wolfboy">Wolfboy<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31189-wolfboy">Wolfboy<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31188-playdurizm">Playdurizm<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31187-playdurizm">Playdurizm<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31209-moonfall">Moonfall<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31208-moonfall">Moonfall<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31207-moonfall">Moonfall<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31206-moonfall">Moonfall<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31205-moonfall">Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31204-mes-tr-s-chers-enfants">Mes très chers enfants<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31203-mes-tr-s-chers-enfants">Mes très chers enfants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31202-mes-tr-s-chers-enfants">Mes très chers enfants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31201-mes-tr-s-chers-enfants">Mes très chers enfants<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31200-mes-tr-s-chers-enfants">Mes très chers enfants<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13743-surrealestate-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13743-surrealestate-saison1"/>
-        <updated>2022-04-16T17:39:50.697Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14184-shining-vale-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14184-shining-vale-saison1"/>
+        <updated>2022-04-17T17:40:47.442Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13743-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13742-surrealestate-saison1">SurrealEstate - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14412-cobra-saison2">Cobra - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14411-cobra-saison2">Cobra - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13066-legacies-saison4">Legacies - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13065-legacies-saison4">Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14287-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14468-the-dropout-saison1">The Dropout - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14467-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14472-meurtres-au-paradis-saison11">Meurtres au paradis - Saison 11<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14471-meurtres-au-paradis-saison11">Meurtres au paradis - Saison 11<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14470-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14469-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
