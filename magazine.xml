@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-17T17:40:48.235Z</updated>
+    <updated>2022-04-18T05:38:36.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-17T17:40:47.441Z</updated>
+        <updated>2022-04-18T05:38:35.873Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,78 +1001,78 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31209-moonfall</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31209-moonfall"/>
-        <updated>2022-04-17T17:40:47.441Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31217-the-batman</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31217-the-batman"/>
+        <updated>2022-04-18T05:38:35.884Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31217-the-batman">The Batman<i> [WEBRIP 1080p] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=31216-the-batman">The Batman<i> [HDRIP] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=31215-the-outfit">The Outfit<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31214-the-outfit">The Outfit<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31213-the-outfit">The Outfit<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31212-the-outfit">The Outfit<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31211-the-outfit">The Outfit<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31210-boulevard-de-la-mort-un-film-grindhouse">Boulevard de la mort - un film Grindhouse<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31209-moonfall">Moonfall<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31208-moonfall">Moonfall<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31207-moonfall">Moonfall<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31206-moonfall">Moonfall<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31205-moonfall">Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31204-mes-tr-s-chers-enfants">Mes très chers enfants<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31203-mes-tr-s-chers-enfants">Mes très chers enfants<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31202-mes-tr-s-chers-enfants">Mes très chers enfants<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31201-mes-tr-s-chers-enfants">Mes très chers enfants<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31200-mes-tr-s-chers-enfants">Mes très chers enfants<i> [BDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14184-shining-vale-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14184-shining-vale-saison1"/>
-        <updated>2022-04-17T17:40:47.442Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13310-capitaine-marleau-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13310-capitaine-marleau-saison4"/>
+        <updated>2022-04-18T05:38:35.889Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14184-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14183-shining-vale-saison1">Shining Vale - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1">Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14472-meurtres-au-paradis-saison11">Meurtres au paradis - Saison 11<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14471-meurtres-au-paradis-saison11">Meurtres au paradis - Saison 11<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14470-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14469-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13310-capitaine-marleau-saison4">Capitaine Marleau - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12827-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13594-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14476-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14475-abbott-elementary-saison1">Abbott Elementary - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14474-mohamed-ali-saison1">Mohamed Ali - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14473-mohamed-ali-saison1">Mohamed Ali - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14187-shining-vale-saison1">Shining Vale - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31077-rouge</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31077-rouge"/>
-        <updated>2022-04-16T05:37:18.921Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31199-le-roi-arthur</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31199-le-roi-arthur"/>
+        <updated>2022-04-18T05:38:35.890Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31077-rouge"><b>1</b> - Rouge<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31139-le-parrain"><b>2</b> - Le Parrain<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31159-le-parrain-3e-partie"><b>3</b> - Le Parrain, 3e partie<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31081-rouge"><b>4</b> - Rouge<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31086-un-fauteuil-pour-deux"><b>5</b> - Un Fauteuil pour deux<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31127-inside-man-l-homme-de-l-int-rieur"><b>6</b> - Inside Man - l'homme de l'intérieur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31085-blues-brothers-2000"><b>7</b> - Blues Brothers 2000<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31090-archim-de-le-clochard"><b>8</b> - Archimède, le clochard<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31099-forrest-gump"><b>9</b> - Forrest Gump<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31118-le-chat"><b>10</b> - Le Chat<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31199-le-roi-arthur"><b>1</b> - Le Roi Arthur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31205-moonfall"><b>2</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31196-farewell-my-dear-cramer-movie-first-touch"><b>3</b> - Farewell, My Dear Cramer Movie : First Touch<i> [WEB-DL 720p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=31204-mes-tr-s-chers-enfants"><b>4</b> - Mes très chers enfants<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31206-moonfall"><b>5</b> - Moonfall<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31216-the-batman"><b>6</b> - The Batman<i> [HDRIP] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=31207-moonfall"><b>7</b> - Moonfall<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31210-boulevard-de-la-mort-un-film-grindhouse"><b>8</b> - Boulevard de la mort - un film Grindhouse<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31211-the-outfit"><b>9</b> - The Outfit<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31212-the-outfit"><b>10</b> - The Outfit<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14136-from-saison1"/>
-        <updated>2022-04-16T05:37:18.922Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13996-power-book-iv-force-saison1"/>
+        <updated>2022-04-18T05:38:35.890Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14136-from-saison1"><b>1</b> - From - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12384-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>3</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>4</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>5</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>6</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14135-from-saison1"><b>8</b> - From - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>9</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2"><b>10</b> - Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>1</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>2</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13997-power-book-iv-force-saison1"><b>3</b> - Power Book IV : Force - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>4</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2"><b>5</b> - New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5"><b>6</b> - The Resident - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23"><b>7</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23"><b>8</b> - New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14186-shining-vale-saison1"><b>9</b> - Shining Vale - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13594-new-york-crime-organis-saison2"><b>10</b> - New York Crime Organisé - Saison 2<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
