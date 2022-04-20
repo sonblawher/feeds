@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-19T17:45:18.379Z</updated>
+    <updated>2022-04-20T05:54:28.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-04-19T17:45:17.672Z</updated>
+        <updated>2022-04-20T05:54:27.411Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1038,21 +1038,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31199-le-roi-arthur</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31199-le-roi-arthur"/>
-        <updated>2022-04-18T05:38:35.890Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31223-the-batman</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31223-the-batman"/>
+        <updated>2022-04-20T05:54:27.416Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31199-le-roi-arthur"><b>1</b> - Le Roi Arthur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31205-moonfall"><b>2</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31223-the-batman"><b>3</b> - The Batman<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31224-the-batman"><b>4</b> - The Batman<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31216-the-batman"><b>5</b> - The Batman<i> [HDRIP] - VO</i></a></li>
-															<li><a href="/?p=film&amp;id=31222-the-batman"><b>6</b> - The Batman<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31225-la-b-te-humaine"><b>7</b> - La Bête humaine<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31229-le-quai-des-brumes"><b>8</b> - Le Quai des brumes<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31204-mes-tr-s-chers-enfants"><b>9</b> - Mes très chers enfants<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31210-boulevard-de-la-mort-un-film-grindhouse"><b>10</b> - Boulevard de la mort - un film Grindhouse<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31223-the-batman"><b>1</b> - The Batman<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31199-le-roi-arthur"><b>2</b> - Le Roi Arthur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31224-the-batman"><b>3</b> - The Batman<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31205-moonfall"><b>4</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31222-the-batman"><b>5</b> - The Batman<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31216-the-batman"><b>6</b> - The Batman<i> [HDRIP] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=31238-sans-aucun-remords"><b>7</b> - Sans aucun remords<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31204-mes-tr-s-chers-enfants"><b>8</b> - Mes très chers enfants<i> [BLU-RAY 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31210-boulevard-de-la-mort-un-film-grindhouse"><b>9</b> - Boulevard de la mort - un film Grindhouse<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31214-the-outfit"><b>10</b> - The Outfit<i> [BLU-RAY 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1070,8 +1070,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>6</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13995-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5"><b>8</b> - Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>9</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14343-snowfall-saison5"><b>10</b> - Snowfall - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>9</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14483-better-call-saul-saison6"><b>10</b> - Better Call Saul - Saison 6<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
