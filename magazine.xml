@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-22T17:47:15.148Z</updated>
+    <updated>2022-04-23T05:37:50.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-22T17:47:14.389Z</updated>
+        <updated>2022-04-23T05:37:49.646Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1045,15 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31223-the-batman"><b>1</b> - The Batman<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31224-the-batman"><b>2</b> - The Batman<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31255-la-grande-vadrouille"><b>3</b> - La Grande Vadrouille<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31238-sans-aucun-remords"><b>4</b> - Sans aucun remords<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31255-la-grande-vadrouille"><b>2</b> - La Grande Vadrouille<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31238-sans-aucun-remords"><b>3</b> - Sans aucun remords<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31224-the-batman"><b>4</b> - The Batman<i> [HDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31211-the-outfit"><b>5</b> - The Outfit<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31222-the-batman"><b>6</b> - The Batman<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31199-le-roi-arthur"><b>7</b> - Le Roi Arthur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31287-ours-polaire"><b>8</b> - Ours Polaire<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31205-moonfall"><b>9</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31216-the-batman"><b>10</b> - The Batman<i> [HDRIP] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=31276-d-mineurs"><b>9</b> - Démineurs<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31205-moonfall"><b>10</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
