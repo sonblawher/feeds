@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-24T05:37:43.937Z</updated>
+    <updated>2022-04-24T17:40:46.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-24T05:37:43.270Z</updated>
+        <updated>2022-04-24T17:40:45.617Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31307-superhost</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31307-superhost"/>
-        <updated>2022-04-24T05:37:43.275Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31321-les-choses-humaines</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31321-les-choses-humaines"/>
+        <updated>2022-04-24T17:40:45.620Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31307-superhost">Superhost<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31306-superhost">Superhost<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31305-superhost">Superhost<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31304-superhost">Superhost<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31303-superhost">Superhost<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31302-le-parrain-3e-partie-coda-cut">Le Parrain, 3e partie Coda Cut<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31301-la-chute-de-la-maison-blanche">La Chute de la Maison Blanche<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31300-lock-out">Lock Out<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31299-uncharted">Uncharted<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31298-uncharted">Uncharted<i> [HDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31321-les-choses-humaines">Les Choses humaines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31320-les-choses-humaines">Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31319-les-choses-humaines">Les Choses humaines<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31318-minor-premise">Minor Premise<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31317-minor-premise">Minor Premise<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31316-minor-premise">Minor Premise<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31315-uncharted">Uncharted<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31314-uncharted">Uncharted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31313-uncharted">Uncharted<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31312-uncharted">Uncharted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13004-s-w-a-t-2017-saison5</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13004-s-w-a-t-2017-saison5"/>
-        <updated>2022-04-24T05:37:43.277Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14525-en-un-battement-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14525-en-un-battement-saison1"/>
+        <updated>2022-04-24T17:40:45.621Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13004-s-w-a-t-2017-saison5">S.W.A.T. (2017) - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13003-s-w-a-t-2017-saison5">S.W.A.T. (2017) - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13149-young-sheldon-saison5">Young Sheldon - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13148-young-sheldon-saison5">Young Sheldon - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14516-doc-saison2">Doc - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14515-doc-saison2">Doc - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14469-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14470-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12800-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12804-chicago-med-saison7">Chicago Med - Saison 7<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14525-en-un-battement-saison1">En un battement - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14150-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14149-all-american-homecoming-saison1">All American: Homecoming - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14411-cobra-saison2">Cobra - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14412-cobra-saison2">Cobra - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12839-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14044-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=770-star-trek-discovery-saison1">Star Trek: Discovery - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14288-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1049,11 +1049,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31211-the-outfit"><b>3</b> - The Outfit<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31287-ours-polaire"><b>4</b> - Ours Polaire<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31238-sans-aucun-remords"><b>5</b> - Sans aucun remords<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31222-the-batman"><b>6</b> - The Batman<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31205-moonfall"><b>7</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31199-le-roi-arthur"><b>8</b> - Le Roi Arthur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31258-haut-et-fort"><b>9</b> - Haut et Fort<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31276-d-mineurs"><b>10</b> - Démineurs<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31205-moonfall"><b>6</b> - Moonfall<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31258-haut-et-fort"><b>7</b> - Haut et Fort<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31222-the-batman"><b>8</b> - The Batman<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31276-d-mineurs"><b>9</b> - Démineurs<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31199-le-roi-arthur"><b>10</b> - Le Roi Arthur<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1068,8 +1068,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14286-resident-alien-saison2"><b>3</b> - Resident Alien - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13996-power-book-iv-force-saison1"><b>5</b> - Power Book IV : Force - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>6</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>7</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>6</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13994-power-book-iv-force-saison1"><b>7</b> - Power Book IV : Force - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2"><b>8</b> - Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>9</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>10</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
