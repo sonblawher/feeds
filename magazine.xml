@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-25T05:39:06.616Z</updated>
+    <updated>2022-04-25T17:44:45.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-25T05:39:05.895Z</updated>
+        <updated>2022-04-25T17:44:45.159Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31321-les-choses-humaines</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31321-les-choses-humaines"/>
-        <updated>2022-04-24T17:40:45.620Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31328-uncharted</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31328-uncharted"/>
+        <updated>2022-04-25T17:44:45.159Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31328-uncharted">Uncharted<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31327-moonfall">Moonfall<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31326-uncharted">Uncharted<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31325-la-d-esse-des-mouches-feu">La Déesse des mouches à feu<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31324-la-d-esse-des-mouches-feu">La Déesse des mouches à feu<i> [WEBRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31323-hair">Hair<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31322-sliver">Sliver<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31321-les-choses-humaines">Les Choses humaines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31320-les-choses-humaines">Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31319-les-choses-humaines">Les Choses humaines<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31318-minor-premise">Minor Premise<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31317-minor-premise">Minor Premise<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31316-minor-premise">Minor Premise<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31315-uncharted">Uncharted<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31314-uncharted">Uncharted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31313-uncharted">Uncharted<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31312-uncharted">Uncharted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"/>
-        <updated>2022-04-25T05:39:05.899Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13088-fear-the-walking-dead-saison7</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"/>
+        <updated>2022-04-25T17:44:45.159Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7">Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13087-fear-the-walking-dead-saison7">Fear The Walking Dead - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14542-the-baby-saison1">The Baby - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14541-the-baby-saison1">The Baby - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14196-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14197-winning-time-the-rise-of-the-lakers-dynasty-saison1">Winning Time: The Rise of the Lakers Dynasty - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14540-wu-tang-an-american-saga-saison2">Wu-Tang : An American Saga - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14530-pourquoi-pas-evans-saison1">Pourquoi pas Evans ? - Saison 1<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14529-pourquoi-pas-evans-saison1">Pourquoi pas Evans ? - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14420-candice-renoir-saison10">Candice Renoir - Saison 10<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14418-candice-renoir-saison10">Candice Renoir - Saison 10<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14478-wolfe-saison1">Wolfe - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14411-cobra-saison2">Cobra - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14412-cobra-saison2">Cobra - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14477-wolfe-saison1">Wolfe - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14539-the-baby-saison1">The Baby - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1046,33 +1046,33 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31311-uncharted"><b>1</b> - Uncharted<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31314-uncharted"><b>2</b> - Uncharted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31320-les-choses-humaines"><b>3</b> - Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31309-des-hommes-de-paille"><b>4</b> - Des hommes de paille<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31312-uncharted"><b>5</b> - Uncharted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31318-minor-premise"><b>6</b> - Minor Premise<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31321-les-choses-humaines"><b>7</b> - Les Choses humaines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31317-minor-premise"><b>8</b> - Minor Premise<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31310-des-hommes-de-paille"><b>9</b> - Des hommes de paille<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31313-uncharted"><b>10</b> - Uncharted<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31326-uncharted"><b>3</b> - Uncharted<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31312-uncharted"><b>4</b> - Uncharted<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31323-hair"><b>5</b> - Hair<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31324-la-d-esse-des-mouches-feu"><b>6</b> - La Déesse des mouches à feu<i> [WEBRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31313-uncharted"><b>7</b> - Uncharted<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31318-minor-premise"><b>8</b> - Minor Premise<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31320-les-choses-humaines"><b>9</b> - Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31322-sliver"><b>10</b> - Sliver<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"/>
-        <updated>2022-04-25T05:39:05.901Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14192-outlander-saison6</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14192-outlander-saison6"/>
+        <updated>2022-04-25T17:44:45.162Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>1</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2"><b>2</b> - New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12839-most-wanted-criminals-saison3"><b>3</b> - Most Wanted Criminals - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"><b>4</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14418-candice-renoir-saison10"><b>5</b> - Candice Renoir - Saison 10<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=770-star-trek-discovery-saison1"><b>6</b> - Star Trek: Discovery - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5"><b>7</b> - The Resident - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14411-cobra-saison2"><b>8</b> - Cobra - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13594-new-york-crime-organis-saison2"><b>9</b> - New York Crime Organisé - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12827-the-resident-saison5"><b>10</b> - The Resident - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>1</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>2</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>3</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2"><b>4</b> - New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12839-most-wanted-criminals-saison3"><b>5</b> - Most Wanted Criminals - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14411-cobra-saison2"><b>6</b> - Cobra - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14418-candice-renoir-saison10"><b>7</b> - Candice Renoir - Saison 10<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"><b>8</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14529-pourquoi-pas-evans-saison1"><b>9</b> - Pourquoi pas Evans ? - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13005-bull-saison6"><b>10</b> - Bull - Saison 6<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
