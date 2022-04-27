@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-27T05:46:34.935Z</updated>
+    <updated>2022-04-27T17:47:02.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-27T05:46:34.270Z</updated>
+        <updated>2022-04-27T17:47:01.346Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31347-les-bronz-s-font-du-ski</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31347-les-bronz-s-font-du-ski"/>
-        <updated>2022-04-27T05:46:34.272Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31356-mes-fr-res-et-moi</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31356-mes-fr-res-et-moi"/>
+        <updated>2022-04-27T17:47:01.347Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31356-mes-fr-res-et-moi">Mes frères et moi<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31355-disco">Disco<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31354-silverton-siege">Silverton Siege<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31353-silverton-siege">Silverton Siege<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31352-365-jours-au-lendemain">365 jours : Au lendemain<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31351-silverton-siege">Silverton Siege<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31350-365-jours-au-lendemain">365 jours : Au lendemain<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31349-365-jours-au-lendemain">365 jours : Au lendemain<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31348-le-seigneur-des-anneaux-les-deux-tours">Le Seigneur des anneaux : les deux tours<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31347-les-bronz-s-font-du-ski">Les Bronzés font du ski<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31346-abe">Abe<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31345-abe">Abe<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31344-abe">Abe<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31343-ch-re-l-a">Chère Léa<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31342-ch-re-l-a">Chère Léa<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31341-ch-re-l-a">Chère Léa<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31340-the-desperate-hour">The Desperate Hour<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31339-the-desperate-hour">The Desperate Hour<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31338-the-desperate-hour">The Desperate Hour<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14140-koh-lanta-saison23</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14140-koh-lanta-saison23"/>
-        <updated>2022-04-27T05:46:34.273Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14568-esquisses-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14568-esquisses-saison1"/>
+        <updated>2022-04-27T17:47:01.347Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14140-koh-lanta-saison23">Koh-Lanta - Saison 23<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13024-fear-the-walking-dead-saison7">Fear The Walking Dead - Saison 7<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14562-succession-saison1">Succession - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13025-fear-the-walking-dead-saison7">Fear The Walking Dead - Saison 7<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14294-our-flag-means-death-saison1">Our Flag Means Death - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14293-our-flag-means-death-saison1">Our Flag Means Death - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14561-premier-jour-saison1">Premier jour - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14560-premier-jour-saison1">Premier jour - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14479-the-first-lady-saison1">The First Lady - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14568-esquisses-saison1">Esquisses - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14567-esquisses-saison1">Esquisses - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14566-esquisses-saison1">Esquisses - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12786-new-amsterdam-2018-saison4">New Amsterdam (2018) - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12787-new-amsterdam-2018-saison4">New Amsterdam (2018) - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14565-esquisses-saison1">Esquisses - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14364-snowdrop-saison1">Snowdrop - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14090-les-simpson-saison33">Les Simpson - Saison 33<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14089-les-simpson-saison33">Les Simpson - Saison 33<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14361-snowdrop-saison1">Snowdrop - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1058,21 +1058,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14192-outlander-saison6</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14192-outlander-saison6"/>
-        <updated>2022-04-25T17:44:45.162Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14356-moon-knight-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14356-moon-knight-saison1"/>
+        <updated>2022-04-27T17:47:01.350Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>1</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>2</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=9476-c-sar-wagner-saison1"><b>3</b> - César Wagner - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>1</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>2</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>3</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>4</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14529-pourquoi-pas-evans-saison1"><b>5</b> - Pourquoi pas Evans ? - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14483-better-call-saul-saison6"><b>6</b> - Better Call Saul - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14418-candice-renoir-saison10"><b>7</b> - Candice Renoir - Saison 10<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"><b>8</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>9</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14486-better-call-saul-saison6"><b>10</b> - Better Call Saul - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13536-big-sky-saison2"><b>6</b> - Big Sky - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=9476-c-sar-wagner-saison1"><b>7</b> - César Wagner - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3"><b>8</b> - 9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14357-moon-knight-saison1"><b>9</b> - Moon Knight - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9"><b>10</b> - Blacklist - Saison 9<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
