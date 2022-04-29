@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-28T17:42:55.639Z</updated>
+    <updated>2022-04-29T05:41:20.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-28T17:42:54.958Z</updated>
+        <updated>2022-04-29T05:41:19.656Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,59 +1001,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31371-les-promesses-de-l-ombre</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31371-les-promesses-de-l-ombre"/>
-        <updated>2022-04-28T17:42:54.966Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31375-blood-conscious</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31375-blood-conscious"/>
+        <updated>2022-04-29T05:41:19.661Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31375-blood-conscious">Blood Conscious<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31374-blood-conscious">Blood Conscious<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31373-blood-conscious">Blood Conscious<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31372-out-of-time">Out of Time<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31371-les-promesses-de-l-ombre">Les Promesses de l'ombre<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31370-ambulance">Ambulance<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31369-ambulance">Ambulance<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31368-ambulance">Ambulance<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31367-fortress-sniper-s-eye">Fortress: Sniper's Eye<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31366-fortress">Fortress<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31365-fortress-sniper-s-eye">Fortress: Sniper's Eye<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31364-fortress-sniper-s-eye">Fortress: Sniper's Eye<i> [HDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31363-fortress">Fortress<i> [WEB-DL 720p] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31362-fortress">Fortress<i> [HDRIP] - TRUEFRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14447-raised-by-wolves-2020-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14447-raised-by-wolves-2020-saison2"/>
-        <updated>2022-04-28T17:42:54.967Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14419-this-is-us-saison6</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14419-this-is-us-saison6"/>
+        <updated>2022-04-29T05:41:19.662Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14447-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14444-ncis-hawai-i-saison1">NCIS: Hawai'i - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14582-les-7-vies-de-l-a-saison1">Les 7 vies de Léa - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14581-bang-bang-baby-saison1">Bang Bang Baby - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14580-lapin-samoura-les-chroniques-d-usagi-saison1">Lapin samouraï : Les chroniques d'Usagi - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14579-les-7-vies-de-l-a-saison1">Les 7 vies de Léa - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14578-bang-bang-baby-saison1">Bang Bang Baby - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14577-bang-bang-baby-saison1">Bang Bang Baby - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14576-lapin-samoura-les-chroniques-d-usagi-saison1">Lapin samouraï : Les chroniques d'Usagi - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14575-lapin-samoura-les-chroniques-d-usagi-saison1">Lapin samouraï : Les chroniques d'Usagi - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14419-this-is-us-saison6">This is Us - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14421-this-is-us-saison6">This is Us - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13732-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13733-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14417-that-dirty-black-bag-saison1">That Dirty Black Bag - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14416-that-dirty-black-bag-saison1">That Dirty Black Bag - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14569-halo-saison1">Halo - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14584-bang-bang-baby-saison1">Bang Bang Baby - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14583-lapin-samoura-les-chroniques-d-usagi-saison1">Lapin samouraï : Les chroniques d'Usagi - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=10986-police-de-caract-res-saison1">Police de Caractères - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31311-uncharted</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31311-uncharted"/>
-        <updated>2022-04-25T05:39:05.901Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31370-ambulance</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31370-ambulance"/>
+        <updated>2022-04-29T05:41:19.665Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31311-uncharted"><b>1</b> - Uncharted<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31370-ambulance"><b>2</b> - Ambulance<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31370-ambulance"><b>1</b> - Ambulance<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31311-uncharted"><b>2</b> - Uncharted<i> [BDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31320-les-choses-humaines"><b>3</b> - Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31329-hollywoodland"><b>4</b> - Hollywoodland<i> [DVDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=31323-hair"><b>5</b> - Hair<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31324-la-d-esse-des-mouches-feu"><b>6</b> - La Déesse des mouches à feu<i> [WEBRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31325-la-d-esse-des-mouches-feu"><b>7</b> - La Déesse des mouches à feu<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31314-uncharted"><b>8</b> - Uncharted<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31321-les-choses-humaines"><b>9</b> - Les Choses humaines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31322-sliver"><b>10</b> - Sliver<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31321-les-choses-humaines"><b>8</b> - Les Choses humaines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31328-uncharted"><b>9</b> - Uncharted<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31357-mes-fr-res-et-moi"><b>10</b> - Mes frères et moi<i> [WEB-DL 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1064,15 +1064,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>1</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>2</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14503-hpi-saison2"><b>3</b> - HPI - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>4</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13536-big-sky-saison2"><b>5</b> - Big Sky - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>6</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>7</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=9476-c-sar-wagner-saison1"><b>8</b> - César Wagner - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3"><b>9</b> - 9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14502-hpi-saison2"><b>10</b> - HPI - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14503-hpi-saison2"><b>2</b> - HPI - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>3</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14570-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>5</b> - Halo - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>6</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13536-big-sky-saison2"><b>7</b> - Big Sky - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>8</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>9</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=9476-c-sar-wagner-saison1"><b>10</b> - César Wagner - Saison 1<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
