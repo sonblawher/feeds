@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-04-29T05:41:20.321Z</updated>
+    <updated>2022-04-29T17:43:17.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-04-29T05:41:19.656Z</updated>
+        <updated>2022-04-29T17:43:17.117Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31375-blood-conscious</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31375-blood-conscious"/>
-        <updated>2022-04-29T05:41:19.661Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31382-rumspringa</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31382-rumspringa"/>
+        <updated>2022-04-29T17:43:17.120Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31382-rumspringa">Rumspringa<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31381-sous-les-palmiers-ma-m-re">Sous les palmiers, ma mère<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31380-rumspringa">Rumspringa<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31379-rumspringa">Rumspringa<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31378-sous-les-palmiers-ma-m-re">Sous les palmiers, ma mère<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31377-sous-les-palmiers-ma-m-re">Sous les palmiers, ma mère<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31376-universal-soldier-le-combat-absolu">Universal Soldier : le combat absolu<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31375-blood-conscious">Blood Conscious<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31374-blood-conscious">Blood Conscious<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31373-blood-conscious">Blood Conscious<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31372-out-of-time">Out of Time<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31371-les-promesses-de-l-ombre">Les Promesses de l'ombre<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31370-ambulance">Ambulance<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31369-ambulance">Ambulance<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31368-ambulance">Ambulance<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31367-fortress-sniper-s-eye">Fortress: Sniper's Eye<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31366-fortress">Fortress<i> [WEB-DL 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14419-this-is-us-saison6</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14419-this-is-us-saison6"/>
-        <updated>2022-04-29T05:41:19.662Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14324-halo-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14324-halo-saison1"/>
+        <updated>2022-04-29T17:43:17.121Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14419-this-is-us-saison6">This is Us - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14421-this-is-us-saison6">This is Us - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13732-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13733-this-is-us-saison6">This is Us - Saison 6<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14417-that-dirty-black-bag-saison1">That Dirty Black Bag - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14416-that-dirty-black-bag-saison1">That Dirty Black Bag - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14324-halo-saison1">Halo - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13866-ozark-saison4">Ozark - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14597-la-unidad-unit-anti-terroriste-saison2">La Unidad : unité anti-terroriste - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14596-undone-saison2">Undone - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14570-halo-saison1">Halo - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14569-halo-saison1">Halo - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14584-bang-bang-baby-saison1">Bang Bang Baby - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14583-lapin-samoura-les-chroniques-d-usagi-saison1">Lapin samouraï : Les chroniques d'Usagi - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=10986-police-de-caract-res-saison1">Police de Caractères - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14503-hpi-saison2">HPI - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13865-ozark-saison4">Ozark - Saison 4<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1050,29 +1050,29 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31329-hollywoodland"><b>4</b> - Hollywoodland<i> [DVDRIP] - VOSTFR</i></a></li>
 															<li><a href="/?p=film&amp;id=31323-hair"><b>5</b> - Hair<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31324-la-d-esse-des-mouches-feu"><b>6</b> - La Déesse des mouches à feu<i> [WEBRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31325-la-d-esse-des-mouches-feu"><b>7</b> - La Déesse des mouches à feu<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31328-uncharted"><b>7</b> - Uncharted<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31321-les-choses-humaines"><b>8</b> - Les Choses humaines<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31328-uncharted"><b>9</b> - Uncharted<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31357-mes-fr-res-et-moi"><b>10</b> - Mes frères et moi<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31325-la-d-esse-des-mouches-feu"><b>9</b> - La Déesse des mouches à feu<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31351-silverton-siege"><b>10</b> - Silverton Siege<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14356-moon-knight-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14356-moon-knight-saison1"/>
-        <updated>2022-04-27T17:47:01.350Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14325-halo-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14325-halo-saison1"/>
+        <updated>2022-04-29T17:43:17.123Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>1</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14503-hpi-saison2"><b>2</b> - HPI - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>3</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14570-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>5</b> - Halo - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>6</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13536-big-sky-saison2"><b>7</b> - Big Sky - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>8</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>9</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=9476-c-sar-wagner-saison1"><b>10</b> - César Wagner - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>1</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>2</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>3</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>4</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2"><b>5</b> - Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14503-hpi-saison2"><b>6</b> - HPI - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14570-halo-saison1"><b>7</b> - Halo - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>8</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13865-ozark-saison4"><b>9</b> - Ozark - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>10</b> - Halo - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
