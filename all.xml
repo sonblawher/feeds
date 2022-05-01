@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-01T05:42:25.589Z</updated>
+    <updated>2022-05-01T17:41:47.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-05-01T05:42:24.913Z</updated>
+        <updated>2022-05-01T17:41:46.373Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -467,6 +467,51 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°121 – Mai-Juin 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">3 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022"><img alt="Windows et Internet Pratique N°121 – Mai-Juin 2022 [Magazines]" src="/img/ebooks/8d67cb637e35c2a12ab84b3f0795004f.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Sun 01 May 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le meilleur de Windows et d’Internet: parce que aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous p...</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Windows et Internet Pratique" rel="nofollow">Windows et Internet Pratique</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37733-micro-pratique-n-308-mai-2022"><i class="flag flag-fr"></i> Micro Pratique N°308 – Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
@@ -508,9 +553,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=37733-micro-pratique-n-308-mai-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37700-pirate-informatique-n-52-avril-juin-2022"><i class="flag flag-fr"></i> Pirate Informatique N°52 – Avril-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -858,49 +901,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><i class="flag flag-fr"></i> Windows 10 Pratique N°11 – Octobre-Décembre 2021<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021"><img alt="Windows 10 Pratique N°11 – Octobre-Décembre 2021 [Magazines]" src="/img/ebooks/5f9da84f58fdc0a44ac313fc978e2693.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								Tue 01 Mar 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Conçu pour aider ses lecteurs à progresser dans l’utilisation et la maîtrise de Windows 10, cela sans jargon technique, Windows 10 Pratique propose dans chacun de ses numéros : &gt; l’essentiel de l’...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=Windows 10 Pratique" rel="nofollow">Windows 10 Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=36949-windows-10-pratique-n-11-octobre-d-cembre-2021" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -1000,11 +1000,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31399-rox-et-rouky</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31399-rox-et-rouky"/>
-        <updated>2022-05-01T05:42:24.915Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31400-ant-man</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31400-ant-man"/>
+        <updated>2022-05-01T17:41:46.376Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31400-ant-man">Ant-Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31399-rox-et-rouky">Rox et Rouky<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31398-no-country-for-old-men-non-ce-pays-n-est-pas-pour-le-vieil-homme">No Country for Old Men - Non, ce pays n'est pas pour le vieil homme<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31397-les-aristochats">Les Aristochats<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
@@ -1014,26 +1015,25 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31393-eg">Egō<i> [WEB-DL 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31392-666-road-southbound">666 Road (Southbound)<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31391-pearl-harbor">Pearl Harbor<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31390-un-alibi">Un alibi<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14518-supergirl-saison6</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14518-supergirl-saison6"/>
-        <updated>2022-05-01T05:42:24.916Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19"/>
+        <updated>2022-05-01T17:41:46.379Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14518-supergirl-saison6">Supergirl - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14520-supergirl-saison6">Supergirl - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14601-made-for-love-saison2">Made for Love - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14469-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12863-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12862-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14600-made-for-love-saison2">Made for Love - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14501-super-pumped-saison1">Super Pumped - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14500-super-pumped-saison1">Super Pumped - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14603-new-york-unit-sp-ciale-saison23">New York Unité Spéciale - Saison 23<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12827-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13066-legacies-saison4">Legacies - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13065-legacies-saison4">Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13005-bull-saison6">Bull - Saison 6<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,14 +1045,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31370-ambulance"><b>1</b> - Ambulance<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31311-uncharted"><b>2</b> - Uncharted<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31328-uncharted"><b>3</b> - Uncharted<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31320-les-choses-humaines"><b>4</b> - Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31357-mes-fr-res-et-moi"><b>5</b> - Mes frères et moi<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31358-mes-fr-res-et-moi"><b>6</b> - Mes frères et moi<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31391-pearl-harbor"><b>7</b> - Pearl Harbor<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31391-pearl-harbor"><b>3</b> - Pearl Harbor<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31328-uncharted"><b>4</b> - Uncharted<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31396-edward-aux-mains-d-argent"><b>5</b> - Edward aux mains d'argent<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31320-les-choses-humaines"><b>6</b> - Les Choses humaines<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31351-silverton-siege"><b>7</b> - Silverton Siege<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31323-hair"><b>8</b> - Hair<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31324-la-d-esse-des-mouches-feu"><b>9</b> - La Déesse des mouches à feu<i> [WEBRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31329-hollywoodland"><b>10</b> - Hollywoodland<i> [DVDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=31327-moonfall"><b>10</b> - Moonfall<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1065,13 +1065,13 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14325-halo-saison1"><b>1</b> - Halo - Saison 1<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14324-halo-saison1"><b>2</b> - Halo - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2"><b>3</b> - Star Trek: Picard - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14503-hpi-saison2"><b>4</b> - HPI - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14570-halo-saison1"><b>5</b> - Halo - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>6</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>7</b> - Halo - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13865-ozark-saison4"><b>8</b> - Ozark - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2"><b>9</b> - Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>10</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14570-halo-saison1"><b>4</b> - Halo - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14503-hpi-saison2"><b>5</b> - HPI - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>6</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>7</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>8</b> - Halo - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13865-ozark-saison4"><b>9</b> - Ozark - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14176-star-trek-picard-saison2"><b>10</b> - Star Trek: Picard - Saison 2<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
