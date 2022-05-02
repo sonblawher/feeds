@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-05-02T05:48:20.741Z</updated>
+    <updated>2022-05-02T17:44:26.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-05-02T05:48:20.064Z</updated>
+        <updated>2022-05-02T17:44:25.874Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,7 +471,7 @@
 					<a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°121 – Mai-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">5 vote(s)</div>
+							<div class="progress-desc">6 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31400-ant-man</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31400-ant-man"/>
-        <updated>2022-05-01T17:41:46.376Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31409-le-casse-du-si-cle</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31409-le-casse-du-si-cle"/>
+        <updated>2022-05-02T17:44:25.879Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=film&amp;id=31409-le-casse-du-si-cle">Le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31408-crabs">Crabs!<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31407-compartiment-n-6">Compartiment N°6<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31406-crabs">Crabs!<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31405-crabs">Crabs!<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31404-compartiment-n-6">Compartiment N°6<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31403-compartiment-n-6">Compartiment N°6<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31402-compartiment-n-6">Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31401-compartiment-n-6">Compartiment N°6<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31400-ant-man">Ant-Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31399-rox-et-rouky">Rox et Rouky<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31398-no-country-for-old-men-non-ce-pays-n-est-pas-pour-le-vieil-homme">No Country for Old Men - Non, ce pays n'est pas pour le vieil homme<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31397-les-aristochats">Les Aristochats<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31396-edward-aux-mains-d-argent">Edward aux mains d'argent<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31395-eg">Egō<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31394-eg">Egō<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31393-eg">Egō<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31392-666-road-southbound">666 Road (Southbound)<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31391-pearl-harbor">Pearl Harbor<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3"/>
-        <updated>2022-05-02T05:48:20.069Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14232-fbi-international-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14232-fbi-international-saison1"/>
+        <updated>2022-05-02T17:44:25.879Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3">Astrid et Raphaëlle - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12827-the-resident-saison5">The Resident - Saison 5<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13066-legacies-saison4">Legacies - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13065-legacies-saison4">Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11">The Walking Dead - Saison 11<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13787-superman-lois-saison2">Superman &amp; Lois - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1">FBI: International - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14231-fbi-international-saison1">FBI: International - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14294-our-flag-means-death-saison1">Our Flag Means Death - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14293-our-flag-means-death-saison1">Our Flag Means Death - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14472-meurtres-au-paradis-saison11">Meurtres au paradis - Saison 11<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1">Tokyo Vice - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14432-tokyo-vice-saison1">Tokyo Vice - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14350-atlanta-2016-saison3">Atlanta (2016) - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14193-outlander-saison6">Outlander - Saison 6<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,6 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31400-ant-man"><b>1</b> - Ant-Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>2</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31409-le-casse-du-si-cle"><b>3</b> - Le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31401-compartiment-n-6"><b>4</b> - Compartiment N°6<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31403-compartiment-n-6"><b>5</b> - Compartiment N°6<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31404-compartiment-n-6"><b>6</b> - Compartiment N°6<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31406-crabs"><b>7</b> - Crabs!<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31405-crabs"><b>8</b> - Crabs!<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31407-compartiment-n-6"><b>9</b> - Compartiment N°6<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31408-crabs"><b>10</b> - Crabs!<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1056,14 +1065,14 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>1</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>2</b> - Halo - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12819-the-walking-dead-saison11"><b>3</b> - The Walking Dead - Saison 11<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>4</b> - Tandem - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3"><b>5</b> - Astrid et Raphaëlle - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19"><b>6</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13786-superman-lois-saison2"><b>7</b> - Superman &amp; Lois - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13005-bull-saison6"><b>8</b> - Bull - Saison 6<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13065-legacies-saison4"><b>9</b> - Legacies - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12828-the-resident-saison5"><b>10</b> - The Resident - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14461-astrid-et-rapha-lle-saison3"><b>3</b> - Astrid et Raphaëlle - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>4</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>5</b> - Outlander - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3"><b>6</b> - Astrid et Raphaëlle - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>7</b> - Tandem - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12819-the-walking-dead-saison11"><b>8</b> - The Walking Dead - Saison 11<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19"><b>9</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19"><b>10</b> - NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
