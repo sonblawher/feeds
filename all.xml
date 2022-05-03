@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-03T05:40:54.408Z</updated>
+    <updated>2022-05-03T17:48:58.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-05-03T05:40:53.746Z</updated>
+        <updated>2022-05-03T17:48:58.299Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°121 – Mai-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+							<div class="progress-desc">8 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,59 +1000,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31416-sexe-mensonges-et-vid-o</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31416-sexe-mensonges-et-vid-o"/>
-        <updated>2022-05-03T05:40:53.754Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31438-ray</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31438-ray"/>
+        <updated>2022-05-03T17:48:58.318Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31416-sexe-mensonges-et-vid-o">Sexe, mensonges et vidéo<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31415-petite-solange">Petite Solange<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31414-petite-solange">Petite Solange<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31413-petite-solange">Petite Solange<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31412-bloodsport-tous-les-coups-sont-permis">Bloodsport, tous les coups sont permis<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31411-bloodsport-2">Bloodsport 2<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31410-twister">Twister<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31409-le-casse-du-si-cle">Le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31408-crabs">Crabs!<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31407-compartiment-n-6">Compartiment N°6<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31438-ray">Ray<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31437-val">Val<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31436-val">Val<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31435-val">Val<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31434-alexandre">Alexandre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31433-oblivion">Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31432-ma-6-t-va-crack-er">Ma 6-T va crack-er<i> [DVDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31431-le-plus-beau-m-tier-du-monde">Le plus beau métier du monde<i> [DVDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31430-profession-profiler">Profession profiler<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31426-the-basketball-diaries">The Basketball diaries<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=13087-fear-the-walking-dead-saison7</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=13087-fear-the-walking-dead-saison7"/>
-        <updated>2022-05-03T05:40:53.754Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=12764-9-1-1-saison5</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=12764-9-1-1-saison5"/>
+        <updated>2022-05-03T17:48:58.318Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=13087-fear-the-walking-dead-saison7">Fear The Walking Dead - Saison 7<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14448-raised-by-wolves-2020-saison2">Raised By Wolves (2020) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7">Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14607-the-equalizer-2021-saison2">The Equalizer (2021) - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14606-the-equalizer-2021-saison2">The Equalizer (2021) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14477-wolfe-saison1">Wolfe - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14478-wolfe-saison1">Wolfe - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14425-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14424-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1">FBI: International - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12764-9-1-1-saison5">9-1-1 - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12767-9-1-1-saison5">9-1-1 - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13593-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13594-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14154-new-york-district-new-york-police-judiciaire-saison21">New York District / New York Police Judiciaire - Saison 21<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14153-new-york-district-new-york-police-judiciaire-saison21">New York District / New York Police Judiciaire - Saison 21<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14301-un-soup-on-de-magie-saison7">Un Soupçon de magie - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14302-un-soup-on-de-magie-saison7">Un Soupçon de magie - Saison 7<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14486-better-call-saul-saison6">Better Call Saul - Saison 6<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14621-batman-saison5">Batman - Saison 5<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31409-le-casse-du-si-cle</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31409-le-casse-du-si-cle"/>
-        <updated>2022-05-02T17:44:25.879Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31424-true-grit</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31424-true-grit"/>
+        <updated>2022-05-03T17:48:58.319Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31409-le-casse-du-si-cle"><b>1</b> - Le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31400-ant-man"><b>2</b> - Ant-Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>3</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31424-true-grit"><b>1</b> - True Grit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>2</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31409-le-casse-du-si-cle"><b>3</b> - Le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31410-twister"><b>4</b> - Twister<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31412-bloodsport-tous-les-coups-sont-permis"><b>5</b> - Bloodsport, tous les coups sont permis<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31401-compartiment-n-6"><b>6</b> - Compartiment N°6<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31403-compartiment-n-6"><b>7</b> - Compartiment N°6<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31404-compartiment-n-6"><b>8</b> - Compartiment N°6<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31416-sexe-mensonges-et-vid-o"><b>9</b> - Sexe, mensonges et vidéo<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31405-crabs"><b>10</b> - Crabs!<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31416-sexe-mensonges-et-vid-o"><b>6</b> - Sexe, mensonges et vidéo<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31430-profession-profiler"><b>7</b> - Profession profiler<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31400-ant-man"><b>8</b> - Ant-Man<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>9</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31421-les-le-ons-persanes"><b>10</b> - Les Leçons Persanes<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,12 +1066,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14461-astrid-et-rapha-lle-saison3"><b>3</b> - Astrid et Raphaëlle - Saison 3<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14448-raised-by-wolves-2020-saison2"><b>4</b> - Raised By Wolves (2020) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>5</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>6</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>7</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>5</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>6</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>7</b> - Outlander - Saison 6<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3"><b>8</b> - Astrid et Raphaëlle - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>9</b> - Tandem - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12819-the-walking-dead-saison11"><b>10</b> - The Walking Dead - Saison 11<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=12819-the-walking-dead-saison11"><b>9</b> - The Walking Dead - Saison 11<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>10</b> - Tandem - Saison 6<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
