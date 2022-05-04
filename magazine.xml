@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-05-04T05:41:05.116Z</updated>
+    <updated>2022-05-04T17:47:35.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-05-04T05:41:04.497Z</updated>
+        <updated>2022-05-04T17:47:35.225Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -449,12 +449,12 @@
 							...						</a>
 					</li>
 									<li class=" ">
-						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
-							54						</a>
-					</li>
-									<li class=" ">
 						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=55">
 							55						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=56">
+							56						</a>
 					</li>
 								
 				<li>
@@ -468,10 +468,55 @@
 
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
+					<a href="?p=ebook&amp;id=38237-les-dossiers-du-pirate-n-31-mai-juillet-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°31 – Mai-Juillet 2022<i> [Magazines]</i> </a>
+											<div title="100% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 100%;"></div>
+							<div class="progress-desc">3 vote(s)</div>
+						</div>
+									</div>
+				<div style="position:relative" class="content row">
+					<div class="cover col-md-2">
+						<a href="?p=ebook&amp;id=38237-les-dossiers-du-pirate-n-31-mai-juillet-2022"><img alt="Les Dossiers Du Pirate N°31 – Mai-Juillet 2022 [Magazines]" src="/img/ebooks/40ddae17b60074b43e67ea6b62515c0c.jpg" class="img-responsive"></a>
+					</div>
+					<div class="col-md-10">
+						<div class="misc-info">
+							<span class="wa-breadcrumb">
+								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
+																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
+															</span>
+							<span class="date-text text-muted">
+								Wed 04 May 2022							</span>
+						</div>
+						<div class="clearfix"></div>
+						<p>Le piratage de A à Z avec ces guides exclusifs 100% pratiques. Les meilleurs logiciels et des dizaines de fiches pratiques dédiées pour devenir un pro. No limit....</p>
+						<div class="row wa-post-detail-list">
+							<ul>
+								<li class="col-md-6">
+									<span>Editeur:</span>
+									<b><a href="?p=ebooks&amp;search=Les Dossiers Du Pirate" rel="nofollow">Les Dossiers Du Pirate</a></b>
+								</li>
+								<li class="col-md-6">
+									<span>Nombre de pages:</span>
+									<b>88</b>
+								</li>
+								<li class="col-md-6"><span>Genres:</span> 
+									<b>
+										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="wa-post-link"><a href="?p=ebook&amp;id=38237-les-dossiers-du-pirate-n-31-mai-juillet-2022" class="f_a"> Suite et télécharger</a></div>
+				</div>
+			</div>
+									<div class="text-center" style="margin-top:20px">
+									</div>
+						<div class="wa-sub-block wa-post-detail-item">
+				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°121 – Mai-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">8 vote(s)</div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -509,9 +554,7 @@
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-									<div class="text-center" style="margin-top:20px">
-									</div>
-						<div class="wa-sub-block wa-post-detail-item">
+								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=37733-micro-pratique-n-308-mai-2022"><i class="flag flag-fr"></i> Micro Pratique N°308 – Mai 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
@@ -859,49 +902,6 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 					<div class="wa-post-link"><a href="?p=ebook&amp;id=36951-internet-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
 				</div>
 			</div>
-								<div class="wa-sub-block wa-post-detail-item">
-				<div class="wa-sub-block-title">
-					<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><i class="flag flag-fr"></i> PC Pratique N°10 – Novembre 2021-Janvier 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
-						</div>
-									</div>
-				<div style="position:relative" class="content row">
-					<div class="cover col-md-2">
-						<a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022"><img alt="PC Pratique N°10 – Novembre 2021-Janvier 2022 [Magazines]" src="/img/ebooks/00b7a1e5a9614253334ddfcda16c9088.jpg" class="img-responsive"></a>
-					</div>
-					<div class="col-md-10">
-						<div class="misc-info">
-							<span class="wa-breadcrumb">
-								<a href="?p=ebooks">Ebooks</a> <b>»</b> 
-																	<a href="?p=ebooks&amp;s=magazines">Magazines</a>
-															</span>
-							<span class="date-text text-muted">
-								Tue 01 Mar 2022							</span>
-						</div>
-						<div class="clearfix"></div>
-						<p>Le meilleur de Windows et d’Internet: parce qu’aujourd’hui, Windows et Internet sont de plus en plus liés dans notre usage quotidien des nouvelles technologies, Windows &amp; Internet Pratique vous pr...</p>
-						<div class="row wa-post-detail-list">
-							<ul>
-								<li class="col-md-6">
-									<span>Editeur:</span>
-									<b><a href="?p=ebooks&amp;search=PC Pratique" rel="nofollow">PC Pratique</a></b>
-								</li>
-								<li class="col-md-6">
-									<span>Nombre de pages:</span>
-									<b>88</b>
-								</li>
-								<li class="col-md-6"><span>Genres:</span> 
-									<b>
-										<a href="?p=ebooks&amp;genre=informatique" rel="nofollow">Informatique</a>									</b>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="wa-post-link"><a href="?p=ebook&amp;id=36950-pc-pratique-n-10-novembre-2021-janvier-2022" class="f_a"> Suite et télécharger</a></div>
-				</div>
-			</div>
 		
 		<div class="text-center" style="margin-top:20px"></div>
 		
@@ -958,12 +958,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 							...						</a>
 					</li>
 									<li class=" ">
-						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=54">
-							54						</a>
-					</li>
-									<li class=" ">
 						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=55">
 							55						</a>
+					</li>
+									<li class=" ">
+						<a href="?p=ebooks&amp;s=magazines&amp;genre=informatique&amp;page=56">
+							56						</a>
 					</li>
 								
 				<li>
@@ -1001,40 +1001,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31447-l-arm-e-des-12-singes</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31447-l-arm-e-des-12-singes"/>
-        <updated>2022-05-04T05:41:04.498Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31459-ils-sont-vivants</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31459-ils-sont-vivants"/>
+        <updated>2022-05-04T17:47:35.228Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes">L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31446-licorice-pizza">Licorice Pizza<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31445-licorice-pizza">Licorice Pizza<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31444-licorice-pizza">Licorice Pizza<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31443-licorice-pizza">Licorice Pizza<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31442-bull">Bull<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31441-bull">Bull<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31440-licorice-pizza">Licorice Pizza<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31439-bull">Bull<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31438-ray">Ray<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31459-ils-sont-vivants">Ils sont vivants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31458-ils-sont-vivants">Ils sont vivants<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31457-ils-sont-vivants">Ils sont vivants<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31456-a-perfect-enemy">A Perfect Enemy<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31455-a-perfect-enemy">A Perfect Enemy<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31454-harry-potter-retour-poudlard">Harry Potter : Retour à Poudlard<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31453-harry-potter-retour-poudlard">Harry Potter : Retour à Poudlard<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31452-a-perfect-enemy">A Perfect Enemy<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31451-harry-potter-retour-poudlard">Harry Potter : Retour à Poudlard<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31450-l-arm-e-des-12-singes">L'Armée des 12 singes<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14140-koh-lanta-saison23</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14140-koh-lanta-saison23"/>
-        <updated>2022-05-04T05:41:04.499Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14646-les-myst-rieuses-cit-s-d-or-saison4</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14646-les-myst-rieuses-cit-s-d-or-saison4"/>
+        <updated>2022-05-04T17:47:35.234Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14140-koh-lanta-saison23">Koh-Lanta - Saison 23<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14254-kung-fu-2021-saison2">Kung Fu (2021) - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14252-kung-fu-2021-saison2">Kung Fu (2021) - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12837-les-simpson-saison33">Les Simpson - Saison 33<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=12838-les-simpson-saison33">Les Simpson - Saison 33<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14630-visitors-saison1">Visitors - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14629-visitors-saison1">Visitors - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14199-billions-saison6">Billions - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14200-billions-saison6">Billions - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14628-chapeau-melon-et-bottes-de-cuir-1961-saison3">Chapeau melon et bottes de cuir - 1961 - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14646-les-myst-rieuses-cit-s-d-or-saison4">Les Mystérieuses cités d'or - Saison 4<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14645-les-myst-rieuses-cit-s-d-or-saison3">Les Mystérieuses cités d'or - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14644-les-myst-rieuses-cit-s-d-or-saison2">Les Mystérieuses cités d'or - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14643-les-myst-rieuses-cit-s-d-or-saison1">Les Mystérieuses cités d'or - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14467-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14465-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14642-coroner-saison4">Coroner - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14641-coroner-saison4">Coroner - Saison 4<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14640-promised-land-saison1">Promised Land - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14639-coroner-saison4">Coroner - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,15 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31424-true-grit"><b>1</b> - True Grit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31425-chute-libre"><b>2</b> - Chute libre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>3</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31409-le-casse-du-si-cle"><b>4</b> - Le Casse du siècle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>2</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31433-oblivion"><b>3</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>4</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31416-sexe-mensonges-et-vid-o"><b>5</b> - Sexe, mensonges et vidéo<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>6</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31430-profession-profiler"><b>7</b> - Profession profiler<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31432-ma-6-t-va-crack-er"><b>8</b> - Ma 6-T va crack-er<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31433-oblivion"><b>9</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31401-compartiment-n-6"><b>10</b> - Compartiment N°6<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31425-chute-libre"><b>6</b> - Chute libre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes"><b>7</b> - L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31401-compartiment-n-6"><b>8</b> - Compartiment N°6<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31410-twister"><b>9</b> - Twister<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31412-bloodsport-tous-les-coups-sont-permis"><b>10</b> - Bloodsport, tous les coups sont permis<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1064,15 +1064,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=14569-halo-saison1"><b>1</b> - Halo - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>2</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14461-astrid-et-rapha-lle-saison3"><b>3</b> - Astrid et Raphaëlle - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>4</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14448-raised-by-wolves-2020-saison2"><b>5</b> - Raised By Wolves (2020) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>6</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>7</b> - Outlander - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12819-the-walking-dead-saison11"><b>8</b> - The Walking Dead - Saison 11<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14462-astrid-et-rapha-lle-saison3"><b>9</b> - Astrid et Raphaëlle - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>10</b> - Tandem - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>2</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>3</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>4</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>5</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14461-astrid-et-rapha-lle-saison3"><b>6</b> - Astrid et Raphaëlle - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>7</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14448-raised-by-wolves-2020-saison2"><b>8</b> - Raised By Wolves (2020) - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>9</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14192-outlander-saison6"><b>10</b> - Outlander - Saison 6<i> - VF</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
