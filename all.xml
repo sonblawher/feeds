@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-04T17:47:35.952Z</updated>
+    <updated>2022-05-05T05:43:08.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -294,7 +294,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-05-04T17:47:35.225Z</updated>
+        <updated>2022-05-05T05:43:07.655Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,7 +470,7 @@
 					<a href="?p=ebook&amp;id=38237-les-dossiers-du-pirate-n-31-mai-juillet-2022"><i class="flag flag-fr"></i> Les Dossiers Du Pirate N°31 – Mai-Juillet 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">5 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -515,7 +515,7 @@
 					<a href="?p=ebook&amp;id=38172-windows-et-internet-pratique-n-121-mai-juin-2022"><i class="flag flag-fr"></i> Windows et Internet Pratique N°121 – Mai-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1000,40 +1000,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31459-ils-sont-vivants</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31459-ils-sont-vivants"/>
-        <updated>2022-05-04T17:47:35.228Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31474-midnight-silence</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31474-midnight-silence"/>
+        <updated>2022-05-05T05:43:07.671Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31459-ils-sont-vivants">Ils sont vivants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31458-ils-sont-vivants">Ils sont vivants<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31457-ils-sont-vivants">Ils sont vivants<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31456-a-perfect-enemy">A Perfect Enemy<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31455-a-perfect-enemy">A Perfect Enemy<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31454-harry-potter-retour-poudlard">Harry Potter : Retour à Poudlard<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31453-harry-potter-retour-poudlard">Harry Potter : Retour à Poudlard<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31452-a-perfect-enemy">A Perfect Enemy<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31451-harry-potter-retour-poudlard">Harry Potter : Retour à Poudlard<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31450-l-arm-e-des-12-singes">L'Armée des 12 singes<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31474-midnight-silence">Midnight silence<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31473-midnight-silence">Midnight silence<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31472-midnight-silence">Midnight silence<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31471-lamb">Lamb<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31470-lamb">Lamb<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31469-lamb">Lamb<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31468-midnight-silence">Midnight silence<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31467-midnight-silence">Midnight silence<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31466-lamb">Lamb<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31465-lamb">Lamb<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14646-les-myst-rieuses-cit-s-d-or-saison4</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14646-les-myst-rieuses-cit-s-d-or-saison4"/>
-        <updated>2022-05-04T17:47:35.234Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=13665-dynastie-2017-saison5</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=13665-dynastie-2017-saison5"/>
+        <updated>2022-05-05T05:43:07.674Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=13665-dynastie-2017-saison5">Dynastie (2017) - Saison 5<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13666-dynastie-2017-saison5">Dynastie (2017) - Saison 5<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14289-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14290-le-coeur-a-ses-raisons-saison9">Le Coeur a ses raisons - Saison 9<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14648-family-law-saison1">Family Law - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14647-family-law-saison1">Family Law - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12988-family-law-2021-saison1">Family Law (2021) - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12987-family-law-2021-saison1">Family Law (2021) - Saison 1<i> - VOSTFR HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14646-les-myst-rieuses-cit-s-d-or-saison4">Les Mystérieuses cités d'or - Saison 4<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14645-les-myst-rieuses-cit-s-d-or-saison3">Les Mystérieuses cités d'or - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14644-les-myst-rieuses-cit-s-d-or-saison2">Les Mystérieuses cités d'or - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14643-les-myst-rieuses-cit-s-d-or-saison1">Les Mystérieuses cités d'or - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14467-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14465-most-wanted-criminals-saison3">Most Wanted Criminals - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14642-coroner-saison4">Coroner - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14641-coroner-saison4">Coroner - Saison 4<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14640-promised-land-saison1">Promised Land - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14639-coroner-saison4">Coroner - Saison 4<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1044,15 +1044,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31424-true-grit"><b>1</b> - True Grit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>2</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31433-oblivion"><b>3</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>4</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31416-sexe-mensonges-et-vid-o"><b>5</b> - Sexe, mensonges et vidéo<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31425-chute-libre"><b>6</b> - Chute libre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes"><b>7</b> - L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31401-compartiment-n-6"><b>8</b> - Compartiment N°6<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31410-twister"><b>9</b> - Twister<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31412-bloodsport-tous-les-coups-sont-permis"><b>10</b> - Bloodsport, tous les coups sont permis<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes"><b>2</b> - L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31459-ils-sont-vivants"><b>3</b> - Ils sont vivants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31433-oblivion"><b>4</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31457-ils-sont-vivants"><b>5</b> - Ils sont vivants<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31458-ils-sont-vivants"><b>6</b> - Ils sont vivants<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>7</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31425-chute-libre"><b>8</b> - Chute libre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31402-compartiment-n-6"><b>9</b> - Compartiment N°6<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31416-sexe-mensonges-et-vid-o"><b>10</b> - Sexe, mensonges et vidéo<i> [4K LIGHT] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1066,8 +1066,8 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=14356-moon-knight-saison1"><b>2</b> - Moon Knight - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=12820-the-walking-dead-saison11"><b>3</b> - The Walking Dead - Saison 11<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14354-moon-knight-saison1"><b>4</b> - Moon Knight - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>5</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14461-astrid-et-rapha-lle-saison3"><b>6</b> - Astrid et Raphaëlle - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14461-astrid-et-rapha-lle-saison3"><b>5</b> - Astrid et Raphaëlle - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14434-tokyo-vice-saison1"><b>6</b> - Tokyo Vice - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>7</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14448-raised-by-wolves-2020-saison2"><b>8</b> - Raised By Wolves (2020) - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14355-moon-knight-saison1"><b>9</b> - Moon Knight - Saison 1<i> - VOSTFR HD</i></a></li>
