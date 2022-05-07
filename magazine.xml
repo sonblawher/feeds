@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-05-06T17:44:52.285Z</updated>
+    <updated>2022-05-07T05:38:31.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -295,7 +295,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-05-06T17:44:51.598Z</updated>
+        <updated>2022-05-07T05:38:30.647Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -1020,21 +1020,21 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14179-star-trek-picard-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14179-star-trek-picard-saison2"/>
-        <updated>2022-05-06T17:44:51.603Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14180-star-trek-picard-saison2</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14180-star-trek-picard-saison2"/>
+        <updated>2022-05-07T05:38:30.653Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
+															<li><a href="/?p=serie&amp;id=14180-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14702-bienvenidos-a-ed-n-saison1">Bienvenidos a Edén - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14701-the-sound-of-magic-saison1">The Sound of Magic - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14700-the-wilds-saison2">The Wilds - Saison 2<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14179-star-trek-picard-saison2">Star Trek: Picard - Saison 2<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14570-halo-saison1">Halo - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14699-bienvenidos-a-ed-n-saison1">Bienvenidos a Edén - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14698-columbo-saison6">Columbo - Saison 6<i> - VF HD</i></a></li>
 															<li><a href="/?p=serie&amp;id=14697-the-sound-of-magic-saison1">The Sound of Magic - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14696-the-wilds-saison2">The Wilds - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14695-girls5eva-saison2">Girls5Eva - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12879-grey-s-anatomy-saison18">Grey's Anatomy - Saison 18<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14593-shining-girls-saison1">Shining Girls - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14569-halo-saison1">Halo - Saison 1<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1045,15 +1045,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31424-true-grit"><b>1</b> - True Grit<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31433-oblivion"><b>2</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes"><b>3</b> - L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31459-ils-sont-vivants"><b>4</b> - Ils sont vivants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>5</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31457-ils-sont-vivants"><b>6</b> - Ils sont vivants<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31458-ils-sont-vivants"><b>7</b> - Ils sont vivants<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31457-ils-sont-vivants"><b>2</b> - Ils sont vivants<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31459-ils-sont-vivants"><b>3</b> - Ils sont vivants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31433-oblivion"><b>4</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes"><b>5</b> - L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31458-ils-sont-vivants"><b>6</b> - Ils sont vivants<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31418-les-le-ons-persanes"><b>7</b> - Les Leçons Persanes<i> [HDLIGHT 720p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31461-monty-python-sacr-graal"><b>8</b> - Monty Python, sacré Graal<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31472-midnight-silence"><b>9</b> - Midnight silence<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31476-sin-city-j-ai-tu-pour-elle"><b>10</b> - Sin City : j'ai tué pour elle<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31456-a-perfect-enemy"><b>10</b> - A Perfect Enemy<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
