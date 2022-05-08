@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-05-08T05:38:44.496Z</updated>
+    <updated>2022-05-08T17:41:19.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -297,7 +297,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-05-08T05:38:43.828Z</updated>
+        <updated>2022-05-08T17:41:19.324Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -473,7 +473,7 @@
 					<a href="?p=ebook&amp;id=38296-programmez-n-252-mai-juin-2022"><i class="flag flag-fr"></i> Programmez N°252 – Mai-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">3 vote(s)</div>
+							<div class="progress-desc">6 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1005,40 +1005,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31525-khartoum</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31525-khartoum"/>
-        <updated>2022-05-08T05:38:43.833Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31543-belfast</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31543-belfast"/>
+        <updated>2022-05-08T17:41:19.324Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31525-khartoum">Khartoum<i> [DVDRIP] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=31524-khartoum">Khartoum<i> [DVDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31523-le-discours-d-un-roi">Le Discours d'un roi<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31522-rocky-balboa">Rocky Balboa<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31521-l-arme-fatale-4">L'Arme fatale 4<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31520-l-arme-fatale-3">L'Arme fatale 3<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31519-l-arme-fatale-2">L'Arme fatale 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31518-l-arme-fatale">L'Arme fatale<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31517-alerte-rouge">Alerte rouge<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31516-alerte-rouge">Alerte rouge<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31543-belfast">Belfast<i> [BLU-RAY 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31542-belfast">Belfast<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31541-belfast">Belfast<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31540-belfast">Belfast<i> [HDLIGHT 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31539-belfast">Belfast<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31538-comment-tuer-son-boss-2">Comment tuer son boss 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31537-comment-tuer-son-boss">Comment tuer son Boss ?<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31536-en-attendant-bojangles">En Attendant Bojangles<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31535-en-attendant-bojangles">En Attendant Bojangles<i> [BLU-RAY 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31534-sibel">Sibel<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14722-chernobyl-saison1</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14722-chernobyl-saison1"/>
-        <updated>2022-05-08T05:38:43.834Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14730-yellowjackets-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14730-yellowjackets-saison1"/>
+        <updated>2022-05-08T17:41:19.325Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14722-chernobyl-saison1">Chernobyl - Saison 1<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14601-made-for-love-saison2">Made for Love - Saison 2<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14600-made-for-love-saison2">Made for Love - Saison 2<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14721-minx-saison1">Minx - Saison 1<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14720-minx-saison1">Minx - Saison 1<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14719-ozark-saison4">Ozark - Saison 4<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14718-para-les-saison1">Para//èles - Saison 1<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14717-the-innocents-saison1">The Innocents - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13348-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=13349-blacklist-saison9">Blacklist - Saison 9<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14730-yellowjackets-saison1">Yellowjackets - Saison 1<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14729-game-of-thrones-saison5">Game of Thrones - Saison 5<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14726-game-of-thrones-saison2">Game of Thrones - Saison 2<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14728-game-of-thrones-saison3">Game of Thrones - Saison 3<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14727-game-of-thrones-saison1">Game of Thrones - Saison 1<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14518-supergirl-saison6">Supergirl - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14520-supergirl-saison6">Supergirl - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14725-station-eleven-saison1">Station Eleven - Saison 1<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14724-reacher-saison1">Reacher - Saison 1<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14524-gaslit-saison1">Gaslit - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1052,12 +1052,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=film&amp;id=31459-ils-sont-vivants"><b>2</b> - Ils sont vivants<i> [WEB-DL 1080p] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31457-ils-sont-vivants"><b>3</b> - Ils sont vivants<i> [HDRIP] - FRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31458-ils-sont-vivants"><b>4</b> - Ils sont vivants<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31509-jumanji"><b>5</b> - Jumanji<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31504-jeremiah-johnson"><b>5</b> - Jeremiah Johnson<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
 															<li><a href="/?p=film&amp;id=31447-l-arm-e-des-12-singes"><b>6</b> - L'Armée des 12 singes<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31504-jeremiah-johnson"><b>7</b> - Jeremiah Johnson<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31433-oblivion"><b>8</b> - Oblivion<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31461-monty-python-sacr-graal"><b>9</b> - Monty Python, sacré Graal<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31481-en-attendant-bojangles"><b>10</b> - En Attendant Bojangles<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31509-jumanji"><b>7</b> - Jumanji<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31461-monty-python-sacr-graal"><b>8</b> - Monty Python, sacré Graal<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31425-chute-libre"><b>9</b> - Chute libre<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31432-ma-6-t-va-crack-er"><b>10</b> - Ma 6-T va crack-er<i> [DVDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
