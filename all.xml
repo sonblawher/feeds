@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sonblawher.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T05:46:21.436Z</updated>
+    <updated>2022-05-11T17:49:40.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
@@ -296,7 +296,7 @@
         <title type="html"><![CDATA[undefined (informatique)]]></title>
         <id>https://sonblawher.github.io/feeds/all.xml</id>
         <link href="https://sonblawher.github.io/feeds/all.xml"/>
-        <updated>2022-05-11T05:46:20.816Z</updated>
+        <updated>2022-05-11T17:49:39.558Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -470,9 +470,9 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=38334-canard-pc-hardware-n-52-avril-mai-2022"><i class="flag flag-fr"></i> Canard PC Hardware N°52 – Avril Mai 2022<i> [Magazines]</i> </a>
-											<div title="100% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">6 vote(s)</div>
+											<div title="88.888888888889% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 88.888888888889%;"></div>
+							<div class="progress-desc">9 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -519,7 +519,7 @@ Chaque trimestre, la référence des magazines informatiques et électroniques..
 					<a href="?p=ebook&amp;id=38296-programmez-n-252-mai-juin-2022"><i class="flag flag-fr"></i> Programmez N°252 – Mai-Juin 2022<i> [Magazines]</i> </a>
 											<div title="100% de Up" class="progress wa-like-bar">
 							<div class="progress-bar" style="width: 100%;"></div>
-							<div class="progress-desc">9 vote(s)</div>
+							<div class="progress-desc">10 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1006,59 +1006,59 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31605-pilote</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31605-pilote"/>
-        <updated>2022-05-11T05:46:20.820Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31615-les-animaux-fantastiques-les-secrets-de-dumbledore</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31615-les-animaux-fantastiques-les-secrets-de-dumbledore"/>
+        <updated>2022-05-11T17:49:39.563Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31605-pilote">Pilote<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31604-l-h-r-tique">L'Hérétique<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31603-minor-premise">Minor Premise<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31602-le-secret-de-la-cit-perdue">Le Secret de la cité perdue<i> [WEBRIP 1080p] - VOSTFR</i></a></li>
-															<li><a href="/?p=film&amp;id=31601-pilote">Pilote<i> [WEB-DL 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31600-pilote">Pilote<i> [WEB-DL 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31599-meilleurs-ennemis">Meilleurs ennemis<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31598-l-h-r-tique">L'Hérétique<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31597-l-h-r-tique">L'Hérétique<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31596-minor-premise">Minor Premise<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31615-les-animaux-fantastiques-les-secrets-de-dumbledore">Les Animaux Fantastiques : les Secrets de Dumbledore<i> [HDRIP MD] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=31614-harry-brown">Harry Brown<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31613-les-animaux-fantastiques-les-secrets-de-dumbledore">Les Animaux Fantastiques : les Secrets de Dumbledore<i> [WEB-DL MD 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=31612-le-secret-de-la-cit-perdue">Le Secret de la cité perdue<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31611-notre-p-re-tous">Notre père à tous<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31610-le-secret-de-la-cit-perdue">Le Secret de la cité perdue<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31609-le-secret-de-la-cit-perdue">Le Secret de la cité perdue<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31608-notre-p-re-tous">Notre père à tous<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31607-notre-p-re-tous">Notre père à tous<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31606-le-secret-de-la-cit-perdue">Le Secret de la cité perdue<i> [HDRIP] - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14743-breaking-bad-saison5</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14743-breaking-bad-saison5"/>
-        <updated>2022-05-11T05:46:20.822Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14759-hawkeye-saison1</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14759-hawkeye-saison1"/>
+        <updated>2022-05-11T17:49:39.566Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14743-breaking-bad-saison5">Breaking Bad - Saison 5<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14742-breaking-bad-saison4">Breaking Bad - Saison 4<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14741-breaking-bad-saison3">Breaking Bad - Saison 3<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=10523-les-petits-meurtres-d-agatha-christie-saison3">Les Petits meurtres d'Agatha Christie - Saison 3<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=10522-les-petits-meurtres-d-agatha-christie-saison3">Les Petits meurtres d'Agatha Christie - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14740-breaking-bad-saison2">Breaking Bad - Saison 2<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14739-breaking-bad-saison1">Breaking Bad - Saison 1<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14630-visitors-saison1">Visitors - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14470-4400-2021-saison1">4400 (2021) - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14629-visitors-saison1">Visitors - Saison 1<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14759-hawkeye-saison1">Hawkeye - Saison 1<i> - MULTI 4K UHD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14532-tandem-saison6">Tandem - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14251-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14249-the-endgame-saison1">The Endgame - Saison 1<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14531-tandem-saison6">Tandem - Saison 6<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4">The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14758-18h30-saison2">18h30 - Saison 2<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14720-minx-saison1">Minx - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14721-minx-saison1">Minx - Saison 1<i> - VOSTFR HD</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (informatique)]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31539-belfast</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31539-belfast"/>
-        <updated>2022-05-09T17:46:54.284Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31612-le-secret-de-la-cit-perdue</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31612-le-secret-de-la-cit-perdue"/>
+        <updated>2022-05-11T17:49:39.567Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31539-belfast"><b>1</b> - Belfast<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31562-the-game"><b>2</b> - The Game<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31577-fant-mas"><b>3</b> - Fantômas<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31531-en-attendant-bojangles"><b>4</b> - En Attendant Bojangles<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31554-ghost-in-the-shell-sac-2045-sustainable-war"><b>5</b> - Ghost in the Shell: SAC_2045 Sustainable War<i> [WEBRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31612-le-secret-de-la-cit-perdue"><b>1</b> - Le Secret de la cité perdue<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31531-en-attendant-bojangles"><b>2</b> - En Attendant Bojangles<i> [BDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31562-the-game"><b>3</b> - The Game<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31577-fant-mas"><b>4</b> - Fantômas<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31539-belfast"><b>5</b> - Belfast<i> [BDRIP] - TRUEFRENCH</i></a></li>
 															<li><a href="/?p=film&amp;id=31544-jackie-brown"><b>6</b> - Jackie Brown<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31556-ghost-in-the-shell-sac-2045-sustainable-war"><b>7</b> - Ghost in the Shell: SAC_2045 Sustainable War<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31563-jumanji"><b>8</b> - Jumanji<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31578-fant-mas-contre-scotland-yard"><b>9</b> - Fantômas contre Scotland Yard<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31579-fant-mas-se-d-cha-ne"><b>10</b> - Fantômas se déchaîne<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31537-comment-tuer-son-boss"><b>7</b> - Comment tuer son Boss ?<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31538-comment-tuer-son-boss-2"><b>8</b> - Comment tuer son boss 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31542-belfast"><b>9</b> - Belfast<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31554-ghost-in-the-shell-sac-2045-sustainable-war"><b>10</b> - Ghost in the Shell: SAC_2045 Sustainable War<i> [WEBRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1072,12 +1072,12 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
 															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>2</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>3</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14483-better-call-saul-saison6"><b>4</b> - Better Call Saul - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=14301-un-soup-on-de-magie-saison7"><b>5</b> - Un Soupçon de magie - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=10522-les-petits-meurtres-d-agatha-christie-saison3"><b>6</b> - Les Petits meurtres d'Agatha Christie - Saison 3<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14481-better-call-saul-saison6"><b>7</b> - Better Call Saul - Saison 6<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1"><b>8</b> - FBI: International - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13029-the-rookie-le-flic-de-los-angeles-saison4"><b>9</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14447-raised-by-wolves-2020-saison2"><b>10</b> - Raised By Wolves (2020) - Saison 2<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=10522-les-petits-meurtres-d-agatha-christie-saison3"><b>5</b> - Les Petits meurtres d'Agatha Christie - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1"><b>6</b> - FBI: International - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>7</b> - Tandem - Saison 6<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14301-un-soup-on-de-magie-saison7"><b>8</b> - Un Soupçon de magie - Saison 7<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14467-most-wanted-criminals-saison3"><b>9</b> - Most Wanted Criminals - Saison 3<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14481-better-call-saul-saison6"><b>10</b> - Better Call Saul - Saison 6<i> - VF HD</i></a></li>
 													</ul>]]></content>
     </entry>
 </feed>
