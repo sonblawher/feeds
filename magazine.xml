@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
     <title>informatique</title>
-    <updated>2022-05-12T05:45:34.499Z</updated>
+    <updated>2022-05-12T17:47:30.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wawacity.one/favicon32.png</icon>
     <entry>
@@ -297,7 +297,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique</id>
         <link href="https://www.wawacity.one/?p=ebooks&amp;s=magazines&amp;genre=informatique"/>
-        <updated>2022-05-12T05:45:33.732Z</updated>
+        <updated>2022-05-12T17:47:29.566Z</updated>
         <content type="html"><![CDATA[<h1 class="wa-block-title"> <span><i class="fa fa-reorder"></i> <a>Ebooks</a>
 					» <a>Magazines</a>
 		 			<!--<a class="rss-link fa fa-rss-square" title="Flux RSS" href="#?rss"></a>-->
@@ -471,9 +471,9 @@
 								<div class="wa-sub-block wa-post-detail-item">
 				<div class="wa-sub-block-title">
 					<a href="?p=ebook&amp;id=38334-canard-pc-hardware-n-52-avril-mai-2022"><i class="flag flag-fr"></i> Canard PC Hardware N°52 – Avril Mai 2022<i> [Magazines]</i> </a>
-											<div title="90% de Up" class="progress wa-like-bar">
-							<div class="progress-bar" style="width: 90%;"></div>
-							<div class="progress-desc">10 vote(s)</div>
+											<div title="91.666666666667% de Up" class="progress wa-like-bar">
+							<div class="progress-bar" style="width: 91.666666666667%;"></div>
+							<div class="progress-desc">12 vote(s)</div>
 						</div>
 									</div>
 				<div style="position:relative" class="content row">
@@ -1007,40 +1007,40 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
-        <id>https://www.wawacity.one/?p=film&amp;id=31626-clean</id>
-        <link href="https://www.wawacity.one/?p=film&amp;id=31626-clean"/>
-        <updated>2022-05-12T05:45:33.733Z</updated>
+        <id>https://www.wawacity.one/?p=film&amp;id=31636-adieu-monsieur-haffmann</id>
+        <link href="https://www.wawacity.one/?p=film&amp;id=31636-adieu-monsieur-haffmann"/>
+        <updated>2022-05-12T17:47:29.570Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-film"></i> Derniers films ajoutés</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=film&amp;id=31626-clean">Clean<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31625-clean">Clean<i> [BLU-RAY 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31624-clean">Clean<i> [BLU-RAY 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31623-clean">Clean<i> [HDLIGHT 1080p] - MULTI (FRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31622-clean">Clean<i> [HDLIGHT 720p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31621-zero-dark-thirty">Zero Dark Thirty<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31620-thor-le-monde-des-t-n-bres">Thor : Le Monde des ténèbres<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31619-bernard-et-bianca-au-pays-des-kangourous">Bernard et Bianca au pays des kangourous<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31618-oliver-et-compagnie">Oliver et compagnie<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31617-baywatch-alerte-malibu">Baywatch - Alerte à Malibu<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31636-adieu-monsieur-haffmann">Adieu Monsieur Haffmann<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31635-adieu-monsieur-haffmann">Adieu Monsieur Haffmann<i> [WEB-DL 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31634-adieu-monsieur-haffmann">Adieu Monsieur Haffmann<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31633-the-northman">The Northman<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31632-the-northman">The Northman<i> [WEB-DL 1080p] - MULTI (FRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31631-the-northman">The Northman<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31630-the-northman">The Northman<i> [HDRIP] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=31629-the-northman">The Northman<i> [WEB-DL 1080p] - VOSTFR</i></a></li>
+															<li><a href="/?p=film&amp;id=31628-the-northman">The Northman<i> [WEB-DL 1080p] - VO</i></a></li>
+															<li><a href="/?p=film&amp;id=31627-the-northman">The Northman<i> [WEBRIP] - VO</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
-        <id>https://www.wawacity.one/?p=serie&amp;id=14761-the-witcher-saison2</id>
-        <link href="https://www.wawacity.one/?p=serie&amp;id=14761-the-witcher-saison2"/>
-        <updated>2022-05-12T05:45:33.735Z</updated>
+        <id>https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19</id>
+        <link href="https://www.wawacity.one/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19"/>
+        <updated>2022-05-12T17:47:29.571Z</updated>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-desktop"></i> Dernières séries ajoutées</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
-															<li><a href="/?p=serie&amp;id=14761-the-witcher-saison2">The Witcher - Saison 2<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14760-the-witcher-saison1">The Witcher - Saison 1<i> - MULTI 4K UHD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12556-les-l-gendes-des-studios-marvel-saison1">Les Légendes des studios Marvel - Saison 1<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12555-les-l-gendes-des-studios-marvel-saison1">Les Légendes des studios Marvel - Saison 1<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=14424-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=12884-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=14425-new-york-crime-organis-saison2">New York Crime Organisé - Saison 2<i> - VF HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12883-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VOSTFR HD</i></a></li>
-															<li><a href="/?p=serie&amp;id=12786-new-amsterdam-2018-saison4">New Amsterdam (2018) - Saison 4<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3">9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14188-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14189-ncis-enqu-tes-sp-ciales-saison19">NCIS : Enquêtes spéciales - Saison 19<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14774-the-staircase-saison1">The Staircase - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14141-koh-lanta-saison23">Koh-Lanta - Saison 23<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=12821-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14601-made-for-love-saison2">Made for Love - Saison 2<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=12822-chicago-fire-saison10">Chicago Fire - Saison 10<i> - VOSTFR HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=14773-the-staircase-saison1">The Staircase - Saison 1<i> - VF</i></a></li>
+															<li><a href="/?p=serie&amp;id=14772-the-responder-saison1">The Responder - Saison 1<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=14771-savage-beauty-saison1">Savage Beauty - Saison 1<i> - VOSTFR</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1051,15 +1051,15 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[films]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=film&amp;id=31531-en-attendant-bojangles"><b>1</b> - En Attendant Bojangles<i> [BDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31612-le-secret-de-la-cit-perdue"><b>2</b> - Le Secret de la cité perdue<i> [HDRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31539-belfast"><b>3</b> - Belfast<i> [BDRIP] - TRUEFRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31562-the-game"><b>4</b> - The Game<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31577-fant-mas"><b>5</b> - Fantômas<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31544-jackie-brown"><b>6</b> - Jackie Brown<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31554-ghost-in-the-shell-sac-2045-sustainable-war"><b>7</b> - Ghost in the Shell: SAC_2045 Sustainable War<i> [WEBRIP] - FRENCH</i></a></li>
-															<li><a href="/?p=film&amp;id=31537-comment-tuer-son-boss"><b>8</b> - Comment tuer son Boss ?<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31538-comment-tuer-son-boss-2"><b>9</b> - Comment tuer son boss 2<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
-															<li><a href="/?p=film&amp;id=31542-belfast"><b>10</b> - Belfast<i> [BLU-RAY 720p] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31539-belfast"><b>2</b> - Belfast<i> [BDRIP] - TRUEFRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31584-trois-fois-rien"><b>3</b> - Trois fois rien<i> [HDRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31544-jackie-brown"><b>4</b> - Jackie Brown<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31554-ghost-in-the-shell-sac-2045-sustainable-war"><b>5</b> - Ghost in the Shell: SAC_2045 Sustainable War<i> [WEBRIP] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31562-the-game"><b>6</b> - The Game<i> [HDLIGHT 1080p] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31577-fant-mas"><b>7</b> - Fantômas<i> [HDLIGHT 1080p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31581-trois-fois-rien"><b>8</b> - Trois fois rien<i> [WEB-DL 720p] - FRENCH</i></a></li>
+															<li><a href="/?p=film&amp;id=31621-zero-dark-thirty"><b>9</b> - Zero Dark Thirty<i> [4K LIGHT] - MULTI (TRUEFRENCH)</i></a></li>
+															<li><a href="/?p=film&amp;id=31534-sibel"><b>10</b> - Sibel<i> [HDRIP] - FRENCH</i></a></li>
 													</ul>]]></content>
     </entry>
     <entry>
@@ -1070,11 +1070,11 @@ Le magazine traite de sujets concernant aussi bien Microsoft Wi...</p>
         <content type="html"><![CDATA[<div class="wa-block-title"><i class="fa fa-trophy"></i> <small>[séries]</small> Top 10 de la semaine</div>
 						<ul class="nav nav-pills nav-stacked wa-nav readable-post-list">
 															<li><a href="/?p=serie&amp;id=14448-raised-by-wolves-2020-saison2"><b>1</b> - Raised By Wolves (2020) - Saison 2<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>2</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>3</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13030-the-rookie-le-flic-de-los-angeles-saison4"><b>2</b> - The Rookie : le flic de Los Angeles - Saison 4<i> - VOSTFR</i></a></li>
+															<li><a href="/?p=serie&amp;id=13088-fear-the-walking-dead-saison7"><b>3</b> - Fear The Walking Dead - Saison 7<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14483-better-call-saul-saison6"><b>4</b> - Better Call Saul - Saison 6<i> - VF</i></a></li>
-															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3"><b>5</b> - 9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
-															<li><a href="/?p=serie&amp;id=10522-les-petits-meurtres-d-agatha-christie-saison3"><b>6</b> - Les Petits meurtres d'Agatha Christie - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=10522-les-petits-meurtres-d-agatha-christie-saison3"><b>5</b> - Les Petits meurtres d'Agatha Christie - Saison 3<i> - VF HD</i></a></li>
+															<li><a href="/?p=serie&amp;id=13836-9-1-1-lone-star-saison3"><b>6</b> - 9-1-1: Lone Star - Saison 3<i> - VOSTFR</i></a></li>
 															<li><a href="/?p=serie&amp;id=14232-fbi-international-saison1"><b>7</b> - FBI: International - Saison 1<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14532-tandem-saison6"><b>8</b> - Tandem - Saison 6<i> - VF</i></a></li>
 															<li><a href="/?p=serie&amp;id=14467-most-wanted-criminals-saison3"><b>9</b> - Most Wanted Criminals - Saison 3<i> - VF</i></a></li>
